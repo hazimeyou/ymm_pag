@@ -1,0 +1,984 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ymm_pag/1.0.0": {
+        "dependencies": {
+          "SharpGen.Runtime.COM": "2.0.0.0",
+          "SharpGen.Runtime": "2.0.0.0",
+          "Vortice.Direct2D1": "2.1.8.0",
+          "Vortice.DirectX": "2.1.8.0",
+          "Vortice.Mathematics": "1.4.0.0",
+          "YukkuriMovieMaker.Controls": "1.0.0.0",
+          "YukkuriMovieMaker.Plugin": "1.0.0.0"
+        },
+        "runtime": {
+          "ymm_pag.dll": {}
+        }
+      },
+      "SharpGen.Runtime.COM/2.0.0.0": {
+        "runtime": {
+          "SharpGen.Runtime.COM.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "SharpGen.Runtime/2.0.0.0": {
+        "runtime": {
+          "SharpGen.Runtime.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "Vortice.Direct2D1/2.1.8.0": {
+        "runtime": {
+          "Vortice.Direct2D1.dll": {
+            "assemblyVersion": "2.1.8.0",
+            "fileVersion": "2.1.8.0"
+          }
+        }
+      },
+      "Vortice.DirectX/2.1.8.0": {
+        "runtime": {
+          "Vortice.DirectX.dll": {
+            "assemblyVersion": "2.1.8.0",
+            "fileVersion": "2.1.8.0"
+          }
+        }
+      },
+      "Vortice.Mathematics/1.4.0.0": {
+        "runtime": {
+          "Vortice.Mathematics.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.12.16505"
+          }
+        }
+      },
+      "YukkuriMovieMaker.Controls/1.0.0.0": {
+        "runtime": {
+          "YukkuriMovieMaker.Controls.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "YukkuriMovieMaker.Plugin/1.0.0.0": {
+        "runtime": {
+          "YukkuriMovieMaker.Plugin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "resources": {
+          "ar-sa/YukkuriMovieMaker.Plugin.resources.dll": {
+            "locale": "ar-sa"
+          },
+          "en-us/YukkuriMovieMaker.Plugin.resources.dll": {
+            "locale": "en-us"
+          },
+          "es-es/YukkuriMovieMaker.Plugin.resources.dll": {
+            "locale": "es-es"
+          },
+          "id-id/YukkuriMovieMaker.Plugin.resources.dll": {
+            "locale": "id-id"
+          },
+          "ko-kr/YukkuriMovieMaker.Plugin.resources.dll": {
+            "locale": "ko-kr"
+          },
+          "zh-cn/YukkuriMovieMaker.Plugin.resources.dll": {
+            "locale": "zh-cn"
+          },
+          "zh-tw/YukkuriMovieMaker.Plugin.resources.dll": {
+            "locale": "zh-tw"
+          }
+        }
+      },
+      "Vortice.DXGI/2.1.8.0": {
+        "runtime": {
+          "Vortice.DXGI.dll": {
+            "assemblyVersion": "2.1.8.0",
+            "fileVersion": "2.1.8.0"
+          }
+        }
+      },
+      "PresentationFramework/9.0.0.0": {
+        "runtime": {
+          "PresentationFramework.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11304"
+          }
+        },
+        "resources": {
+          "es/PresentationFramework.resources.dll": {
+            "locale": "es"
+          },
+          "ja/PresentationFramework.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/PresentationFramework.resources.dll": {
+            "locale": "ko"
+          }
+        }
+      },
+      "PresentationCore/9.0.0.0": {
+        "runtime": {
+          "PresentationCore.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11304"
+          }
+        },
+        "resources": {
+          "es/PresentationCore.resources.dll": {
+            "locale": "es"
+          },
+          "ja/PresentationCore.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/PresentationCore.resources.dll": {
+            "locale": "ko"
+          }
+        }
+      },
+      "System.ServiceProcess.ServiceController/9.0.0.3": {
+        "runtime": {
+          "System.ServiceProcess.ServiceController.dll": {
+            "assemblyVersion": "9.0.0.3",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "System.Xaml/9.0.0.0": {
+        "runtime": {
+          "System.Xaml.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11304"
+          }
+        },
+        "resources": {
+          "es/System.Xaml.resources.dll": {
+            "locale": "es"
+          },
+          "ja/System.Xaml.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/System.Xaml.resources.dll": {
+            "locale": "ko"
+          }
+        }
+      },
+      "ICSharpCode.AvalonEdit/6.3.0.90": {
+        "runtime": {
+          "ICSharpCode.AvalonEdit.dll": {
+            "assemblyVersion": "6.3.0.90",
+            "fileVersion": "6.3.0.90"
+          }
+        }
+      },
+      "System.Windows.Forms/9.0.0.0": {
+        "runtime": {
+          "System.Windows.Forms.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11202"
+          }
+        },
+        "resources": {
+          "es/System.Windows.Forms.resources.dll": {
+            "locale": "es"
+          },
+          "ja/System.Windows.Forms.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/System.Windows.Forms.resources.dll": {
+            "locale": "ko"
+          }
+        }
+      },
+      "NCalc.Sync/5.4.0.0": {
+        "runtime": {
+          "NCalc.Sync.dll": {
+            "assemblyVersion": "5.4.0.0",
+            "fileVersion": "5.4.1.3"
+          }
+        }
+      },
+      "NCalc.Core/5.4.0.0": {
+        "runtime": {
+          "NCalc.Core.dll": {
+            "assemblyVersion": "5.4.0.0",
+            "fileVersion": "5.4.1.3"
+          }
+        }
+      },
+      "Microsoft.Xaml.Behaviors/1.1.0.0": {
+        "runtime": {
+          "Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.135.29210"
+          }
+        }
+      },
+      "System.Drawing.Common/9.0.0.0": {
+        "runtime": {
+          "System.Drawing.Common.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11202"
+          }
+        }
+      },
+      "Microsoft.Windows.SDK.NET/10.0.19041.38": {
+        "runtime": {
+          "Microsoft.Windows.SDK.NET.dll": {
+            "assemblyVersion": "10.0.19041.38",
+            "fileVersion": "10.0.19041.55"
+          }
+        }
+      },
+      "Vortice.Direct3D11/2.1.8.0": {
+        "runtime": {
+          "Vortice.Direct3D11.dll": {
+            "assemblyVersion": "2.1.8.0",
+            "fileVersion": "2.1.8.0"
+          }
+        }
+      },
+      "Vortice.MediaFoundation/2.1.8.0": {
+        "runtime": {
+          "Vortice.MediaFoundation.dll": {
+            "assemblyVersion": "2.1.8.0",
+            "fileVersion": "2.1.8.0"
+          }
+        }
+      },
+      "System.Management/9.0.0.3": {
+        "runtime": {
+          "System.Management.dll": {
+            "assemblyVersion": "9.0.0.3",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "MathNet.Numerics/5.0.0.0": {
+        "runtime": {
+          "MathNet.Numerics.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "UIAutomationProvider/9.0.0.0": {
+        "runtime": {
+          "UIAutomationProvider.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11304"
+          }
+        },
+        "resources": {
+          "es/UIAutomationProvider.resources.dll": {
+            "locale": "es"
+          },
+          "ja/UIAutomationProvider.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/UIAutomationProvider.resources.dll": {
+            "locale": "ko"
+          }
+        }
+      },
+      "UIAutomationTypes/9.0.0.0": {
+        "runtime": {
+          "UIAutomationTypes.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11304"
+          }
+        },
+        "resources": {
+          "es/UIAutomationTypes.resources.dll": {
+            "locale": "es"
+          },
+          "ja/UIAutomationTypes.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/UIAutomationTypes.resources.dll": {
+            "locale": "ko"
+          }
+        }
+      },
+      "ReachFramework/9.0.0.0": {
+        "runtime": {
+          "ReachFramework.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11304"
+          }
+        },
+        "resources": {
+          "es/ReachFramework.resources.dll": {
+            "locale": "es"
+          },
+          "ja/ReachFramework.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/ReachFramework.resources.dll": {
+            "locale": "ko"
+          }
+        }
+      },
+      "System.Printing/9.0.0.0": {
+        "runtime": {
+          "System.Printing.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11304"
+          }
+        }
+      },
+      "System.IO.Packaging/9.0.0.0": {
+        "runtime": {
+          "System.IO.Packaging.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "PresentationUI/9.0.0.0": {
+        "runtime": {
+          "PresentationUI.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11304"
+          }
+        },
+        "resources": {
+          "es/PresentationUI.resources.dll": {
+            "locale": "es"
+          },
+          "ja/PresentationUI.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/PresentationUI.resources.dll": {
+            "locale": "ko"
+          }
+        }
+      },
+      "System.Configuration.ConfigurationManager/9.0.0.0": {
+        "runtime": {
+          "System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "System.Windows.Extensions/9.0.0.0": {
+        "runtime": {
+          "System.Windows.Extensions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "Accessibility/4.0.0.0": {
+        "runtime": {
+          "Accessibility.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "9.0.325.11202"
+          }
+        }
+      },
+      "System.Formats.Nrbf/9.0.0.0": {
+        "runtime": {
+          "System.Formats.Nrbf.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "DirectWriteForwarder/9.0.0.0": {
+        "runtime": {
+          "DirectWriteForwarder.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11304"
+          }
+        }
+      },
+      "System.Windows.Input.Manipulations/9.0.0.0": {
+        "runtime": {
+          "System.Windows.Input.Manipulations.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11304"
+          }
+        },
+        "resources": {
+          "es/System.Windows.Input.Manipulations.resources.dll": {
+            "locale": "es"
+          },
+          "ja/System.Windows.Input.Manipulations.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/System.Windows.Input.Manipulations.resources.dll": {
+            "locale": "ko"
+          }
+        }
+      },
+      "System.Diagnostics.EventLog/9.0.0.0": {
+        "runtime": {
+          "System.Diagnostics.EventLog.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "System.Security.Permissions/9.0.0.0": {
+        "runtime": {
+          "System.Security.Permissions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "System.Private.Windows.Core/9.0.0.0": {
+        "runtime": {
+          "System.Private.Windows.Core.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11202"
+          }
+        }
+      },
+      "System.Windows.Forms.Primitives/9.0.0.0": {
+        "runtime": {
+          "System.Windows.Forms.Primitives.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11202"
+          }
+        },
+        "resources": {
+          "es/System.Windows.Forms.Primitives.resources.dll": {
+            "locale": "es"
+          },
+          "ja/System.Windows.Forms.Primitives.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/System.Windows.Forms.Primitives.resources.dll": {
+            "locale": "ko"
+          }
+        }
+      },
+      "Microsoft.Win32.SystemEvents/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "ExtendedNumerics.BigDecimal/3000.0.3.40": {
+        "runtime": {
+          "ExtendedNumerics.BigDecimal.dll": {
+            "assemblyVersion": "3000.0.3.40",
+            "fileVersion": "3000.0.3.40"
+          }
+        }
+      },
+      "Microsoft.Extensions.ObjectPool/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.ObjectPool.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6704"
+          }
+        }
+      },
+      "Parlot/1.3.3.0": {
+        "runtime": {
+          "Parlot.dll": {
+            "assemblyVersion": "1.3.3.0",
+            "fileVersion": "1.3.3.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Console/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.Console.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.TraceSource/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.TraceSource.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "WinRT.Runtime/2.2.0.0": {
+        "runtime": {
+          "WinRT.Runtime.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.48161"
+          }
+        }
+      },
+      "System.CodeDom/9.0.0.0": {
+        "runtime": {
+          "System.CodeDom.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "System.Security.Cryptography.Xml/9.0.0.0": {
+        "runtime": {
+          "System.Security.Cryptography.Xml.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "System.DirectoryServices/9.0.0.0": {
+        "runtime": {
+          "System.DirectoryServices.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/9.0.0.0": {
+        "runtime": {
+          "System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Binder/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Configuration.Binder.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Configuration/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.Configuration.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options.ConfigurationExtensions/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Options.ConfigurationExtensions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "System.Security.Cryptography.Pkcs/9.0.0.0": {
+        "runtime": {
+          "System.Security.Cryptography.Pkcs.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Configuration.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ymm_pag/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpGen.Runtime.COM/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpGen.Runtime/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vortice.Direct2D1/2.1.8.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vortice.DirectX/2.1.8.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vortice.Mathematics/1.4.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YukkuriMovieMaker.Controls/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YukkuriMovieMaker.Plugin/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vortice.DXGI/2.1.8.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PresentationFramework/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PresentationCore/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.ServiceProcess.ServiceController/9.0.0.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Xaml/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ICSharpCode.AvalonEdit/6.3.0.90": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Windows.Forms/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NCalc.Sync/5.4.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NCalc.Core/5.4.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xaml.Behaviors/1.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Drawing.Common/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Windows.SDK.NET/10.0.19041.38": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vortice.Direct3D11/2.1.8.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vortice.MediaFoundation/2.1.8.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Management/9.0.0.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathNet.Numerics/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UIAutomationProvider/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UIAutomationTypes/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReachFramework/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Printing/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.IO.Packaging/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PresentationUI/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Configuration.ConfigurationManager/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Windows.Extensions/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accessibility/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Formats.Nrbf/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DirectWriteForwarder/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Windows.Input.Manipulations/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Diagnostics.EventLog/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Security.Permissions/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Private.Windows.Core/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Windows.Forms.Primitives/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Win32.SystemEvents/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExtendedNumerics.BigDecimal/3000.0.3.40": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.ObjectPool/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Parlot/1.3.3.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging.Abstractions/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging.Console/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging.TraceSource/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinRT.Runtime/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.CodeDom/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Security.Cryptography.Xml/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.DirectoryServices/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Security.Cryptography.ProtectedData/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Options/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration.Binder/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging.Configuration/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Primitives/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Options.ConfigurationExtensions/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Security.Cryptography.Pkcs/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

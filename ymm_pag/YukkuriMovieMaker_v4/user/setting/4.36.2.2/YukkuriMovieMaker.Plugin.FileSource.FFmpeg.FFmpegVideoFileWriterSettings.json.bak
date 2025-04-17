@@ -1,0 +1,53 @@
+﻿{
+  "Category": "None",
+  "Width": 0,
+  "Height": 0,
+  "FPS": 0,
+  "Hz": 0,
+  "Length": 0,
+  "VideoBitRateMode": "Auto",
+  "VideoBitRateControlMode": "CBR",
+  "VideoBitRate": 10000,
+  "VideoQuality": 55,
+  "AudioBitRate": "kb192",
+  "VideoOptions": "",
+  "AudioOptions": "",
+  "PresetVersion": 1,
+  "Presets": [
+    {
+      "Name": "AVI",
+      "VideoOptions": "-c:v rawvideo -f avi",
+      "AudioOptions": "-c:a mp3 -f avi"
+    },
+    {
+      "Name": "GIF",
+      "VideoOptions": "-c:v gif -f gif",
+      "AudioOptions": "-f null"
+    },
+    {
+      "Name": "MP3",
+      "VideoOptions": "-f null",
+      "AudioOptions": "-c mp3 -f mp3"
+    },
+    {
+      "Name": "MP4 / AV1+AAC",
+      "VideoOptions": "-c:v libsvtav1 -f mp4",
+      "AudioOptions": "-c:a aac -f mp4"
+    },
+    {
+      "Name": "MP4 / H.264+AAC",
+      "VideoOptions": "-c:v h264 -f mp4",
+      "AudioOptions": "-c:a aac -f mp4"
+    },
+    {
+      "Name": "MP4 / VP9+AAC",
+      "VideoOptions": "-c:v vp9 -f mp4",
+      "AudioOptions": "-c:a aac -f mp4"
+    },
+    {
+      "Name": "WebP",
+      "VideoOptions": "-c:v webp -f webp",
+      "AudioOptions": "-f null"
+    }
+  ]
+}

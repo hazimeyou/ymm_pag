@@ -1,0 +1,24 @@
+﻿{
+  "Category": "Voice",
+  "KeyJsonPath": null,
+  "Speakers": [
+    "ja-JP-Standard-A",
+    "ja-JP-Standard-B",
+    "ja-JP-Standard-C",
+    "ja-JP-Standard-D",
+    "ja-JP-Wavenet-A",
+    "ja-JP-Wavenet-B",
+    "ja-JP-Wavenet-C",
+    "ja-JP-Wavenet-D",
+    "ja-JP-Neural2-B",
+    "ja-JP-Neural2-C",
+    "ja-JP-Neural2-D",
+    "en-US-Standard-A",
+    "en-US-Standard-C",
+    "en-US-Wavenet-A",
+    "en-US-Wavenet-C",
+    "en-US-Neural2-A",
+    "en-US-Studio-O",
+    "en-US-Studio-Q"
+  ]
+}

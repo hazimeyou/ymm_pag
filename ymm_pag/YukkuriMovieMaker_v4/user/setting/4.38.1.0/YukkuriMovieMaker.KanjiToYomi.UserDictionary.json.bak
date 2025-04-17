@@ -1,0 +1,873 @@
+﻿{
+  "AsteriskWordSets": [
+    {
+      "IsEnabled": false,
+      "From": "Twitter",
+      "To": "𝕏",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "Twitterを𝕏に書き換える"
+    },
+    {
+      "IsEnabled": false,
+      "From": "うんち",
+      "To": "う◯ち",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "不適切な単語を伏せ字にする"
+    }
+  ],
+  "WordSets": [
+    {
+      "IsEnabled": false,
+      "From": "([0-9]{2}):([0-9]{2}):([0-9]{2})\\.([0-9]{3})",
+      "To": "$1時$2分$3秒$4ミリ秒",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "日時"
+    },
+    {
+      "IsEnabled": false,
+      "From": "([0-9]{2,4})/([0-9]{1,2})/([0-9]{1,2})",
+      "To": "$1年$2月$3日",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "日時"
+    },
+    {
+      "IsEnabled": false,
+      "From": "([0-9]{2}):([0-9]{2}):([0-9]{2})",
+      "To": "$1時$2分$3秒",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "日時"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(ゆっくり|Yukkuri) ?Movie ?Maker",
+      "To": "ゆっくりムービーメーカー",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "YMM4関連"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])d[lLℓ](?![a-z])",
+      "To": "デシリットル",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/リットル"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])m[lLℓ](?![a-z])",
+      "To": "ミリリットル",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/リットル"
+    },
+    {
+      "IsEnabled": false,
+      "From": "([0-9]{1,2})/([0-9]{1,2})",
+      "To": "$1月$2日",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "日時"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])[Kk]B(?![a-z])",
+      "To": "キロバイト",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/バイト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])[lLℓ](?![a-z])",
+      "To": "リットル",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/リットル"
+    },
+    {
+      "IsEnabled": true,
+      "From": "Style[- ]?Bert[- ]?VITS2",
+      "To": "スタイルバートビッツツー",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])byte(?![a-z])",
+      "To": "バイト",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/バイト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])kcal(?![a-z])",
+      "To": "キロカロリー",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/カロリー"
+    },
+    {
+      "IsEnabled": true,
+      "From": "CeVIO ?Creative ?Studio",
+      "To": "チェビオクリエイティブスタジオ",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])bit(?![a-z])",
+      "To": "ビット",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/バイト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])cal(?![a-z])",
+      "To": "カロリー",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/カロリー"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])GHz(?![a-z])",
+      "To": "ギガヘルツ",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/ヘルツ"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])GiB(?![a-z])",
+      "To": "ギビバイト",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/バイト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])kHz(?![a-z])",
+      "To": "キロヘルツ",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/ヘルツ"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])KiB(?![a-z])",
+      "To": "キビバイト",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/バイト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])MHz(?![a-z])",
+      "To": "メガヘルツ",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/ヘルツ"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])MiB(?![a-z])",
+      "To": "メビバイト",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/バイト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])PiB(?![a-z])",
+      "To": "ペビバイト",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/バイト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])TiB(?![a-z])",
+      "To": "テビバイト",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/バイト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])cm(?![a-z])",
+      "To": "センチメートル",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/メートル"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])dB(?![a-z])",
+      "To": "デシベル",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/デシベル"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])GB(?![a-z])",
+      "To": "ギガバイト",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/バイト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])Hz(?![a-z])",
+      "To": "ヘルツ",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/ヘルツ"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])kg(?![a-z])",
+      "To": "キログラム",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/グラム"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])km(?![a-z])",
+      "To": "キロメートル",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/メートル"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])MB(?![a-z])",
+      "To": "メガバイト",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/バイト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])mg(?![a-z])",
+      "To": "ミリグラム",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/グラム"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])mm(?![a-z])",
+      "To": "ミリメートル",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/メートル"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])PB(?![a-z])",
+      "To": "ペタバイト",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/バイト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])pt(?![a-z])",
+      "To": "ポイント",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/ポイント"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])px(?![a-z])",
+      "To": "ピクセル",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/ピクセル"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])TB(?![a-z])",
+      "To": "テラバイト",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/バイト"
+    },
+    {
+      "IsEnabled": false,
+      "From": "([0-9]{2}):([0-9]{2})",
+      "To": "$1時$2分",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "日時"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])g(?![a-z])",
+      "To": "グラム",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/グラム"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])m(?![a-z])",
+      "To": "メートル",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/メートル"
+    },
+    {
+      "IsEnabled": true,
+      "From": "(?<=[0-9])t(?![a-z])",
+      "To": "トン",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "単位/グラム"
+    },
+    {
+      "IsEnabled": true,
+      "From": "Text[- ]to[- ]Speech",
+      "To": "テキストトゥースピーチ",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "音声合成一般"
+    },
+    {
+      "IsEnabled": false,
+      "From": "([0-9]+)\\^([0-9]+)",
+      "To": "$1の$2乗",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "計算式"
+    },
+    {
+      "IsEnabled": false,
+      "From": "([0-9]+)/([0-9]+)",
+      "To": "$2分の$1",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "計算式"
+    },
+    {
+      "IsEnabled": true,
+      "From": "Microsoft ?Azure",
+      "To": "マイクロソフトアジュール",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "Bert[- ]?VITS2",
+      "To": "バートビッツツー",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "Synthesizer ?V",
+      "To": "シンセサイザーブイ",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "VOICEVOX ?Nemo",
+      "To": "ボイスボックスネモ",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "A\\.?I\\.?VOICE",
+      "To": "エーアイボイス",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "Amazon ?Polly",
+      "To": "アマゾンポリー",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "Google ?Cloud",
+      "To": "グーグルクラウド",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "！(?![、。,])",
+      "To": "！、",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "！マークの部分で一拍挟む"
+    },
+    {
+      "IsEnabled": true,
+      "From": "[【「『（\\(\\[]",
+      "To": ",",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "カッコの開始部分で半拍挟む"
+    },
+    {
+      "IsEnabled": true,
+      "From": "[】」』）\\)\\]]",
+      "To": "、",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "カッコの終了部分で一拍挟む"
+    },
+    {
+      "IsEnabled": true,
+      "From": "COEIROINK2",
+      "To": "コエイロインクツー",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "coestation",
+      "To": "コエステーション",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "AquesTalk",
+      "To": "アクエストーク",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "CeVIO ?AI",
+      "To": "チェビオエーアイ",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "CeVIO ?CS",
+      "To": "チェビオクリエイティブスタジオ",
+      "IsRegex": true,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "CoeAvatar",
+      "To": "コエアバター",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "COEIROINK",
+      "To": "コエイロインク",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "Koeiromap",
+      "To": "コエイロマップ",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "Koemotion",
+      "To": "コエモーション",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "OpenJTalk",
+      "To": "オープンジェートーク",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "VOICEPEAK",
+      "To": "ボイスピーク",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "VOICEROID",
+      "To": "ボイスロイド",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "ガイノイドTalk",
+      "To": "ガイノイドトーク",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "SHAREVOX",
+      "To": "シェアボックス",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "VOCALOID",
+      "To": "ボーカロイド",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "VOICEVOX",
+      "To": "ボイスボックス",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "coefont",
+      "To": "コエフォント",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "ITVOICE",
+      "To": "イタボイス",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "Megpoid",
+      "To": "メグッポイド",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "SofTalk",
+      "To": "ソフトーク",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "VoiSona",
+      "To": "ボイソナ",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "AITalk",
+      "To": "エーアイトーク",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "Amazon",
+      "To": "アマゾン",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "企業・団体"
+    },
+    {
+      "IsEnabled": true,
+      "From": "Aquest",
+      "To": "アクエスト",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "企業・団体"
+    },
+    {
+      "IsEnabled": true,
+      "From": "Google",
+      "To": "グーグル",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "企業・団体"
+    },
+    {
+      "IsEnabled": true,
+      "From": "LMROID",
+      "To": "レミロイド",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "OpenAI",
+      "To": "オープンエーアイ",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "企業・団体"
+    },
+    {
+      "IsEnabled": true,
+      "From": "SynthV",
+      "To": "シンスブイ",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "TALQu2",
+      "To": "トークツー",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "TALQu3",
+      "To": "トークスリー",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "よみてのれゐ",
+      "To": "ヨミテノレイ",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "CeVIO",
+      "To": "チェビオ",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "TALQu",
+      "To": "トーク",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "gdgd",
+      "To": "グダグダ",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "インターネットスラング"
+    },
+    {
+      "IsEnabled": true,
+      "From": "ktkr",
+      "To": "キタコレ",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "インターネットスラング"
+    },
+    {
+      "IsEnabled": true,
+      "From": "kwsk",
+      "To": "詳しく",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "インターネットスラング"
+    },
+    {
+      "IsEnabled": true,
+      "From": "Talk",
+      "To": "トーク",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成一般"
+    },
+    {
+      "IsEnabled": true,
+      "From": "UTAU",
+      "To": "ウタウ",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "wktk",
+      "To": "ワクテカ",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "インターネットスラング"
+    },
+    {
+      "IsEnabled": true,
+      "From": "饅頭遣い",
+      "To": "マンジュウツカイ",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "YMM4関連"
+    },
+    {
+      "IsEnabled": true,
+      "From": "うｐ主",
+      "To": "ウプヌシ",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "インターネットスラング"
+    },
+    {
+      "IsEnabled": true,
+      "From": "歌詠",
+      "To": "ウタヨミ",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "音声合成ソフト"
+    },
+    {
+      "IsEnabled": true,
+      "From": "・",
+      "To": ",",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": null
+    },
+    {
+      "IsEnabled": true,
+      "From": "‥",
+      "To": "、、",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": null
+    },
+    {
+      "IsEnabled": true,
+      "From": "…",
+      "To": "、、、",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": null
+    },
+    {
+      "IsEnabled": true,
+      "From": "&",
+      "To": "アンド",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "記号"
+    },
+    {
+      "IsEnabled": true,
+      "From": "＆",
+      "To": "アンド",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "記号"
+    },
+    {
+      "IsEnabled": true,
+      "From": "%",
+      "To": "パーセント",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "記号"
+    },
+    {
+      "IsEnabled": true,
+      "From": "％",
+      "To": "パーセント",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "記号"
+    },
+    {
+      "IsEnabled": true,
+      "From": "°",
+      "To": "度",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "記号"
+    },
+    {
+      "IsEnabled": true,
+      "From": "℃",
+      "To": "度",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "記号"
+    },
+    {
+      "IsEnabled": true,
+      "From": "～",
+      "To": "ー",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": null
+    }
+  ],
+  "PronouncingSets": [
+    {
+      "IsEnabled": true,
+      "From": "ゆっくり/むーびー/めーかー",
+      "To": "ゆっくり/むーびー/め'ーかー",
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "Description": "メーカーのメにアクセントを加える"
+    }
+  ],
+  "Category": "None"
+}

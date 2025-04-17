@@ -1,0 +1,21 @@
+﻿{
+  "LayerSettings": {
+    "Items": [
+      {
+        "Layer": 11,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": false,
+        "Volume": 0.0
+      },
+      {
+        "Layer": 3,
+        "Label": null,
+        "Color": "#00FFFFFF",
+        "IsHidden": true,
+        "Volume": 100.0
+      }
+    ]
+  },
+  "Category": "None"
+}

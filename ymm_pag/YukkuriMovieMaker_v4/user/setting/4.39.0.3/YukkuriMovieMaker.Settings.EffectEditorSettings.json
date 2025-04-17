@@ -1,0 +1,17 @@
+﻿{
+  "Category": "None",
+  "VideoEditorSize": {
+    "Width": 350.0,
+    "Height": 200.0,
+    "ListHeight": 182.0,
+    "ListSplitterOffset": 0.0,
+    "CategoryListWidth": 100.0
+  },
+  "AudioEditorSize": {
+    "Width": 350.0,
+    "Height": 200.0,
+    "ListHeight": 182.0,
+    "ListSplitterOffset": 0.0,
+    "CategoryListWidth": 100.0
+  }
+}

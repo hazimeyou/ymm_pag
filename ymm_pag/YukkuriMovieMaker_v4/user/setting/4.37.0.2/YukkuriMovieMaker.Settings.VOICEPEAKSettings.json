@@ -1,0 +1,16 @@
+﻿{
+  "Category": "Voice",
+  "Narrators": [
+    {
+      "Name": "Otomachi Una",
+      "Emotions": [
+        "joy",
+        "sad",
+        "angry",
+        "sasayaki",
+        "genki"
+      ]
+    }
+  ],
+  "ExePath": "C:\\Program Files\\VOICEPEAK\\voicepeak.exe"
+}

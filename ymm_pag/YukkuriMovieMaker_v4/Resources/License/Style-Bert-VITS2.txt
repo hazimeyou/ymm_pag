@@ -1,0 +1,6 @@
+﻿Style-Bert-VIST2 Copyright (c) litagin02
+Bert-VIST2 Copyright (c) fishaudio
+https://github.com/litagin02/Style-Bert-VITS2
+
+外部連携APIを使用しており、利用には別途Style-Bert-VITS2のダウンロードが必要です。
+ファインチューニングに用いたデータセットの話者による許諾のないファインチューニングモデルまたはそのマージモデルの利用を固く禁じます。

@@ -1,0 +1,18 @@
+﻿{
+  "Category": "None",
+  "RichTextEditor": {
+    "IsFontFamilyVisible": false,
+    "AllowStyledPastingFromOtherApps": false,
+    "LineBreakMode": "ShiftEnter",
+    "IsToolBarVisible": true
+  },
+  "TextEditor": {
+    "TextWrapping": "Wrap"
+  },
+  "FrameNumberEditor": {
+    "Mode": "Frame"
+  },
+  "TimeSpanEditor": {
+    "Mode": "Time"
+  }
+}

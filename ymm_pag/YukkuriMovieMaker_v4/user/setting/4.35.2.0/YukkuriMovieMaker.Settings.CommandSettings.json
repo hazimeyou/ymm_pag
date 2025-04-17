@@ -1,0 +1,1405 @@
+﻿{
+  "KeyConfigs": [
+    {
+      "Display": "切り取り",
+      "CommandType": "Cut",
+      "ModifierKeys": "Control",
+      "Key": "X",
+      "AccessKey": "T",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "コピー",
+      "CommandType": "Copy",
+      "ModifierKeys": "Control",
+      "Key": "C",
+      "AccessKey": "C",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "貼り付け",
+      "CommandType": "Paste",
+      "ModifierKeys": "Control",
+      "Key": "V",
+      "AccessKey": "P",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "削除",
+      "CommandType": "Delete",
+      "ModifierKeys": "None",
+      "Key": "Delete",
+      "AccessKey": "D",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "削除して左寄せ",
+      "CommandType": "DeleteAndMoveAll",
+      "ModifierKeys": "Shift",
+      "Key": "Delete",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "削除してレイヤーを左寄せ",
+      "CommandType": "DeleteAndMoveLayer",
+      "ModifierKeys": "Control, Shift",
+      "Key": "Delete",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "すべて選択",
+      "CommandType": "SelectAll",
+      "ModifierKeys": "Control",
+      "Key": "A",
+      "AccessKey": "A",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "左のアイテムをすべて選択",
+      "CommandType": "SelectLeftItems",
+      "ModifierKeys": "Control, Shift",
+      "Key": "Left",
+      "AccessKey": "L",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "右のアイテムをすべて選択",
+      "CommandType": "SelectRightItems",
+      "ModifierKeys": "Control, Shift",
+      "Key": "Right",
+      "AccessKey": "R",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "ひとつ上のアイテムを選択",
+      "CommandType": "SelectUpItem",
+      "ModifierKeys": "Alt, Control, Shift",
+      "Key": "Up",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "ひとつ下のアイテムを選択",
+      "CommandType": "SelectDownItem",
+      "ModifierKeys": "Alt, Control, Shift",
+      "Key": "Down",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "ひとつ左のアイテムを選択",
+      "CommandType": "SelectLeftItem",
+      "ModifierKeys": "Alt, Control, Shift",
+      "Key": "Left",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "ひとつ右のアイテムを選択",
+      "CommandType": "SelectRightItem",
+      "ModifierKeys": "Alt, Control, Shift",
+      "Key": "Right",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "グループ化",
+      "CommandType": "Group",
+      "ModifierKeys": "Control",
+      "Key": "G",
+      "AccessKey": "G",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "グループを解除",
+      "CommandType": "Ungroup",
+      "ModifierKeys": "Control, Shift",
+      "Key": "G",
+      "AccessKey": "G",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "波形を表示",
+      "CommandType": "EnableWaveform",
+      "ModifierKeys": "Control",
+      "Key": "W",
+      "AccessKey": "W",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "波形を非表示",
+      "CommandType": "DisableWaveform",
+      "ModifierKeys": "Control, Shift",
+      "Key": "W",
+      "AccessKey": "W",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "再生位置で分割",
+      "CommandType": "SplitCurrentPosition",
+      "ModifierKeys": "Control",
+      "Key": "B",
+      "AccessKey": "B",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "元に戻す",
+      "CommandType": "Undo",
+      "ModifierKeys": "Control",
+      "Key": "Z",
+      "AccessKey": "U",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "やり直し",
+      "CommandType": "Redo",
+      "ModifierKeys": "Control, Shift",
+      "Key": "Z",
+      "AccessKey": "R",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "やり直し",
+      "CommandType": "Redo",
+      "ModifierKeys": "Control",
+      "Key": "Y",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "元に戻す",
+      "CommandType": "Undo",
+      "ModifierKeys": "None",
+      "Key": "BrowserBack",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "やり直し",
+      "CommandType": "Redo",
+      "ModifierKeys": "None",
+      "Key": "BrowserForward",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "プロジェクトを保存",
+      "CommandType": "SaveProject",
+      "ModifierKeys": "Control",
+      "Key": "S",
+      "AccessKey": "S",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "プロジェクトを別名で保存",
+      "CommandType": "SaveProjectAs",
+      "ModifierKeys": "Control, Shift",
+      "Key": "S",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "プレイヤーを再読み込み",
+      "CommandType": "ReloadPlayer",
+      "ModifierKeys": "None",
+      "Key": "F5",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "再生/一時停止",
+      "CommandType": "PlayPause",
+      "ModifierKeys": "None",
+      "Key": "Space",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "再生/一時停止",
+      "CommandType": "PlayPause",
+      "ModifierKeys": "None",
+      "Key": "MediaPlayPause",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "停止",
+      "CommandType": "Stop",
+      "ModifierKeys": "None",
+      "Key": "MediaStop",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "次のフレームへ移動",
+      "CommandType": "SeekToNextFrame",
+      "ModifierKeys": "None",
+      "Key": "Right",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "前のフレームへ移動",
+      "CommandType": "SeekToPreviousFrame",
+      "ModifierKeys": "None",
+      "Key": "Left",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "上のレイヤーへ移動",
+      "CommandType": "MoveToHigherLayer",
+      "ModifierKeys": "None",
+      "Key": "Up",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "下のレイヤーへ移動",
+      "CommandType": "MoveToLowerLayer",
+      "ModifierKeys": "None",
+      "Key": "Down",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "動画の先頭に移動",
+      "CommandType": "SeekToStart",
+      "ModifierKeys": "None",
+      "Key": "Home",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "動画の末尾に移動",
+      "CommandType": "SeekToEnd",
+      "ModifierKeys": "None",
+      "Key": "End",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "動画の先頭に移動",
+      "CommandType": "SeekToStart",
+      "ModifierKeys": "None",
+      "Key": "MediaNextTrack",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "動画の末尾に移動",
+      "CommandType": "SeekToEnd",
+      "ModifierKeys": "None",
+      "Key": "MediaPreviousTrack",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "次の編集点へ移動",
+      "CommandType": "SeekToNextEditPoint",
+      "ModifierKeys": "Control",
+      "Key": "Right",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "前の編集点へ移動",
+      "CommandType": "SeekToPrevEditPoint",
+      "ModifierKeys": "Control",
+      "Key": "Left",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "再生速度を下げる",
+      "CommandType": "PlaybackRateDown",
+      "ModifierKeys": "Control",
+      "Key": "OemComma",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "再生速度を上げる",
+      "CommandType": "PlaybackRateUp",
+      "ModifierKeys": "Control",
+      "Key": "OemPeriod",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "キャラクターを変更",
+      "CommandType": "ChangeCharacter",
+      "ModifierKeys": "Control",
+      "Key": "D",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "次のキャラクターに変更",
+      "CommandType": "ChangeNextCharacter",
+      "ModifierKeys": "Control",
+      "Key": "Down",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "前のキャラクターに変更",
+      "CommandType": "ChangePreviousCharacter",
+      "ModifierKeys": "Control",
+      "Key": "Up",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "前のキャラクターに変更",
+      "CommandType": "ChangePreviousCharacter",
+      "ModifierKeys": "Control, Shift",
+      "Key": "D",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "音声追加モードを変更",
+      "CommandType": "ChangeVoiceMode",
+      "ModifierKeys": "Control",
+      "Key": "M",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "終了",
+      "CommandType": "Exit",
+      "ModifierKeys": "Alt",
+      "Key": "F4",
+      "AccessKey": "X",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "ボイスアイテム",
+      "CommandType": "AddVoiceItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "Y",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "テキストアイテム",
+      "CommandType": "AddTextItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "J",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "動画アイテム",
+      "CommandType": "AddVideoItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "V",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "音声アイテム",
+      "CommandType": "AddAudioItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "A",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "画像アイテム",
+      "CommandType": "AddImageItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "I",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "図形アイテム",
+      "CommandType": "AddShapeItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "S",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "立ち絵アイテム",
+      "CommandType": "AddTachieItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "T",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "表情アイテム",
+      "CommandType": "AddFaceItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "F",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "プロジェクトを新規作成",
+      "CommandType": "CreateProject",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "N",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "プロジェクトを開く",
+      "CommandType": "OpenProject",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "O",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "Exo出力",
+      "CommandType": "OutputExo",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "E",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "動画出力",
+      "CommandType": "OutputVideo",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "V",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "編集エリアのセリフ欄/テキスト欄にフォーカスを移す",
+      "CommandType": "FocusToDefaultPropertyEditor",
+      "ModifierKeys": "Control",
+      "Key": "Tab",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "テンプレート一覧を開く",
+      "CommandType": "OpenTemplateMenu",
+      "ModifierKeys": "Control",
+      "Key": "T",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "検索",
+      "CommandType": "OpenSearchWindow",
+      "ModifierKeys": "Control",
+      "Key": "F",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "置換",
+      "CommandType": "OpenReplaceWindow",
+      "ModifierKeys": "Control",
+      "Key": "H",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "複製",
+      "CommandType": "Clone",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "隙間を削除",
+      "CommandType": "DeleteTimelineSpace",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "アイテムの長さを変更",
+      "CommandType": "ChangeItemLength",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "アイテムを左寄せ",
+      "CommandType": "AlignItemsLeft",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "アイテムを右寄せ",
+      "CommandType": "AlignItemsRight",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "アイテムを中央寄せ",
+      "CommandType": "AlignItemsCenter",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "アイテムを横一列に整列",
+      "CommandType": "AlignItemsHorizontal",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "アイテムを縦一列に整列",
+      "CommandType": "AlignItemsVertical",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "上のアイテムに揃える",
+      "CommandType": "AlignPositionAndLengthToAboveItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "下のアイテムに揃える",
+      "CommandType": "AlignPositionAndLengthToBelowItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "先頭を上のアイテムに揃える",
+      "CommandType": "AlignHeadToAboveItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "末尾を上のアイテムに揃える",
+      "CommandType": "AlignTailToAboveItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "先頭を下のアイテムに揃える",
+      "CommandType": "AlignHeadToBelowItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "末尾を下のアイテムに揃える",
+      "CommandType": "AlignTailToBelowItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "前のフレームに移動",
+      "CommandType": "MoveSelectedItemsToLeftFrame",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "次のフレームに移動",
+      "CommandType": "MoveSelectedItemsToRightFrame",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "上レイヤーに移動",
+      "CommandType": "MoveSelectedItemsToUpLayer",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "下レイヤーに移動",
+      "CommandType": "MoveSelectedItemsToDownLayer",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "1秒前に移動",
+      "CommandType": "MoveSelectedItemsToPreviousSecond",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "1秒後に移動",
+      "CommandType": "MoveSelectedItemsToNextSecond",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "選択中のアイテムの右のアイテムを選択",
+      "CommandType": "SelectRightItemsOfSelectedItems",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "選択中のアイテムの左のアイテムを選択",
+      "CommandType": "SelectLeftItemsOfSelectedItems",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "グループ化/グループを解除",
+      "CommandType": "ToggleGroup",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "プレビューエリアでの操作を無効化",
+      "CommandType": "Lock",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "プレビューエリアでの操作を有効化",
+      "CommandType": "Unlock",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "プレビューエリアでの操作を有効化/無効化",
+      "CommandType": "ToggleLock",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "波形を表示/非表示",
+      "CommandType": "ToggleWaveform",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "上のアイテムでクリッピングを有効化/無効化",
+      "CommandType": "ToggleClipping",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "上のアイテムでクリッピングを有効化",
+      "CommandType": "EnableClipping",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "上のアイテムでクリッピングを無効化",
+      "CommandType": "DisableClipping",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "アイテムを表示",
+      "CommandType": "EnableVisibility",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "アイテムを非表示",
+      "CommandType": "DisableVisibility",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "アイテムを表示/非表示",
+      "CommandType": "ToggleVisibility",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "デフォルトに設定",
+      "CommandType": "SetToDefaultItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "ボイス設定をキャラクターに反映",
+      "CommandType": "SetToCharacterVoice",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "字幕設定をキャラクターに反映",
+      "CommandType": "SetToCharacterJimaku",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "表情設定をキャラクターに反映",
+      "CommandType": "SetToCharacterFace",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "プロジェクトを閉じる",
+      "CommandType": "CloseProject",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "台本ファイルを開く",
+      "CommandType": "OpenScenarioFile",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "1秒先へ移動",
+      "CommandType": "SeekToNextSecond",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "1秒前へ移動",
+      "CommandType": "SeekToPreviousSecond",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "制御点の表示を切り替え",
+      "CommandType": "SwitchControlPointVisibility",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "リピート再生を切り替え",
+      "CommandType": "ToggleRepeat",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "サムネイル画像を出力",
+      "CommandType": "SaveThumbnail",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "サムネイル画像をクリップボードに出力",
+      "CommandType": "SaveThumbnailToClipboard",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "ツールバーの高さを上げる",
+      "CommandType": "SizeUpToolBar",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "ツールバーの高さを下げる",
+      "CommandType": "SizeDownToolBar",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "タイムラインを拡大",
+      "CommandType": "ZoomInTimeline",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "タイムラインを縮小",
+      "CommandType": "ZoomOutTimeline",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "レイヤーの高さを上げる",
+      "CommandType": "SizeUpLayer",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "レイヤーの高さを下げる",
+      "CommandType": "SizeDownLayer",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "すべてのレイヤー設定を初期化",
+      "CommandType": "ResetAllLayerSettings",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "ピークメーターを表示",
+      "CommandType": "TogglePeakMeterVisibility",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "ラウドネスメーターを表示",
+      "CommandType": "ToggleLoudnessMeterVisibility",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "他のレイヤーを非表示",
+      "CommandType": "DisableOtherLayers",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "すべてのレイヤーを表示",
+      "CommandType": "EnableAllLayers",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "デスクトップにショートカットを作成",
+      "CommandType": "CreateAppShortcut",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "プロジェクトファイルの関連付け",
+      "CommandType": "RegisterYMMPAssociation",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "アプリケーションフォルダを開く",
+      "CommandType": "OpenApplicationDirectory",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "ユーザーフォルダを開く",
+      "CommandType": "OpenUserDirectory",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "プラグインフォルダを開く",
+      "CommandType": "OpenPluginDirectory",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "作業フォルダを開く",
+      "CommandType": "OpenTemporaryDirectory",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "キャラクターの編集",
+      "CommandType": "OpenCharacterEditorWindow",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "台本編集",
+      "CommandType": "OpenScenarioWindow",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "使用素材一覧",
+      "CommandType": "OpenResourceWindow",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "単語・発音辞書",
+      "CommandType": "OpenDictionaryWindow",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "動画の設定",
+      "CommandType": "OpenVideoInfoEditorWindow",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "グリッド設定",
+      "CommandType": "OpenVerticalLineSettingsWindow",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "ゆっくりMovieMakerについて",
+      "CommandType": "OpenAboutWindow",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "設定",
+      "CommandType": "OpenSettingWindow",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "フィードバックを送信",
+      "CommandType": "OpenFeedbackWindow",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "YMM4のバージョンを変更する",
+      "CommandType": "OpenUpdaterWindow",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "グリッド線を表示",
+      "CommandType": "EnableVerticalLine",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "グリッド線を非表示",
+      "CommandType": "DisableVerticalLine",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "グリッド線を表示/非表示",
+      "CommandType": "ToggleVerticalLine",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "空白を追加",
+      "CommandType": "AddTimelineSpace",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "エフェクトアイテム",
+      "CommandType": "AddEffectItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "場面切り替えアイテム",
+      "CommandType": "AddTransitionItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "画面の複製",
+      "CommandType": "AddFrameBufferItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "グループ制御",
+      "CommandType": "AddGroupItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "テンプレートに登録",
+      "CommandType": "SaveTemplate",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "テンプレートを削除",
+      "CommandType": "DeleteTemplate",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "テンプレートをインポート",
+      "CommandType": "ImportTemplate",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "選択中のテンプレートをエクスポート",
+      "CommandType": "ExportItemTemplate",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "テンプレートをエクスポート",
+      "CommandType": "ExportVideoEffectTemplate",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "テンプレートをエクスポート",
+      "CommandType": "ExportAudioEffectTemplate",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "ボイスアイテムの字幕をテキストアイテムとして分離",
+      "CommandType": "SeparateVoiceTextToTextItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "ボイスアイテムの表情を元に表情アイテムを作成",
+      "CommandType": "CreateFaceItemFromVoiceItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "字幕ファイルからインポート",
+      "CommandType": "ImportSubtitleFile",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "現在の再生位置に中間点を追加",
+      "CommandType": "AddKeyFrameAtCurrentFrame",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "現在の再生位置の中間点を削除",
+      "CommandType": "RemoveKeyFrameAtCurrentFrame",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "カーソル位置に中間点を追加",
+      "CommandType": "AddKeyFrameAtCursorPosition",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "カーソル位置の中間点を削除",
+      "CommandType": "RemoveKeyFrameAtCursorPosition",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "ボイステンプレート一覧を開く",
+      "CommandType": "OpenVoiceTemplateMenu",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "テキストテンプレート一覧を開く",
+      "CommandType": "OpenTextTemplateMenu",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "動画テンプレート一覧を開く",
+      "CommandType": "OpenVideoTemplateMenu",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "音声テンプレート一覧を開く",
+      "CommandType": "OpenAudioTemplateMenu",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "画像テンプレート一覧を開く",
+      "CommandType": "OpenImageTemplateMenu",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "図形テンプレート一覧を開く",
+      "CommandType": "OpenShapeTemplateMenu",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "エフェクトテンプレート一覧を開く",
+      "CommandType": "OpenEffectTemplateMenu",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "画面の複製テンプレート一覧を開く",
+      "CommandType": "OpenFrameBufferTemplateMenu",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "グループ制御テンプレート一覧を開く",
+      "CommandType": "OpenGroupTemplateMenu",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "立ち絵テンプレート一覧を開く",
+      "CommandType": "OpenTachieTemplateMenu",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "表情テンプレート一覧を開く",
+      "CommandType": "OpenFaceTemplateMenu",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "アイテムまでスクロール",
+      "CommandType": "ScrollToItem",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "AIにセリフの続きを考えてもらう",
+      "CommandType": "GenerateScenarioLineByAI",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "再生位置のアイテムを分割",
+      "CommandType": "SplitCurrentPositionItems",
+      "ModifierKeys": "Control, Shift",
+      "Key": "B",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "再生位置のアイテムをコピー",
+      "CommandType": "CopyCurrentPositionItems",
+      "ModifierKeys": "Control, Shift",
+      "Key": "C",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "再生位置のアイテムを切り取り",
+      "CommandType": "CutCurrentPositionItems",
+      "ModifierKeys": "Control, Shift",
+      "Key": "X",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "再生位置のアイテムを選択",
+      "CommandType": "SelectCurrentPositionItems",
+      "ModifierKeys": "Control, Shift",
+      "Key": "A",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "カーソル位置のアイテムを分割",
+      "CommandType": "SplitCursorPositionItems",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    },
+    {
+      "Display": "再生位置のアイテムを削除",
+      "CommandType": "DeleteCurrentPositionItems",
+      "ModifierKeys": "None",
+      "Key": "None",
+      "AccessKey": "None",
+      "WarningMessage": ""
+    }
+  ],
+  "Category": "None"
+}

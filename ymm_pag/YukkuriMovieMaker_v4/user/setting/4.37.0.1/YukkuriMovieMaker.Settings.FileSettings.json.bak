@@ -1,0 +1,782 @@
+﻿{
+  "Category": "None",
+  "Groups": {
+    "None": {
+      "FileGroupType": "None",
+      "FileType": "None",
+      "DialogDirectory": "C:\\Program Files\\VOICEPEAK",
+      "RecentFiles": [
+        {
+          "Path": "C:\\Program Files\\VOICEPEAK\\voicepeak.exe",
+          "Time": "2024-12-29T23:18:38.4818536+09:00"
+        }
+      ],
+      "FavoriteFiles": []
+    },
+    "VideoItem": {
+      "FileGroupType": "VideoItem",
+      "FileType": "動画",
+      "DialogDirectory": null,
+      "RecentFiles": [
+        {
+          "Path": "C:\\Users\\はじめよう\\Desktop\\タルコフ.mp4",
+          "Time": "2025-01-29T10:45:34.2457367+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-23 17-59-34.mkv",
+          "Time": "2025-01-23T22:13:27.7126295+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-23 13-50-53.mkv",
+          "Time": "2025-01-23T22:13:27.7125889+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-23 09-05-56.mkv",
+          "Time": "2025-01-23T22:13:27.7125323+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-22 16-26-55.mkv",
+          "Time": "2025-01-23T22:13:27.7124646+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-22 15-21-57.mkv",
+          "Time": "2025-01-23T22:13:27.712425+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-22 11-06-27.mkv",
+          "Time": "2025-01-23T22:13:27.7123613+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-22 10-15-37.mkv",
+          "Time": "2025-01-23T22:13:27.7123001+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-21 18-57-23.mkv",
+          "Time": "2025-01-23T22:13:27.7122589+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-21 15-42-28.mkv",
+          "Time": "2025-01-23T22:13:27.7122197+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-21 12-32-29.mkv",
+          "Time": "2025-01-23T22:13:27.7121784+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-20 17-37-05.mkv",
+          "Time": "2025-01-23T22:13:27.7121369+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-20 15-30-42.mkv",
+          "Time": "2025-01-23T22:13:27.7120945+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-20 13-05-36.mkv",
+          "Time": "2025-01-23T22:13:27.7120531+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-20 02-31-14.mkv",
+          "Time": "2025-01-23T22:13:27.7119969+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-19 22-17-15.mkv",
+          "Time": "2025-01-23T22:13:27.7119232+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-19 21-55-44.mkv",
+          "Time": "2025-01-23T22:13:27.7118816+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-19 21-53-05.mkv",
+          "Time": "2025-01-23T22:13:27.7118402+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-19 20-49-44.mkv",
+          "Time": "2025-01-23T22:13:27.7117987+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-19 20-07-49.mkv",
+          "Time": "2025-01-23T22:13:27.7117576+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-19 15-28-28.mkv",
+          "Time": "2025-01-23T22:13:27.7117182+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-19 14-49-56.mkv",
+          "Time": "2025-01-23T22:13:27.7116725+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-18 23-11-37.mkv",
+          "Time": "2025-01-23T22:13:27.7115162+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-18 21-52-42.mkv",
+          "Time": "2025-01-23T22:13:27.7114633+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-17 14-59-10.mkv",
+          "Time": "2025-01-23T22:13:27.711422+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-17 14-17-57.mkv",
+          "Time": "2025-01-23T22:13:27.7113815+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-17 12-48-16.mkv",
+          "Time": "2025-01-23T22:13:27.7113399+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-16 22-44-13.mkv",
+          "Time": "2025-01-23T22:13:27.7113009+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-16 16-06-27.mkv",
+          "Time": "2025-01-23T22:13:27.7112592+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-15 22-45-16.mkv",
+          "Time": "2025-01-23T22:13:27.7112188+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-15 15-34-23.mkv",
+          "Time": "2025-01-23T22:13:27.7111798+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-15 15-34-21.mkv",
+          "Time": "2025-01-23T22:13:27.7111387+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-15 13-34-32.mkv",
+          "Time": "2025-01-23T22:13:27.7110816+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-15 13-33-06.mkv",
+          "Time": "2025-01-23T22:13:27.7110182+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-15 12-20-59.mkv",
+          "Time": "2025-01-23T22:13:27.7109739+09:00"
+        },
+        {
+          "Path": "D:\\新しいフォルダー\\2025-01-23 20-51-14.mkv",
+          "Time": "2025-01-23T22:13:27.7107274+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-08 21-50-28.mkv",
+          "Time": "2025-01-23T22:11:10.3528377+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-08 19-56-59.mkv",
+          "Time": "2025-01-23T22:11:10.3527949+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-06 21-18-27.mkv",
+          "Time": "2025-01-23T22:11:10.352755+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-06 20-32-49.mkv",
+          "Time": "2025-01-23T22:11:10.3527139+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-05 18-19-48.mkv",
+          "Time": "2025-01-23T22:11:10.3526724+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-03 21-40-33.mkv",
+          "Time": "2025-01-23T22:11:10.3526298+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-02 22-53-05.mkv",
+          "Time": "2025-01-23T22:11:10.3525857+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-02 22-18-27.mkv",
+          "Time": "2025-01-23T22:11:10.3525333+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-02 21-34-22.mkv",
+          "Time": "2025-01-23T22:11:10.352467+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-02 19-48-04.mkv",
+          "Time": "2025-01-23T22:11:10.3524194+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-01 23-28-57.mkv",
+          "Time": "2025-01-23T22:11:10.3523805+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-01 23-08-10.mkv",
+          "Time": "2025-01-23T22:11:10.3523415+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2024-12-30 15-59-53.mkv",
+          "Time": "2025-01-23T22:11:10.3523026+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2024-12-29 11-08-21.mkv",
+          "Time": "2025-01-23T22:11:10.3522653+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2024-12-28 22-42-21.mkv",
+          "Time": "2025-01-23T22:11:10.3522249+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-14 22-02-22.mkv",
+          "Time": "2025-01-23T22:11:10.3521772+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-14 20-54-33.mkv",
+          "Time": "2025-01-23T22:11:10.3521392+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-14 17-18-18.mkv",
+          "Time": "2025-01-23T22:11:10.3521015+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-14 10-17-07.mkv",
+          "Time": "2025-01-23T22:11:10.3520409+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-14 09-54-04.mkv",
+          "Time": "2025-01-23T22:11:10.3519829+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-13 23-37-33.mkv",
+          "Time": "2025-01-23T22:11:10.3519421+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-11 21-07-58.mkv",
+          "Time": "2025-01-23T22:11:10.3519019+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-11 11-15-32.mkv",
+          "Time": "2025-01-23T22:11:10.3518589+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-11 10-41-11.mkv",
+          "Time": "2025-01-23T22:11:10.3516818+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-10 22-50-25.mkv",
+          "Time": "2025-01-23T22:11:10.3516498+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-10 22-05-32.mkv",
+          "Time": "2025-01-23T22:11:10.3516157+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-09 22-40-03.mkv",
+          "Time": "2025-01-23T22:11:10.3515831+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-09 21-11-22.mkv",
+          "Time": "2025-01-23T22:11:10.3515459+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-09 20-50-46.mkv",
+          "Time": "2025-01-23T22:11:10.351487+09:00"
+        },
+        {
+          "Path": "D:\\動画\\録画\\2025-01-08 22-27-19.mkv",
+          "Time": "2025-01-23T22:11:10.3513129+09:00"
+        },
+        {
+          "Path": "D:\\動画\\2024-12-26 23-54-21.mkv",
+          "Time": "2025-01-23T22:09:35.6542893+09:00"
+        },
+        {
+          "Path": "D:\\動画\\2024-12-26 23-50-11.mkv",
+          "Time": "2025-01-23T22:09:35.6542581+09:00"
+        },
+        {
+          "Path": "D:\\動画\\2024-12-26 23-41-30.mkv",
+          "Time": "2025-01-23T22:09:35.6542269+09:00"
+        },
+        {
+          "Path": "D:\\動画\\2024-12-26 23-40-30.mkv",
+          "Time": "2025-01-23T22:09:35.6541965+09:00"
+        },
+        {
+          "Path": "D:\\動画\\2024-12-24 21-08-12.mkv",
+          "Time": "2025-01-23T22:09:35.654165+09:00"
+        },
+        {
+          "Path": "D:\\動画\\2024-12-24 20-49-14.mkv",
+          "Time": "2025-01-23T22:09:35.6541339+09:00"
+        },
+        {
+          "Path": "D:\\動画\\2024-12-24 20-43-58.mkv",
+          "Time": "2025-01-23T22:09:35.6541021+09:00"
+        },
+        {
+          "Path": "D:\\動画\\2024-12-24 18-47-52.mkv",
+          "Time": "2025-01-23T22:09:35.6540605+09:00"
+        },
+        {
+          "Path": "D:\\動画\\2024-12-28 10-49-07.mkv",
+          "Time": "2025-01-23T22:09:35.654028+09:00"
+        },
+        {
+          "Path": "D:\\動画\\2024-12-27 23-55-23.mkv",
+          "Time": "2025-01-23T22:09:35.6539893+09:00"
+        },
+        {
+          "Path": "D:\\動画\\2024-12-27 23-51-40.mkv",
+          "Time": "2025-01-23T22:09:35.6539578+09:00"
+        },
+        {
+          "Path": "D:\\動画\\2024-12-27 23-51-14.mkv",
+          "Time": "2025-01-23T22:09:35.6539117+09:00"
+        },
+        {
+          "Path": "D:\\動画\\2024-12-27 23-42-49.mkv",
+          "Time": "2025-01-23T22:09:35.6538719+09:00"
+        },
+        {
+          "Path": "D:\\動画\\2024-12-27 09-35-24.mkv",
+          "Time": "2025-01-23T22:09:35.6538276+09:00"
+        },
+        {
+          "Path": "D:\\動画\\2024-12-27 09-03-20.mkv",
+          "Time": "2025-01-23T22:09:35.6536366+09:00"
+        }
+      ],
+      "FavoriteFiles": []
+    },
+    "AudioItem": {
+      "FileGroupType": "AudioItem",
+      "FileType": "音声",
+      "DialogDirectory": null,
+      "RecentFiles": [
+        {
+          "Path": "C:\\Users\\はじめよう\\Downloads\\カナリアスキップ.mp3",
+          "Time": "2024-12-10T16:18:44.7267635+09:00"
+        },
+        {
+          "Path": "C:\\Users\\はじめよう\\Downloads\\maou_bgm_cyber42.mp3",
+          "Time": "2024-10-25T18:05:10.6946384+09:00"
+        }
+      ],
+      "FavoriteFiles": []
+    },
+    "ImageItem": {
+      "FileGroupType": "ImageItem",
+      "FileType": "画像",
+      "DialogDirectory": "C:\\Users\\はじめよう\\Desktop\\YukkuriMovieMaker_v4\\user\\project\\無題",
+      "RecentFiles": [
+        {
+          "Path": "C:\\Users\\はじめよう\\Desktop\\YukkuriMovieMaker_v4\\user\\project\\無題\\2025012911323824.png",
+          "Time": "2025-01-29T11:37:58.2484048+09:00"
+        },
+        {
+          "Path": "C:\\Users\\はじめよう\\Desktop\\無題 2024-10-25 21-06-24.jpg",
+          "Time": "2024-10-25T21:06:54.9199443+09:00"
+        },
+        {
+          "Path": "C:\\Users\\はじめよう\\Desktop\\ファイル.jpg",
+          "Time": "2024-10-20T11:02:52.0386534+09:00"
+        },
+        {
+          "Path": "C:\\Users\\はじめよう\\Desktop\\saba.jpg",
+          "Time": "2024-10-20T10:51:10.7144574+09:00"
+        },
+        {
+          "Path": "C:\\Users\\はじめよう\\Desktop\\gurabo.jpg",
+          "Time": "2024-10-20T10:51:10.7143138+09:00"
+        },
+        {
+          "Path": "C:\\Users\\はじめよう\\Desktop\\無題 2024-10-11 20-30-00.jpg",
+          "Time": "2024-10-11T20:30:38.3892518+09:00"
+        },
+        {
+          "Path": "C:\\Users\\はじめよう\\Desktop\\1.20.4\\screenshots\\2024-08-21_14.44.41.png",
+          "Time": "2024-08-21T14:45:45.7396661+09:00"
+        },
+        {
+          "Path": "C:\\Users\\はじめよう\\Desktop\\1.20.4\\screenshots\\2024-08-21_14.44.44.png",
+          "Time": "2024-08-21T14:45:27.2304627+09:00"
+        }
+      ],
+      "FavoriteFiles": []
+    },
+    "Project": {
+      "FileGroupType": "Project",
+      "FileType": "None",
+      "DialogDirectory": "C:\\Users\\はじめよう\\Desktop",
+      "RecentFiles": [
+        {
+          "Path": "C:\\Users\\はじめよう\\Desktop\\tarukohu.ymmp",
+          "Time": "2025-02-04T16:07:40.2400131+09:00"
+        },
+        {
+          "Path": "C:\\Users\\はじめよう\\Desktop\\無題.ymmp",
+          "Time": "2025-01-31T21:07:00.3360765+09:00"
+        },
+        {
+          "Path": "C:\\Users\\はじめよう\\Desktop\\17.ymmp",
+          "Time": "2025-01-31T21:06:38.4874795+09:00"
+        },
+        {
+          "Path": "C:\\Users\\はじめよう\\Desktop\\タルコフ.ymmp",
+          "Time": "2025-01-31T16:26:39.5956162+09:00"
+        },
+        {
+          "Path": "C:\\Users\\はじめよう\\Desktop\\動画選定.ymmp",
+          "Time": "2025-01-02T11:24:34.8438611+09:00"
+        },
+        {
+          "Path": "C:\\Users\\はじめよう\\Desktop\\マイクラautoconsoleの前.ymmp",
+          "Time": "2024-11-12T20:56:07.9555862+09:00"
+        }
+      ],
+      "FavoriteFiles": []
+    },
+    "MP4": {
+      "FileGroupType": "MP4",
+      "FileType": "None",
+      "DialogDirectory": "C:\\Users\\はじめよう\\Desktop",
+      "RecentFiles": [],
+      "FavoriteFiles": []
+    },
+    "MP4Folder": {
+      "DialogDirectory": null
+    },
+    "Exo": {
+      "FileGroupType": "Exo",
+      "FileType": "None",
+      "DialogDirectory": "C:\\Users\\はじめよう\\Desktop",
+      "RecentFiles": [],
+      "FavoriteFiles": []
+    },
+    "Transition": {
+      "FileGroupType": "Transition",
+      "FileType": "画像",
+      "DialogDirectory": null,
+      "RecentFiles": [],
+      "FavoriteFiles": []
+    },
+    "TachieParts": {
+      "FileGroupType": "TachieParts",
+      "FileType": "動画, 画像",
+      "DialogDirectory": null,
+      "RecentFiles": [],
+      "FavoriteFiles": []
+    },
+    "Texture": {
+      "FileGroupType": "Texture",
+      "FileType": "動画, 画像",
+      "DialogDirectory": null,
+      "RecentFiles": [],
+      "FavoriteFiles": []
+    },
+    "Thumbnail": {
+      "FileGroupType": "Thumbnail",
+      "FileType": "画像",
+      "DialogDirectory": "C:\\Users\\はじめよう\\Desktop",
+      "RecentFiles": [],
+      "FavoriteFiles": []
+    },
+    "Subtitle": {
+      "FileGroupType": "Subtitle",
+      "FileType": "None",
+      "DialogDirectory": null,
+      "RecentFiles": [],
+      "FavoriteFiles": []
+    },
+    "PixelShaderSource": {
+      "FileGroupType": "PixelShaderSource",
+      "FileType": "None",
+      "DialogDirectory": null,
+      "RecentFiles": [],
+      "FavoriteFiles": []
+    }
+  },
+  "FileExtensions": [
+    {
+      "FileType": "動画",
+      "Extention": "mp4"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "avi"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "wmv"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "3g2"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "3gp"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "3gp2"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "3gpp"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "m4v"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "mov"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "qt"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "m2ts"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "m2t"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "mts"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "ts"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "mkv"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "mpg"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "mpeg"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "webm"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "gif"
+    },
+    {
+      "FileType": "動画",
+      "Extention": "webp"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "mp4"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "avi"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "wmv"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "3g2"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "3gp"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "3gp2"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "3gpp"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "m4v"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "mov"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "qt"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "m2ts"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "m2t"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "mts"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "ts"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "mkv"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "mpg"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "mpeg"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "webm"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "mp3"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "wav"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "wma"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "m4a"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "mka"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "aac"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "adts"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "flac"
+    },
+    {
+      "FileType": "音声",
+      "Extention": "ogg"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "png"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "jpg"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "jpeg"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "jpe"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "jfif"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "bmp"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "dib"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "gif"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "ico"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "tiff"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "tif"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "hdp"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "dds"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "dng"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "heic"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "heif"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "hif"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "avif"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "jxr"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "wdp"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "webp"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "psd"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "psb"
+    },
+    {
+      "FileType": "画像",
+      "Extention": "svg"
+    }
+  ]
+}

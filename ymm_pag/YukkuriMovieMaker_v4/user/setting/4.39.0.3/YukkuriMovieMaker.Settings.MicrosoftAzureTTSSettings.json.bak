@@ -1,0 +1,16 @@
+﻿{
+  "Category": "Voice",
+  "Key": null,
+  "Region": null,
+  "Speakers": [
+    "ja-JP-NanamiNeural",
+    "ja-JP-KeitaNeural",
+    "ja-JP-AoiNeural",
+    "ja-JP-DaichiNeural",
+    "ja-JP-MayuNeural",
+    "ja-JP-NaokiNeural",
+    "ja-JP-ShioriNeural",
+    "en-US-AmberNeural",
+    "en-US-BrandonNeural"
+  ]
+}

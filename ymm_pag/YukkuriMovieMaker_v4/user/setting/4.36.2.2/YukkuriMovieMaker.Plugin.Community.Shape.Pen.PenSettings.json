@@ -1,0 +1,18 @@
+﻿{
+  "Category": "None",
+  "PenMode": "Pen",
+  "PenStyle": {
+    "StrokeColor": "#FFFFFFFF",
+    "StrokeThickness": 10.1,
+    "IsPressure": true
+  },
+  "HighlighterStyle": {
+    "StrokeColor": "#FFFFFF00",
+    "StrokeThickness": 10.0,
+    "IsPressure": true
+  },
+  "EraserStyle": {
+    "StrokeThickness": 10.0,
+    "Mode": "Line"
+  }
+}

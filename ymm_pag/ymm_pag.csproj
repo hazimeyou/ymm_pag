@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+
+	<ItemGroup>
+		<!-- 必要なアセンブリの参照を追加 -->
+		<Reference Include="PresentationFramework" />
+		<Reference Include="WindowsBase" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="SharpGen.Runtime">
+			<HintPath>..\..\..\YukkuriMovieMaker_v4\SharpGen.Runtime.dll</HintPath>
+		</Reference>
+		<Reference Include="SharpGen.Runtime.COM">
+			<HintPath>..\..\..\YukkuriMovieMaker_v4\SharpGen.Runtime.COM.dll</HintPath>
+		</Reference>
+		<Reference Include="Vortice.Direct2D1">
+			<HintPath>..\..\..\YukkuriMovieMaker_v4\Vortice.Direct2D1.dll</HintPath>
+		</Reference>
+		<Reference Include="Vortice.DirectX">
+			<HintPath>..\..\..\YukkuriMovieMaker_v4\Vortice.DirectX.dll</HintPath>
+		</Reference>
+		<Reference Include="Vortice.Mathematics">
+			<HintPath>..\..\..\YukkuriMovieMaker_v4\Vortice.Mathematics.dll</HintPath>
+		</Reference>
+		<Reference Include="YukkuriMovieMaker.Controls">
+			<HintPath>..\..\..\YukkuriMovieMaker_v4\YukkuriMovieMaker.Controls.dll</HintPath>
+		</Reference>
+		<Reference Include="YukkuriMovieMaker.Plugin">
+			<HintPath>..\..\..\YukkuriMovieMaker_v4\YukkuriMovieMaker.Plugin.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+</Project>

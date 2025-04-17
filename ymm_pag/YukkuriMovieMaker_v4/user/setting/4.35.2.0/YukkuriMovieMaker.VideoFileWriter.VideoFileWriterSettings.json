@@ -1,0 +1,22 @@
+﻿{
+  "Category": "None",
+  "Plugin": "YukkuriMovieMaker.Plugin.FileWriter.MediaFoundation.MFVideoFileWriterPlugin",
+  "IsCreateSub": false,
+  "IsCreateVoiceList": false,
+  "IsCreateTimelineResourceList": false,
+  "IsCreateContentIdList": true,
+  "EncodeFrom": 0,
+  "EncodeTo": 2367,
+  "LoudnessNormalization": {
+    "Target": -15.0,
+    "Mode": "DownOnly"
+  },
+  "Compressor": {
+    "Threshold": -5.0,
+    "RatioMode": "Auto",
+    "PeakLimit": -1.0,
+    "Ratio": 4.0,
+    "Attack": 0.0,
+    "Release": 0.0
+  }
+}

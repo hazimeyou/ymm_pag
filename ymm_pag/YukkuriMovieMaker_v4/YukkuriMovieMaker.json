@@ -1,0 +1,2880 @@
+﻿{
+  "Files": [
+    {
+      "File": "Accessibility.dll",
+      "Hash": "SfIF832/v9U6KpHb9rB8Erbvm1Qq8x8XCMJMkf4kHrClfJQG3/SbuYGaq9L/kLnszrBebmXYv5x3mIXYq4RHIA==",
+      "Size": 21280
+    },
+    {
+      "File": "AWSSDK.Core.dll",
+      "Hash": "vxIvbB6/RDv/FBIs2i7ZJdY+SEhk8UD4LOgBuki1zzANoBXRHWDydssDKSaoJnhFOkUR+iXft8x/x+MTxW8uiQ==",
+      "Size": 2511976
+    },
+    {
+      "File": "AWSSDK.Polly.dll",
+      "Hash": "1XfIMqS5oG3qgiJV2nB+3B9OP9zOH/66DIXHZOuVbXtK48cLlRXPaUv8+V/QETby8833xQUa/tCM1NfBTbFx/A==",
+      "Size": 94824
+    },
+    {
+      "File": "Azure.Core.dll",
+      "Hash": "gCFJRhVAhDbdtaV7wX7PEIZsgDOg+JNwwpCJYRfGVP2tnySivPsN0Utv011JTKT0xG6R4f3eetUPZ6qxvwOTDA==",
+      "Size": 426552
+    },
+    {
+      "File": "clretwrc.dll",
+      "Hash": "x+wG1vuJ4MARRIkxytlKaOeLDCmux/TdZRj+Wnn82g/E+32YdqDWe5HAMPk6pTqN44rC1DKKBQnsuIIHO3ZVcw==",
+      "Size": 312592
+    },
+    {
+      "File": "clrgc.dll",
+      "Hash": "VIYUcg97wB+6Hsbeya4VkWUe9A7haawQoxK+2YcTLE8JRxKMbDKnYHw/rdBVJlfA05X/W/8JbEYMU7NAhKMstg==",
+      "Size": 673592
+    },
+    {
+      "File": "clrgcexp.dll",
+      "Hash": "qaFt9KxzRZbIGnc4LV/YQ08bNM7491BeNmF5Ha55FOLCTn5xSWYliw8j2O0bpAqUkGEi/HuFAK+8lGVJwWkGpQ==",
+      "Size": 709904
+    },
+    {
+      "File": "clrjit.dll",
+      "Hash": "t8XGZBh0HeFGSJTH/zigBwCJl/KQ7x6MNizFc01zVSp3JGm23y/Bs7RBTlNA4cgHwNXufmLTHLVpOX0L/FbZsg==",
+      "Size": 1952552
+    },
+    {
+      "File": "coreclr.dll",
+      "Hash": "NFXYp1IhBDnFuCX2NhCbArg481NmL539dT80NRXXNNxsjVFRqeA+aF4rdv+OThzZRZVtfw69Afox1M7omCxLiQ==",
+      "Size": 4800792
+    },
+    {
+      "File": "createdump.exe",
+      "Hash": "sGzYKVsiXG+k9fPt6RUFUwZEhB5M1FcIEoZ8ZBVxmcDXdzNoQODnf4OrVFsBbEdLwnWziP/i+TYQlPDu4z8TmA==",
+      "Size": 61776
+    },
+    {
+      "File": "CsvHelper.dll",
+      "Hash": "SL0mPhOfLlR/TjBfWdFgNC3YP+PcRUDUNVpgwqz/HTbIO8jFgISFX6uKyjojaArZ3aBBXuY3Q3coZ+IePHKiBA==",
+      "Size": 225280
+    },
+    {
+      "File": "D3DCompiler_47_cor3.dll",
+      "Hash": "x/9PkUb+/twZk2CqBCNilDSciBs4ZevFjFZGrWs/g/yjCd4Rc/Xr+COhS6ZeWtp3tG8gKG0epiw34XrbyagtAg==",
+      "Size": 4916840
+    },
+    {
+      "File": "DirectWriteForwarder.dll",
+      "Hash": "/3z2rFkGIqpjvl6YJBEd8uk9Xh5MMbIn1qavYQiDSsxvgbBA2m+cnP7fxcxtff1TO4o2OmkG6b7kJg8UM6oYJQ==",
+      "Size": 485648
+    },
+    {
+      "File": "DynamicAero2.dll",
+      "Hash": "cw8ShgoR1NqCRt/X2RByYo5sQTlxeqHZMDEYqZoS5GkXBovwctHQbeNyuoCQtJBm7a+vjEQg1zmG6XxvRln5aA==",
+      "Size": 158208
+    },
+    {
+      "File": "ExtendedNumerics.BigDecimal.dll",
+      "Hash": "3yTN7kF+8rg7PKpA3plv+b2z0PnOM+dHkQl1Y8mzrNzWi6GPiYnqJzLh06mswCb8GkApmWo0TKYGxayBnft9rw==",
+      "Size": 39424
+    },
+    {
+      "File": "Google.Api.CommonProtos.dll",
+      "Hash": "X8s3MHcqjLtN/y29UCDn/Zr3WSm0oC0c2oTg8DWGyl1YMfsKvM2WF+HS/ah1TVjjbujKmh4Sffamak7RIDY4lw==",
+      "Size": 437760
+    },
+    {
+      "File": "Google.Api.Gax.dll",
+      "Hash": "qNOHY4YSxLBGecL7jgT7cZDcIVezZjHr3bxAaz0kW9jddpAiuPFjI+V+Wl8QuwAYKk4Ffn+vtlLkHmgHMcfdmA==",
+      "Size": 79360
+    },
+    {
+      "File": "Google.Api.Gax.Grpc.dll",
+      "Hash": "gzfMdl5DKEs0YNWxeM2E7r0ap6Z6G3QIOjRcoS62rv9BukTjnR7Y+CGWQwG+xcWIk8dOnKBSrXvbe1EQu+zabg==",
+      "Size": 203264
+    },
+    {
+      "File": "Google.Apis.Auth.dll",
+      "Hash": "zdkKtmFxy1zor50zFnAqnm51WQ67v1GHgt0lX3G42M0nMQV7uYhoQS/KxsGuxzc93rNXV+Zf6/BYD9Tb5XPtGA==",
+      "Size": 233472
+    },
+    {
+      "File": "Google.Apis.Core.dll",
+      "Hash": "TLu7HYk34r0OnFo12u6MuxiSbEzpqNlOEm7qdmjfSm4v7JvNhakVByXTRKX8sJjAWUAqXqkac8q84LgC8OfILw==",
+      "Size": 85504
+    },
+    {
+      "File": "Google.Apis.dll",
+      "Hash": "HbF0rWOQ3jMW7YQvnLwmlPt5crmqjOvMzqf5KmJnJdSrYTewyAJfqQM8cJBOmp/m6B+P8hyUGzspI0DGGoVZUg==",
+      "Size": 83456
+    },
+    {
+      "File": "Google.Cloud.TextToSpeech.V1.dll",
+      "Hash": "Ibjq39CSGX88k1K02dPhLWR7Xl+1+1agwMz6mqfIHretawJZcdW+Jiwi4TLgktyWYMro6BT8IFk6BpZk434o+A==",
+      "Size": 107520
+    },
+    {
+      "File": "Google.LongRunning.dll",
+      "Hash": "/WeDUCaH7Pr1DYk00tVgzd2DXVV0h4J/MEIz1LiRVZHVX4I8Atuwq+uYBZszn8Rgb8yijtp+tJYSk4wmpC7wag==",
+      "Size": 62976
+    },
+    {
+      "File": "Google.Protobuf.dll",
+      "Hash": "5TjnZR+lRCzFObnaE0OVXZGJiyNQ5UZOTA8qVr0D/Dimgsul7monGmx+ydfp4sW7VfdClbDg6viXfmAXsj29kw==",
+      "Size": 483944
+    },
+    {
+      "File": "Grpc.Auth.dll",
+      "Hash": "sDnZwCMqCl7wkt2rvhtUsMzAw3FshoAmjNoELjynMR4IgyAZ4lRFDvL53EmZmua8ObQiKS4WsVJCEWD26XvlXQ==",
+      "Size": 21608
+    },
+    {
+      "File": "Grpc.Core.Api.dll",
+      "Hash": "guv+lIkAZk1ugYjnI06CaBvOM6wfQPCItRYGR2ToJszA6rMRlTvqXFe6VWEdycKS/mKut/Yd9sUTawEvnKxV3w==",
+      "Size": 70248
+    },
+    {
+      "File": "Grpc.Net.Client.dll",
+      "Hash": "j9qQir3rRupIjg81gxMJj6Uhn4H0PcxzAl5z075drkIV2aDQD3CzEyh+k9MMIIZ6CQdC7YZiogHNRDxPIeTDKw==",
+      "Size": 301160
+    },
+    {
+      "File": "Grpc.Net.Common.dll",
+      "Hash": "wCWo8kVDL+KIkK0mSbn2177qSLUUSEO869IpbKVdlDuTjNzPPL3yPV8UUPvc5RKwOexb4BCLFR4JwK9moujmew==",
+      "Size": 22120
+    },
+    {
+      "File": "hostfxr.dll",
+      "Hash": "Qy7awHr6M6FLWrP4E4Y0l0DLMazlalQsB7b575FSChWHXvzLAL894OCh29+SlaiTKDITQC0FdajH0CV3Z0RVag==",
+      "Size": 358680
+    },
+    {
+      "File": "hostpolicy.dll",
+      "Hash": "IGRtEj+cC7l+Bpbr/ije1NF9Z7/aiii4Kthk2esNG/XzKBmZ808eUpXkrxhLu/m9o6EeKPxojCAz4t+O9/lwwA==",
+      "Size": 375568
+    },
+    {
+      "File": "ICSharpCode.AvalonEdit.dll",
+      "Hash": "ysz6fDV9W9Dg/OMoC2r0/VoPcNe1ABdt8epRjtTPFbLs9g7+usW7oXWvF+/kaysv3Q3t4QyOu9tFEO686BTHWw==",
+      "Size": 622080
+    },
+    {
+      "File": "LibNMeCab.dll",
+      "Hash": "KIiJFp3N5SykAY4KVds3XD1kuGFFGYx83qb0/waLAXYdo9wK4UFf2NB8EDpSXJYgCzqJV5PHO7ouxsbIgsrrkQ==",
+      "Size": 44032
+    },
+    {
+      "File": "MathNet.Numerics.dll",
+      "Hash": "xif1Gp9pxC5Nh4kyIdOeuYUxPyTxEGTMRO4RiQoTCi0mUCt+CFzoWQ+vbC0Z4QxrGLfjUcL5wtK5HBUkV3cbxQ==",
+      "Size": 1600000
+    },
+    {
+      "File": "Microsoft.Bcl.AsyncInterfaces.dll",
+      "Hash": "7Y9dxvuzRtKvSCgb46nv1TG2+607+/bbrGGgKtVLIv4DmH2Ske3GxvvQEd6DPARUPo7xKdlS3GfdDVGd+Tvvmw==",
+      "Size": 18736
+    },
+    {
+      "File": "Microsoft.CognitiveServices.Speech.core.dll",
+      "Hash": "FSB1tTvppSR2O7kv+d0fHSuXZfVCF93I079DzJKRZw42Z1xSLLeGFP6SiYM+BJq9+BE16Q8Ddly4RqxrdbnATw==",
+      "Size": 2351648
+    },
+    {
+      "File": "Microsoft.CognitiveServices.Speech.csharp.dll",
+      "Hash": "TinRkIsb80wcUNb5AJEof5qfPVFjjmcsnRu2iwO+yVldZ3iOdChtsEhxgVJO630a5CdFfwqgeM5tzRRk42w+Pg==",
+      "Size": 267832
+    },
+    {
+      "File": "Microsoft.CognitiveServices.Speech.extension.audio.sys.dll",
+      "Hash": "vyB5AcOiYbDdzR4290rSfU2eMPjm+DGldIldxrHyT3RyZ296ualcAEG7JzcoJdlDvUhW3IaWOkQ+NzqggWWHEw==",
+      "Size": 139296
+    },
+    {
+      "File": "Microsoft.CognitiveServices.Speech.extension.codec.dll",
+      "Hash": "K36k2k5N1VO+GoPi9K6HF8A6EkyK6ygS8aMfeQ6uT7prZ2KKrjP7PBzbvgIfVDyjcQPBfxpEvPVtgNIqgSWfmw==",
+      "Size": 113200
+    },
+    {
+      "File": "Microsoft.CognitiveServices.Speech.extension.kws.dll",
+      "Hash": "jf6as9dVTjMzh42s2ftKNo+FmukXBCM69raB9PksZqZJ52leDI+QTAxIdr0M1s6RRszCCBu/tbpnutx/emw0VQ==",
+      "Size": 321584
+    },
+    {
+      "File": "Microsoft.CognitiveServices.Speech.extension.kws.ort.dll",
+      "Hash": "wmPGituuiChCghYYWLSJlnJYjLJXu2eQDommMt4/lqAJeMUsZjtwMuBblARNa7NbpqUrXKwTEnujn6pmHSW3ig==",
+      "Size": 2082344
+    },
+    {
+      "File": "Microsoft.CognitiveServices.Speech.extension.lu.dll",
+      "Hash": "Pzia9gT1tJn6vNGpmRwaJ+SlkxnDlnuHFSo+Z8EQdAcYPxo/16/ke7pMQnC0vI3KQ4Nm2uAocgNMlJOopGY6eQ==",
+      "Size": 398896
+    },
+    {
+      "File": "Microsoft.CSharp.dll",
+      "Hash": "maD3kTgtPTl/LQy34A8w32JmHUlSwho0+bzc0InJm0I43Y65Y86RVKg5zoSAIMkBy/uHbMuJvgX4cJpabYq8bA==",
+      "Size": 993592
+    },
+    {
+      "File": "Microsoft.DiaSymReader.Native.amd64.dll",
+      "Hash": "kp63fouEPkhO50tAjt/v/6FdDuddcNO0eoCP44DuqqncQLsp71SeR+idvqsVn4BrT4I+jT3IXmV/e7MkhaHJRw==",
+      "Size": 2195504
+    },
+    {
+      "File": "Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Hash": "T2M+RXOAcAYMgGFHj1xyXTA7twLwxWf8mTy7xuLkdleOl8kdkL3T9X1vPVjdpuMnilQpPi5ccG8UKz//LimNiw==",
+      "Size": 29480
+    },
+    {
+      "File": "Microsoft.Extensions.Configuration.Binder.dll",
+      "Hash": "skayaUIqbJy5UI2b5sMqNJceGcoiRn0fnEA9raQZ3OQ5NkIaLkJSUKScXyGaQXkOzjZVN0XLkP4R0R5OE/8Psw==",
+      "Size": 44832
+    },
+    {
+      "File": "Microsoft.Extensions.Configuration.dll",
+      "Hash": "95lZAWQAmyjC2yqsJ5RhmLa3iaLwyvJ2tJMyNRHJxn0Sf/9Kim6oX0wh1QT1oAVkssNpQkfxTTefWDKiWqMfgQ==",
+      "Size": 45368
+    },
+    {
+      "File": "Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Hash": "wNjZEJCljGK8CsxXyyX8iL1P1VBc4cusLtaRRdMYTAzSM3GiihZWr+SsXcDrbt0UcQAYACCSfbBm3oIpuTHemw==",
+      "Size": 65848
+    },
+    {
+      "File": "Microsoft.Extensions.DependencyInjection.dll",
+      "Hash": "MCyw7gdf1hCvTHaJDeocsP1bVwrZ1bZBN+KBg4CwOlLRqRyana0eVir5DU1woar59Y244RD1Lj77iuML7WXl1Q==",
+      "Size": 93480
+    },
+    {
+      "File": "Microsoft.Extensions.Logging.Abstractions.dll",
+      "Hash": "MPmbAPcYYPKF8PQl/vNk2VzmiFfvXIf6SvGnVl5kAjRbwIGyV1TiGb6RP/fNlt7WeY1lTbkymTrVQGWZkHoaXA==",
+      "Size": 67376
+    },
+    {
+      "File": "Microsoft.Extensions.Logging.Configuration.dll",
+      "Hash": "a5tX5CKrE7pPGtXExq2wyUjNsm8aoKHcPX2ATSNnB6yt5wRccBRyRI9eV7kvX6OjD4gYVqh/BCS4deRbZP/hUg==",
+      "Size": 29480
+    },
+    {
+      "File": "Microsoft.Extensions.Logging.Console.dll",
+      "Hash": "NWLCv+H93GvptG/lbPDXDVhspjcSP75gR0VU83lNbLxY0zP6bcW+ecjuV8gUAZDRixmnPALeNHPZkRYiI444Bw==",
+      "Size": 75560
+    },
+    {
+      "File": "Microsoft.Extensions.Logging.dll",
+      "Hash": "m382mNiJorQUPNpo5En3wkrF+tBj0VmF2Mm8J3g+tGIr3FxeePGpa7J/+DndRp5fz5EhdfQDCjVtWdHfcS6tVg==",
+      "Size": 52496
+    },
+    {
+      "File": "Microsoft.Extensions.Logging.TraceSource.dll",
+      "Hash": "d/zrlRa5zDqv1qL6on9w2lg1tH0fYWiFlyfxxi+AnXAIyMz6yLfXFr4pBw20H5SzE7PnM+FWiRHWAUKqGgezEA==",
+      "Size": 22840
+    },
+    {
+      "File": "Microsoft.Extensions.ObjectPool.dll",
+      "Hash": "yJF1GRnp2JgnMUZxLhj9HLTCXpRrSfTk4EntIW1fwoeGr9/jFTWFzN62ifwA+QaU91lRT3mBoFrf1KWybz7O2g==",
+      "Size": 22808
+    },
+    {
+      "File": "Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+      "Hash": "QmG6JIEGyApZKMreRHKox0wRD3iVdLN6HM18QeLbSjKlRwyAQJ3EEAL5Gz9Yxx+ME2u6mI7L2//s8JK43boMZg==",
+      "Size": 22824
+    },
+    {
+      "File": "Microsoft.Extensions.Options.dll",
+      "Hash": "tu/ASS2TL92BrCxNZfS6sgOgmGCRElzxhME0NyvnQVojXjwTaJdRfeQMM5S4pENsUadNkxDQAFf3Uo2jk5czYA==",
+      "Size": 66360
+    },
+    {
+      "File": "Microsoft.Extensions.Primitives.dll",
+      "Hash": "BAc6xjE6svWs0hI41M9Q6ItJt/IJtHP8nOVw2WAjVQh3OulmT2eYkUgqLMGQ5usJoY17FIVuEQW/qVXxLJ0rXg==",
+      "Size": 45368
+    },
+    {
+      "File": "Microsoft.VisualBasic.Core.dll",
+      "Hash": "gGS6bGsYRC+xjUs3OVkvqVf9PePQSdJDJxPFyiybDqOSHF1nwYwbMf2zJoYtkpI2a6k1LQb7YHJ5aupfxbhJAw==",
+      "Size": 1255688
+    },
+    {
+      "File": "Microsoft.VisualBasic.dll",
+      "Hash": "iSUEqNPF6xtIC1e9KUqDv6JbNl6kOwr2+L5yAtz+0micdtIjEeg6Ox8hpWY3TmVOs4N0PKAc5Ig4aA2053joUw==",
+      "Size": 19256
+    },
+    {
+      "File": "Microsoft.VisualBasic.Forms.dll",
+      "Hash": "FiYdNjlQnmwKuXLzR3N458p3EfvfE76d8pItspH6x4Dx7DK0rWieIiqWTizpqP2o1L4NaY4QF92o2HaN8R+q8A==",
+      "Size": 248104
+    },
+    {
+      "File": "Microsoft.Win32.Primitives.dll",
+      "Hash": "qJN2bVHkVGsi88VSyjNib89ITqOqFvUqtq55YeiRQNZW7rgFr2dpL4u+C+Kx21n0Yt1Ug9eHRFtnfu5B/0WCcg==",
+      "Size": 15624
+    },
+    {
+      "File": "Microsoft.Win32.Registry.AccessControl.dll",
+      "Hash": "FAvXpmXSck4UBhyq6XaXwWgidG2ogWRJtZAS5vPV+2DLcc8xcAS/qif05iy7e26+pYv0leI9EambfbrOXK0KOw==",
+      "Size": 35112
+    },
+    {
+      "File": "Microsoft.Win32.Registry.dll",
+      "Hash": "w1TWB/7hZMQ9POECzAAdlCYW/txax/hTukVpZL4IhD5M5RfUipViELsRxcTwTvkcrAGqfc+g7G8viI7Q73uwJQ==",
+      "Size": 121096
+    },
+    {
+      "File": "Microsoft.Win32.SystemEvents.dll",
+      "Hash": "t+TFJLJVwMvrgJhq6JVJar0Wt46Qj48IKir7ebtPOHmwBkKqfqhP1F/RN9F1OwRLMlsspGhQvo7yCrRw0gwswA==",
+      "Size": 104712
+    },
+    {
+      "File": "Microsoft.Windows.SDK.NET.dll",
+      "Hash": "k7iKLvhSBnZRRMfAgmYtp6OtV/sIr5+LvANVchwSz1L2ppIK2tCHeMTSBUZSY20k0JW5mMKC+bHpK5I0gI8xZQ==",
+      "Size": 24877600
+    },
+    {
+      "File": "Microsoft.Xaml.Behaviors.dll",
+      "Hash": "4ieacRzLIr5lMJGC2/RXbli1GAl5JWsdlSSKx6NuKQzaCcxZIIi864+e9c4AfrsLADs+26PfhkxqmT70H6zPEQ==",
+      "Size": 147512
+    },
+    {
+      "File": "MP3Sharp.dll",
+      "Hash": "H++lVX3u5rTivnGqInUY4Ec0grzb+87EVKw+apIjxdnNOmlXnDcCemOgyhjWKqAglJN6OsR7q/B4j6E3N6BF2A==",
+      "Size": 160768
+    },
+    {
+      "File": "mscordaccore.dll",
+      "Hash": "Sqv+9eSsS71S6nSyFl9+06/cH9MNXhSOU73ojpnQGu1jh3E7133R3qy0QsTy2WJln24O9qy92fxiSh/b2lXrhQ==",
+      "Size": 1358888
+    },
+    {
+      "File": "mscordaccore_amd64_amd64_9.0.325.11113.dll",
+      "Hash": "Sqv+9eSsS71S6nSyFl9+06/cH9MNXhSOU73ojpnQGu1jh3E7133R3qy0QsTy2WJln24O9qy92fxiSh/b2lXrhQ==",
+      "Size": 1358888
+    },
+    {
+      "File": "mscordbi.dll",
+      "Hash": "nxfqmwVUboU55WbCuOaw4bxetZbMvlnRHipcWn1wWW4HlFEXMXZYOLgjIgRxBJ8xRVcmaR3YXTuHSTh5csTtIA==",
+      "Size": 1238056
+    },
+    {
+      "File": "mscorlib.dll",
+      "Hash": "EiJAvJ8LcWxB/tt88p1XG1SVPkH/iKJdRgYQy7F0r83Ql3GJrpQgJ+JYqu4Tk6u+t5CIxaIUyAV6urVanYlXWQ==",
+      "Size": 60192
+    },
+    {
+      "File": "mscorrc.dll",
+      "Hash": "jKygzVsgxncRdf17LSsgk9sn6cfLM+thC1j4gmAxj0uNurw/BBpIgQ3zo7sDE/XLpUZ097NaPQXuJJmi3TvybQ==",
+      "Size": 135968
+    },
+    {
+      "File": "msquic.dll",
+      "Hash": "RWyLdQCcxq5eeWbWRWu/6Bz9mHYhtLv+MoYjnCcT1jJLrD80BOanIeDDu44so6wiuodF9bKOEUzKli1mR/gcmQ==",
+      "Size": 529440
+    },
+    {
+      "File": "NAudio.Asio.dll",
+      "Hash": "r0DIuXU+vVq9762CWX3O/D5ScukXZX48x9eWHujgBwwE+WTfRW6qksi6gysZZ/NaxXSQ+irashZPMj53iXnvnA==",
+      "Size": 34304
+    },
+    {
+      "File": "NAudio.Core.dll",
+      "Hash": "tTbhjEgtz4EOwwualD7Abgyk9vK9jxh7gHqan9kNKMTC+2m62kdmxy4LeUL159QN2UsZOrAeaPZmg4aYu7RzvA==",
+      "Size": 187904
+    },
+    {
+      "File": "NAudio.dll",
+      "Hash": "s83nIXYf4SEKWzHaRjeublAdSJ0yCaF5ZprYDAPk/3F6+B+C0TBnMIAZTl8vehf81IkaxZiu3KFMEMfysJBLjQ==",
+      "Size": 7680
+    },
+    {
+      "File": "NAudio.Midi.dll",
+      "Hash": "5DW4OadpVyolHLByOAIPJJa++XlJo7MVnoXBIyfkOZoq3KZ7tbKgYGMYyptcfqmb8BOkMccgNM5R+SJHIaTPeQ==",
+      "Size": 46592
+    },
+    {
+      "File": "NAudio.Wasapi.dll",
+      "Hash": "94lgCoIP9ChssyPE+d+2tEABvpKVuySXMwg2OiZodhBV6AfH68tTkAKT9L5xxrXKMoB1wjCx6oJw8NduPsR3vA==",
+      "Size": 179200
+    },
+    {
+      "File": "NAudio.WinForms.dll",
+      "Hash": "UD+i/wzOodUapZxPOKLVUmJlVrDMaSppnxVxS5r5AdnmZGQq314l1s9c53pt7VlCfdG9I+Awrts4ka6UNinStA==",
+      "Size": 34304
+    },
+    {
+      "File": "NAudio.WinMM.dll",
+      "Hash": "0jt4O/1VoJxya6CdYn38xsIqbnvtilPf9yw0m75vsZCvtXTMJnt76+0VQLC/g08lm10DtQ4COIGz7EKosrV/Hw==",
+      "Size": 57344
+    },
+    {
+      "File": "NCalc.Core.dll",
+      "Hash": "d9mRrYFVnhN7xzqg2bDAhFQV0BVLEz+EVRsgQ3zegm4zV2HJuj++6gfTF5WJes9FDNQYOshTjbK70HiSNpLG/g==",
+      "Size": 81408
+    },
+    {
+      "File": "NCalc.Sync.dll",
+      "Hash": "pzDhCT3Tzhi59ieEUVzlqETWibU0T+NUIMTyZaxwCc7dWrNZKGtzrsrtJHtPsFzCBh8o9GbeAKzG+5rO+pF60Q==",
+      "Size": 37888
+    },
+    {
+      "File": "netstandard.dll",
+      "Hash": "XLnj+2A4ljnTtiXkzT4OpIRKwPmJw6+T5GpPDFDh22GQVzW9PgTRMBR90oZFdNEJhLyoQjBOgGUWFLBfve5nFA==",
+      "Size": 101152
+    },
+    {
+      "File": "Newtonsoft.Json.dll",
+      "Hash": "amRL/UVElQ7S05GQOTtxbIMU9VFIg4Dsi9NbUGKqFDNC39FF6S47a4HoAoXKwQjSAba70WDLdo3AAsSfTGA8Cw==",
+      "Size": 712464
+    },
+    {
+      "File": "NWaves.dll",
+      "Hash": "ll4khQvq9MoC9Utz7egCoRkKFo6fGPwYQ3hvcddE1bTgBiWzw6ohgaYhOsIu32+8Ib60WbUK3ejq+dlwWkfxPQ==",
+      "Size": 331776
+    },
+    {
+      "File": "OpenCvSharp.dll",
+      "Hash": "8v/VIOWpb814Bq1L7KpEGx4mYeF/5ao770inGe5ZMOIGU1epldCHZziuiaW9hQD8Pto4qYG+wXyvTnBMj1pLuw==",
+      "Size": 955904
+    },
+    {
+      "File": "OpenCvSharp.dll.config",
+      "Hash": "upS7NaHpzIZDj1hFw0F1nkhBYYn4XzvdrfuRotaHssEqrOjeaffuYtuspZ22D7ChnWw0PiMSIqm39GCFok2OoA==",
+      "Size": 148
+    },
+    {
+      "File": "OpenCvSharp.pdb",
+      "Hash": "9HRWcAh5Uad4PzyVuLRhNJd1FQL2IfmcBq1cv1s2kbdiQF3+ohjokfR4q596DT2mXDrfd18/z9PzB4V3szbTxA==",
+      "Size": 359760
+    },
+    {
+      "File": "OpenCvSharp.xml",
+      "Hash": "A+HHyJy/8Jgmn0YC8hpdLAyEls5fJR7AGufXcB9wIaXtm6+PcxtkPQY0Q/rNZDde08t/reEvpqdIpRw7+ioJrg==",
+      "Size": 1993858
+    },
+    {
+      "File": "Parlot.dll",
+      "Hash": "nufoxkvsOJtR1JmmuMNqqCGTtHODphm0VFBL1PKyma4/lk71Nvgd8YhiqhRPAPvySjHUgBogOtwL50sXITTUrw==",
+      "Size": 350720
+    },
+    {
+      "File": "PenImc_cor3.dll",
+      "Hash": "B6quQTiHHKSZrhJGknmTI2nD4aUZRA0LVMgTW4+uSYqzONRQYsxGv5zgdmjxQHzymRGwn1TonBWOSMKaRS/nKA==",
+      "Size": 157984
+    },
+    {
+      "File": "PresentationCore.dll",
+      "Hash": "B2Mk0GVWZXjUI5w7295roie26evTU4HGdVm94ag4sMiqIhWyzr0LrxOj348/ueNY/owLaQttmcsVshmZmA4/SA==",
+      "Size": 8620328
+    },
+    {
+      "File": "PresentationFramework-SystemCore.dll",
+      "Hash": "ZlVt/32+EL+zoLH70yLs5czmpWP5fULiLYddNTHLtzH5cewtN09aug/svEaX1za2wM2TFYgVvuuREpR8KbNXnw==",
+      "Size": 39208
+    },
+    {
+      "File": "PresentationFramework-SystemData.dll",
+      "Hash": "vioWBz9ydhQ0M2Gw7XSA/saIuFFpNqY/5zyNFxSQa3FWamVsBtbeJvIXONZdw7buNJ5KMg2alDdszpZmn4OWUg==",
+      "Size": 35120
+    },
+    {
+      "File": "PresentationFramework-SystemDrawing.dll",
+      "Hash": "q0Ar4noP8mHbf4PApqmTdw9xzjrrQpo30Jq3H2yZUc3bjzm3/Ry0JsMvMlu9OxWHTtyD+Epm2efQj6IDyxUAVA==",
+      "Size": 35112
+    },
+    {
+      "File": "PresentationFramework-SystemXml.dll",
+      "Hash": "fHr8cn4ClHJ+zuk6EdLNK4lcxPk6j2z+lPLa5ECs9u+GOzUdHbU8T4zGvQyIeAK6zdTurxsHquPNRGqSZm9LIw==",
+      "Size": 35112
+    },
+    {
+      "File": "PresentationFramework-SystemXmlLinq.dll",
+      "Hash": "YxwuOH28/61/2JWzxXRouhMwS0QAaTHbSWsHtcEFZD9b0m2f6Ql/+UdiKAZgkJgODU9jwq1P9rudHtEONhSL7g==",
+      "Size": 30992
+    },
+    {
+      "File": "PresentationFramework.Aero.dll",
+      "Hash": "u1aF4o9+BdlW5TdA8cA3b2vMRPvZFxIq/Tp0kLWKbh+rmJGNpvpvqiyDhRJEQa8ENfNw37koBUJN6xBJKoP2dA==",
+      "Size": 444712
+    },
+    {
+      "File": "PresentationFramework.Aero2.dll",
+      "Hash": "NMlhQZDpg7HrsdR3UXm+4Yuq5DCZXyYcgIZZmSbEzRPL7nby/vhNnmLbf7P8pwR/cPnKC481lrw381tTibNvaQ==",
+      "Size": 452872
+    },
+    {
+      "File": "PresentationFramework.AeroLite.dll",
+      "Hash": "EHJ7j1UpPSM1ITfF0x9y5bFgeHzIysGKMSfGvD3JtiV+txpJ2IgHT7fqHW2ez8mfS8qirT1ZwXWI8XLvZZtmYg==",
+      "Size": 239912
+    },
+    {
+      "File": "PresentationFramework.Classic.dll",
+      "Hash": "OX4dOKpRaaeh6pDl2t0sXJb91C/ZMQ57GjAr/CtZPQIzCiAPBZaqwqaWS8hRX3rUwXetV2HfXds+ZPbwkYSwzw==",
+      "Size": 276744
+    },
+    {
+      "File": "PresentationFramework.dll",
+      "Hash": "F83s3JDvfdY7jIaMOhE/DtE1Ey8RW/ukbcVPW9DD5eBjEsLXRFZfWmtNR0zeHwKCW+oRE9x+G1oHfaL93OH35A==",
+      "Size": 16099632
+    },
+    {
+      "File": "PresentationFramework.Fluent.dll",
+      "Hash": "tWoxvc5n6XzftOykqKHQk+4hY/Rwa44R3hhl34aZIepVD9mKeIkikWlrKOnZyXV8gISPTF2B223aubV4xQ2wxA==",
+      "Size": 694536
+    },
+    {
+      "File": "PresentationFramework.Luna.dll",
+      "Hash": "rle9Jh/Wf7F0H5WxFRd5PTNnPOhk1la7vsBXdy0C0WDaQ5XSgDuvvFoONz0jJslSi/1yZKO8oVLRPIVfp1NLAA==",
+      "Size": 674088
+    },
+    {
+      "File": "PresentationFramework.Royale.dll",
+      "Hash": "8PZeFjjN0AdIu5A6cdhcSlprEPHPq4UUZxDwcUUfeo97B7LJ2R5JJ1rdoNIMC2B2xFJCMy6yOpdidEVd0rrsEg==",
+      "Size": 334120
+    },
+    {
+      "File": "PresentationNative_cor3.dll",
+      "Hash": "JxHxCsDJMyPFii61L6++sGVdlDExhqvetyTTftl/162kIZU9SEjpSo89Rg5BuzAZUdTT4mfHX1H3gYBd9OPnmg==",
+      "Size": 1237168
+    },
+    {
+      "File": "PresentationUI.dll",
+      "Hash": "gmUvbeFHYoY+oLidypCXj4+EEUz25FYcKpSwMfomqyx2+AcmRDmSsCQ0E573K2mTGL7rvCNHAnm/ryhCeql/0w==",
+      "Size": 1288496
+    },
+    {
+      "File": "PsdParser.dll",
+      "Hash": "XImCGqYwResxwZfD80kw0qj9qpmenznwFTXhhttAugEF3hs8RKAe6A8idezZwcWlQl33ZjP2YCXhvafEtq2uhg==",
+      "Size": 29696
+    },
+    {
+      "File": "ReachFramework.dll",
+      "Hash": "THZ3qNBOiB7OCuyITfcscuRpOSwy/qnDwStKcrMzY1Bg0k4dtSe9BFwQ6zblmb+gdS7gzcqQW+L2vyZsBOqKdA==",
+      "Size": 1595688
+    },
+    {
+      "File": "ReactiveProperty.Core.dll",
+      "Hash": "jrWfj+2VAB+jXfK/LL/tMrL0HIiHXiunTGxvKviOu2EtDlSeZwAwVzeSxcsR1h+PiDD4/CaRBWGrF1U6JweEGA==",
+      "Size": 19968
+    },
+    {
+      "File": "ReactiveProperty.dll",
+      "Hash": "3GGWLCEMmtu/8CB8VxfCyAb99voj7R9bza5y906taNCNm7HDtezocnO5xb3pz/GF1vAf3GjPDfgxO+Z3LPHiyg==",
+      "Size": 135168
+    },
+    {
+      "File": "SharpCompress.dll",
+      "Hash": "rI0yzXm+5IgivHdH0mTTQ2n8kaujUtlcd3yhNcwQPhlMlPEr8XRNjadgo0cEnyQAT9PJtb//b6hPVTwpiKDmtQ==",
+      "Size": 606720
+    },
+    {
+      "File": "SharpGen.Runtime.COM.dll",
+      "Hash": "arwTODOvwA1TeQ9dFZKywazRga5C/k5JK8euO35OnswGET6SDvlonavIj3HMsjGtIginbBw+xRO275+Wh2akzw==",
+      "Size": 168448
+    },
+    {
+      "File": "SharpGen.Runtime.dll",
+      "Hash": "ibwUbGykCHNl19GhGJZe8zyxQ/Cx6UzL0ahGVyliJcmDK+Y1fJegbJb+m+IN9QBxEfrIsRZxLR1X2XFCioSaxg==",
+      "Size": 64512
+    },
+    {
+      "File": "SoundTouch.Net.dll",
+      "Hash": "Wm8mT6b3x7cvJy7PUxRpafYLHwFNVCvrtR9HvkLH4ZllEFsVE4jOA3yJLq0Ncy7verULYpumMcDgWtfUvXKIRg==",
+      "Size": 43520
+    },
+    {
+      "File": "SpeechLib.dll",
+      "Hash": "22bOMK+pJuBdikjbVEpvkO76zJNmu09uRkFgP35LvAZtGuO4BlqipxWTcjmaupXb17n1oyJnlXsPgCxkiljEUA==",
+      "Size": 166912
+    },
+    {
+      "File": "System.AppContext.dll",
+      "Hash": "0qyBZXpUUAmNaBHHuaCyoCVhxlTXhiJxsbOxdUYPZpwulUa/xZ+m5YbsOJQsdQcZVkBLYiEvSN1PYRj7u9RRaQ==",
+      "Size": 15624
+    },
+    {
+      "File": "System.Buffers.dll",
+      "Hash": "O49fSTGuDfQCKMAYrCUhGp4z3yUnni8t1ih4xJ1sYCPf2ctSVAMOdwgY2jOVlYl5AE1yWxlCDtfCcERkE4810g==",
+      "Size": 15672
+    },
+    {
+      "File": "System.ClientModel.dll",
+      "Hash": "81iZmYJjuBZit/E7LsAmoHK0Kcd7fUQtrCv6MT/ynrKbKl6QEAi7WSGLE3b2tajjQ/uPV/24TrCaM7iFm6pjzg==",
+      "Size": 111128
+    },
+    {
+      "File": "System.CodeDom.dll",
+      "Hash": "fSRXNUv56VvvSGzllFMM4yLR/dkUtMjpS8QryOblZbsfF9IlWWdx8I9UE7kgMaDjLvK5LrHd9cp3zVakaXXhCw==",
+      "Size": 489776
+    },
+    {
+      "File": "System.Collections.Concurrent.dll",
+      "Hash": "DqUn/LggFZnelKVJhj5drXnMYpuZg0RJJyJ5QDvMl0ure2dKm0puEIev8T2pd2QpY58s5s4Nha/cB8T3/pX5jQ==",
+      "Size": 293160
+    },
+    {
+      "File": "System.Collections.dll",
+      "Hash": "m85UKGNgZlWleYCN1KzO5UxOPqDKc2B5WN6WwyU9yK4k2og399IbQcdVKyDPeElVgW1LLbJ1P1bjs/osiGmLSw==",
+      "Size": 334088
+    },
+    {
+      "File": "System.Collections.Immutable.dll",
+      "Hash": "E3XyywfchnoykjIDwqxdeA4fyfi4l7P0WL30uE9tOatC+dDTRj+uYpmEnzMOzhqYo3ePNNVALWA4Xg5B9a0p+A==",
+      "Size": 903448
+    },
+    {
+      "File": "System.Collections.NonGeneric.dll",
+      "Hash": "DZ9AVouagPXRcNUWb5grgSAwJ/v7yVeMGu9W2QSIsRvXl6jOW3rtMklmkiH37lAbbe/9ollqxMht3Sm44UypXA==",
+      "Size": 108808
+    },
+    {
+      "File": "System.Collections.Specialized.dll",
+      "Hash": "oSO/t/Bi9Kbn6X34e15PsfdL7yzKRqr5RkgkaplUJRS159qPIQpebKCxxH11mwOC72b4m4cEQgkoDDWJjYukqA==",
+      "Size": 104712
+    },
+    {
+      "File": "System.ComponentModel.Annotations.dll",
+      "Hash": "Go0fpbVdmluE1HC615ywDjcCl0BinAHHL6Bh6wA63tNhq4LCbPIKZ/cZOePJaiwbdwrEEvV/4mVqA8dt+YzjGw==",
+      "Size": 198936
+    },
+    {
+      "File": "System.ComponentModel.DataAnnotations.dll",
+      "Hash": "6KDv16a/VA+B8W91NxXGdwJNG0j0syW2vlDByyeKRhfTt11K1UjQolFnmf9sNp0gxJSEcaeIbpeKAACqpji1nQ==",
+      "Size": 17168
+    },
+    {
+      "File": "System.ComponentModel.dll",
+      "Hash": "2ULgtqivh0tdOlJaC/UpiwlgJMBezO8Xi9btk2M612tKgahlbMGb9tbkd+Q9JWWVvceTdIaRtx+i5cw7bxzQ/g==",
+      "Size": 30992
+    },
+    {
+      "File": "System.ComponentModel.EventBasedAsync.dll",
+      "Hash": "DhpEIhriS83YQ16/pIcsGLA+2EtksjgYmhfkPVCZo51A9aUzx4c5CiSTPCISG+eMlbudNTDDqAEgl5BGs/Z4HA==",
+      "Size": 47392
+    },
+    {
+      "File": "System.ComponentModel.Primitives.dll",
+      "Hash": "kU9EY8D2TzzSdA/Zgcii0iLJywGTRfwrE1aKcHlFKX77MgCybY0pAzV+9WiM/qj0OlCUdQEbM+b53BQtZ0R6dA==",
+      "Size": 80168
+    },
+    {
+      "File": "System.ComponentModel.TypeConverter.dll",
+      "Hash": "SjIdXJtedfaPOYc/zmwe4WTIKS+vPn1OZcmrdUDcDYT+iStgBJi294d6chvcoqzbliEEnfwDyCH95RgGxfY39A==",
+      "Size": 772368
+    },
+    {
+      "File": "System.Configuration.ConfigurationManager.dll",
+      "Hash": "vFvFWeexZnpgwPUHKY065UWP1dHPHRDr344mCkK1xZ2mV7zs2yRwPix7P9XSRzQ3ITwI21AOAVlhIm1jTesnrw==",
+      "Size": 1071400
+    },
+    {
+      "File": "System.Configuration.dll",
+      "Hash": "5uqaa2q090PhIqF1/gRKRLAeIpx43HR5/Mh7Ty0Ag9zQUnad5l4H8BlUyjklZIKIYfNGpj2oRsP/LWDFVgvjGg==",
+      "Size": 19728
+    },
+    {
+      "File": "System.Console.dll",
+      "Hash": "6FGbjz7eunLOJRxNaCMlGgdVPQZmVGem25jLB4+GXROaIyPbRoO698kdBtfVcGzKq3nuvrAdfYoQ3aKN3tILfw==",
+      "Size": 174376
+    },
+    {
+      "File": "System.Core.dll",
+      "Hash": "PA0Xdur0VVOxVMn0PQac/JYdNlEYFnO5B2QpfLY+Tb2D00KQwigDt77GF1ePltRPTA2QjAvp/esCwG+r+ryCzQ==",
+      "Size": 23848
+    },
+    {
+      "File": "System.Data.Common.dll",
+      "Hash": "rJTN3qW/Jwu/Uh0jRGx7H8KMlwPk1OyKQ+GsAARSs+QE7/lzK+SwUt6/sC9SAc/18/szMI/T0ojrBzvaqXuNEg==",
+      "Size": 2849032
+    },
+    {
+      "File": "System.Data.DataSetExtensions.dll",
+      "Hash": "G3Kjog+jNb+BosQRXt+QAeSFz3IW/6dlDDHmBim5bV466210SxOwlXSnqRgWN1wKIjPe/QD4dg1d0yWH3vqMwA==",
+      "Size": 16168
+    },
+    {
+      "File": "System.Data.dll",
+      "Hash": "imyaecrthccKzdrVoQxLeBw9/c30f3Y2roT5QYSbLn+7MsY64/tlt7rGtHzmcnaI6TVmYUByOxuQ+4wEzY731w==",
+      "Size": 25384
+    },
+    {
+      "File": "System.Design.dll",
+      "Hash": "Pk4X+ZC1Hqn3Kt+8Que34KvV5HyKFniHodoBme11AbgGTC8ULOOPB8iaO6JObGEjnaD3M8P7Ioh8GiPLjpIxZA==",
+      "Size": 23336
+    },
+    {
+      "File": "System.Diagnostics.Contracts.dll",
+      "Hash": "t0rYDdTXzOV/6hUUVdYfjtDFBuNv5kebagQFFE9L8tj57kWsMPo/j4sXkEAGYZenCzujGCA/2O9Uz0foudxugw==",
+      "Size": 16672
+    },
+    {
+      "File": "System.Diagnostics.Debug.dll",
+      "Hash": "vChErLxHm+0wMclcmXdg40JklZPNREdC8z3Snh5UclfWFtB/9SB5mGM7yDd8nQIArlTKs+zv7pcZ2SQqMqV1Zg==",
+      "Size": 16168
+    },
+    {
+      "File": "System.Diagnostics.DiagnosticSource.dll",
+      "Hash": "dDFOSmnKlQfS12+wpTU/VggK9AJmKcxH6U3qDVHFCZOtE1oU1HttWhFg8Uo9s//6/Ukr3VFTZum4lD87Sq4ugw==",
+      "Size": 452888
+    },
+    {
+      "File": "System.Diagnostics.EventLog.dll",
+      "Hash": "pJvUJ5ETnZD/UOmxvaMmu7eHcp+pcZFXDplaoe5qH4v/RthEnQMiZw/OCgL15gjvwN02p+fb3G1eJKeSQPmUfQ==",
+      "Size": 383280
+    },
+    {
+      "File": "System.Diagnostics.EventLog.Messages.dll",
+      "Hash": "jQMon9Dm+XObc+QEq9IVgyQULErHJY1iWOx0d9bvyh4p9ulO8zSy6Gf2XpnNYi2BDCTM8+X2kdIZCPdVLXU3/Q==",
+      "Size": 801040
+    },
+    {
+      "File": "System.Diagnostics.FileVersionInfo.dll",
+      "Hash": "T2txG8WVw58+pB3T4vi/Qd6+StM4okl5dZsxYlfy/5pLbQW8h/CJzDsyyARhphJhk76VT4Y3bITpeQ8ROaEOiQ==",
+      "Size": 47400
+    },
+    {
+      "File": "System.Diagnostics.PerformanceCounter.dll",
+      "Hash": "z67u7ysElZyccqPvW908O5P8Bxh4lTDmtmyfbtHjnU9QrrCytFjTiLgloWX0biiNACyDhqgcIr/kbb0QFaY6iw==",
+      "Size": 313608
+    },
+    {
+      "File": "System.Diagnostics.Process.dll",
+      "Hash": "/WcsqauZBqZkgwbDvO7eDuho5RYTJXbGnViepYy2CB9CnMx/lpbq89hBycO6wyei979bQNj62ezS8aoOVQiAbQ==",
+      "Size": 338192
+    },
+    {
+      "File": "System.Diagnostics.StackTrace.dll",
+      "Hash": "69ePPp118aVVAZd5cGS4Oi0W1Csuygdka9b43ab06eUwyB29DeBDlR2DbM7nWbVLALZEQkS/RoAAPbLQfLhHDw==",
+      "Size": 47368
+    },
+    {
+      "File": "System.Diagnostics.TextWriterTraceListener.dll",
+      "Hash": "v8S95u8qI4TQMEkVpOZHjlh532j8d9QJZBR6EFtLZTU0Nx7hEupQdqKnfhJ0klTD8jY2h/CXN4zqQ6xA7lLnMw==",
+      "Size": 67864
+    },
+    {
+      "File": "System.Diagnostics.Tools.dll",
+      "Hash": "eoUy2qvk7xNs5r9M5IHdOSOk3uCacwZkcc37P5m+6RSq3L6ceFOYLy8XqfjuS6bOKJVxTnqDaOMJhPjVHsggOA==",
+      "Size": 15632
+    },
+    {
+      "File": "System.Diagnostics.TraceSource.dll",
+      "Hash": "6WW3fSvMNDT9CzHMhoS5fzUNHxCyVqQFZeVPF8AwT421udwkjWtBxZrpjX5Uprp/MgyIUfVGe08HXoJawzCRHw==",
+      "Size": 145704
+    },
+    {
+      "File": "System.Diagnostics.Tracing.dll",
+      "Hash": "3r1E3cdcEabTwEiJhRlAsFQ6h4j71T94h7uyL0yiMwi+nr4YYUxLPidEYRcUVUQz8L5FNvgwNa+SLjAci/u0ag==",
+      "Size": 16672
+    },
+    {
+      "File": "System.DirectoryServices.dll",
+      "Hash": "/BwfjVyvRSQP9A6g1Ej030KVwjRrqcQF9/KgygIjlnFCaqL+MV5sriu5TM04rD7wO5elYrW85haXyzX6ZLbHTg==",
+      "Size": 1034520
+    },
+    {
+      "File": "System.dll",
+      "Hash": "hiQXsqILJ/9CJNBxQBZy93q7fq9KGfPA4/A0kiRpckuS3WrgpQvBugS1vTQkW+Gp+ud1B8WbANfSTJl3C8HUlQ==",
+      "Size": 50984
+    },
+    {
+      "File": "System.Drawing.Common.dll",
+      "Hash": "63sQn5mtIlleimykgOXq4h4qp3t9HyuoALOt0SPHICljytQr3TY2p5jGWzU/Axm1fjpKxgsl2tfvXQPMCL5WIA==",
+      "Size": 1198344
+    },
+    {
+      "File": "System.Drawing.Design.dll",
+      "Hash": "OqH6T6fZQ1/ZQ082tcUrR5wT23f34jJFlK/IL2j7XSB+AbrDGjYtQ1h3/YACpZDfQMrukEs+z6nvUz/56BLHLw==",
+      "Size": 16152
+    },
+    {
+      "File": "System.Drawing.dll",
+      "Hash": "w4pBptzxwtkd2hBqG5xZE9jOL/Imx51vfrUtJyiwNg4xpfPWp0LjqnEEtAwyPziClBdVRV7HinZRPDI7NHDplA==",
+      "Size": 21288
+    },
+    {
+      "File": "System.Drawing.Primitives.dll",
+      "Hash": "VNEC6Nhekrie5wRoW1tcSzyFcy7MCru354NeXp5RJ90Z1lRvyBWpKYaE+tA9xjNEVonxTPMR2NeEMXodNEHGBQ==",
+      "Size": 137512
+    },
+    {
+      "File": "System.Dynamic.Runtime.dll",
+      "Hash": "/lNVyX55qcIUc0GeXPJOHCGRDekSBxttUxaUe10MkcfjxgOVHqU6rSNIWW+jbxbBMa7uadj6KTjcnLBScTsFyA==",
+      "Size": 16672
+    },
+    {
+      "File": "System.Formats.Asn1.dll",
+      "Hash": "IpQidj4MZ2OmEryj+YaW/tsoyK8g1Jp2loa1Xhq3hWPRgmSVLWAsKpPy2Km8S3ALunorHhIWLTZbs3sTU7NJbQ==",
+      "Size": 239880
+    },
+    {
+      "File": "System.Formats.Nrbf.dll",
+      "Hash": "p0pvRXlpWBSCyoFnRNvXk0sSSiBRcRKvwvU3SwQ1n+FUtmNS3X3W3WQL+R0uuDzoGUQGwnFD5gB9H/bVQY4E3A==",
+      "Size": 137512
+    },
+    {
+      "File": "System.Formats.Tar.dll",
+      "Hash": "kt2ZkzvuSWlQPPOlqgK7uFJn3ZX0sCgZ/HH65aoe/1FcSF8EruC18S5g7AZ7KZDv77rJ9fdITcJ0X75dSfc9NA==",
+      "Size": 272680
+    },
+    {
+      "File": "System.Globalization.Calendars.dll",
+      "Hash": "oeTZDuL6qjDWuN4+8OgSyBeKuNFOnugS5gk6AChGSu/1enQV5o32uGq5hSW0vTxtHAT84+n9sKm0abra3jJqGA==",
+      "Size": 16152
+    },
+    {
+      "File": "System.Globalization.dll",
+      "Hash": "IcRcSW70VKht/L6UL8XOu+W1xUIfF5tWFwvVAZuVh/5o+WvPDqXMHzHQ2/oDEJ3/5TOdW/erzqgsSs6i28qm2g==",
+      "Size": 16160
+    },
+    {
+      "File": "System.Globalization.Extensions.dll",
+      "Hash": "gGAAnlwRTa0sWo7myHQ+yPGk6cRjAi0Q9DeHhGIfQquzv1ooz8azGj59haB7x/Q+/N4e9oUdMo+aB1APcWpBAA==",
+      "Size": 15632
+    },
+    {
+      "File": "System.IO.Compression.Brotli.dll",
+      "Hash": "XIgfPYPAz6L2YlIDFs+E9HLHDm6+F8FOZOgR114dIZAOD8N/39RsWdcrG+eQME0AipVsR5vCRG6qLbVP7cQSVQ==",
+      "Size": 84264
+    },
+    {
+      "File": "System.IO.Compression.dll",
+      "Hash": "NlX6QOnNEzp0r48fZy+EHBnbxp4B30Nc98eYV7B5q13SbIUC1Qqw1frAavcHixOH9f+/pMK5/61AuCBWVS2+bQ==",
+      "Size": 268592
+    },
+    {
+      "File": "System.IO.Compression.FileSystem.dll",
+      "Hash": "ecNpLKUJVHcolAvAXFvSkHoKHMnjL+1rqNl2HtJuEqxSAdkf0R2mdTQ8CRQ0FpqvS/3DBYEwUXnVWTQ+YIHzgQ==",
+      "Size": 15656
+    },
+    {
+      "File": "System.IO.Compression.Native.dll",
+      "Hash": "0YNS5qaX3lnXJKw3k7PKpVDidrr6xeeTFXFT0+6BuNGnRfV0Yc22L4sC792xLjnHb1vQnfibhMFndwqCAW3/tg==",
+      "Size": 926472
+    },
+    {
+      "File": "System.IO.Compression.ZipFile.dll",
+      "Hash": "gOh/EE3rtouVFUqw1yzKEBpraCXYFyTRZRxjxSLmWYePLaIiCaUT1VPn7ciFQf0LeY4uf2F1WGtgYpqrxgJZ7g==",
+      "Size": 55584
+    },
+    {
+      "File": "System.IO.dll",
+      "Hash": "UuQIpnNp9N4X/EFxuaX4q9l1oHib+XYGOKGMpLH+kDTa5o1TTM3wd07NOodDgkiHaXN4+LXPUhR2gsw3Y3e+HQ==",
+      "Size": 16152
+    },
+    {
+      "File": "System.IO.FileSystem.AccessControl.dll",
+      "Hash": "G2O2fgDznRhMpSA6RegM4SrkAnh9u/HEDXwsu8xH8LC5pb10Bag4LCB0VqEjjaF1STozuraG5P0uVz1TfKJ3Ag==",
+      "Size": 104712
+    },
+    {
+      "File": "System.IO.FileSystem.dll",
+      "Hash": "QO3hqbi4ZvjoeEI2sDxnXJ78E6/cJLNA5WD2ditXC8xuCYkh7FGBDRV4KO9HejV1rJOg+1DFvX6tGQDcxN7BEA==",
+      "Size": 16160
+    },
+    {
+      "File": "System.IO.FileSystem.DriveInfo.dll",
+      "Hash": "VKOqElpEluLNzHnDdrIGrx6YraJdCb3pDgrmnQ9G+xdRtJo4ZgWCAI+dCAMJ1TEyquTGOyqV4ROusDYDYC87Yw==",
+      "Size": 55584
+    },
+    {
+      "File": "System.IO.FileSystem.Primitives.dll",
+      "Hash": "7dA9tuOzAqp27WX7iqSmMVwxBrZsWUeaiOyu1zdTclDtOXPjRVnBk1YI0pBbocnWfbxNTdMpyC6Q3xFt3QKS4w==",
+      "Size": 15656
+    },
+    {
+      "File": "System.IO.FileSystem.Watcher.dll",
+      "Hash": "23VAnDPMUKO1zJ+YZpwlE8Od4iok+EGdq1jHG4K6VgzyFqum9Z+D/q9Z3qN83bQ8e9sgndrlOuvj6qvmrYMMyg==",
+      "Size": 88360
+    },
+    {
+      "File": "System.IO.IsolatedStorage.dll",
+      "Hash": "HB08Qj4O6ustS8wvhzk/hAG3xbMTx+6ySXQEo9+95JVqoo/7tw+eg08GQ2/IiJu0+ub8P74Xz+udSFREJhUSdA==",
+      "Size": 92456
+    },
+    {
+      "File": "System.IO.MemoryMappedFiles.dll",
+      "Hash": "2+sYBddN5CSIpC9gaifJoV4ZQ17tPk4l1pPODELuvC2v2YT9GoM50RsFb9dDMK/cguy5CgKvYgO2eTR4fxpb0Q==",
+      "Size": 84256
+    },
+    {
+      "File": "System.IO.Packaging.dll",
+      "Hash": "ZLEDzYtx7ijN194oL7QWm7w6XeI0mVv+lnm0KF7onUGhYOUN/g6M3r4YV3ZmRmps5ZXgzLX9HBdh40gLzCxbmA==",
+      "Size": 325944
+    },
+    {
+      "File": "System.IO.Pipelines.dll",
+      "Hash": "jUyCJxoP45Ql50lu1sel1uTKFJMHFM4HYQER2fWkiVTkIJDFGSe9ex/QmxPaflWHSBj35twkf129rOq6FYhamw==",
+      "Size": 194824
+    },
+    {
+      "File": "System.IO.Pipes.AccessControl.dll",
+      "Hash": "ADoaJt/S1xq1Ip0nVehl9Kg3mMWPjjXu711IHqsxbS5zTBww/c+6s/nU/gYS5e+0FdPVwQeBU1YRXvweu9pvlQ==",
+      "Size": 16168
+    },
+    {
+      "File": "System.IO.Pipes.dll",
+      "Hash": "2pVP86cJT+vXfzA8QcaWJpUEhloVbk++DHSLDoh7FmVcQ6xKfxVUseCpMYmwwl9IeLMOTLRpUBYG7d3FCcxsbg==",
+      "Size": 170280
+    },
+    {
+      "File": "System.IO.UnmanagedMemoryStream.dll",
+      "Hash": "51v1Qazh/eDnfPWosq/yO4rl9vcCfL+Ej4HfStPb/KtQvyQvKxGyX+jS0F0N/ncIbAju8gEnb6Y+RrETERNRCg==",
+      "Size": 15672
+    },
+    {
+      "File": "System.Linq.dll",
+      "Hash": "HeK20IfEVnJMQnwao3rilo727O93pW8QTy1YVIl3s9w+umdaumcfg6IzXxhlGAHrL+6A7KF2lZlSjkAEfODWiQ==",
+      "Size": 657704
+    },
+    {
+      "File": "System.Linq.Expressions.dll",
+      "Hash": "iMk+rfmMrYYHRoWCj9P6fOsYXuEgreKkAUKslZ0bHwWaUHfSilNM19NohOYjwInA7ZOwGtNZd+Pl/E5Pem50YQ==",
+      "Size": 3668264
+    },
+    {
+      "File": "System.Linq.Parallel.dll",
+      "Hash": "XsjgTUOCh2DvywX+BGDc9FIEP1IW656cZVocT1uoXY5XxIUeey//i1iihhG3ztUJy2N0PfpCW9uay5swApFl9Q==",
+      "Size": 801064
+    },
+    {
+      "File": "System.Linq.Queryable.dll",
+      "Hash": "WBePK1wfpbzeWmw3/1uGow5HpUQ/agaaFpfsJO7dEdJoQIx8dYrQPwOcr7iXw8SXECdFFoPItiFq4HUty+RhaQ==",
+      "Size": 178488
+    },
+    {
+      "File": "System.Management.dll",
+      "Hash": "TE0UCdSDK0IDaZzz+WPNQs4REkGwleVaOsxkBozHiw68YGop9ZWxyXr2NNpThMCUuHn00JfgJ+bv4YOwm6fPUw==",
+      "Size": 313608
+    },
+    {
+      "File": "System.Memory.Data.dll",
+      "Hash": "DKy4mZbhG15RJZlOmdT3Jer4Jw2yajdKEH8T3AG/xf9SsAcDdzKRj6B6yBGdjI2ODVLWI8cmE6S8T23pUY0XSQ==",
+      "Size": 28264
+    },
+    {
+      "File": "System.Memory.dll",
+      "Hash": "Mk/PasmtIQQvYc27x3R3iOeDZLUZYpig1dCygNRYiOPjnQzvB3mUetJrFO3xv/gqEky6YIT4sUBzaXAy6M9B0A==",
+      "Size": 162072
+    },
+    {
+      "File": "System.Net.dll",
+      "Hash": "JtF6aErW6yhl6yhmMpzQm8OiqcngzcHiobMD7VIBaLPpvLYB+z7RU8Mcy6mVcNar1DFw5PzcebJnSoaPXJ9eew==",
+      "Size": 17704
+    },
+    {
+      "File": "System.Net.Http.dll",
+      "Hash": "sOVrp8G7YcY5M+THxMtOTsTENhUDmanunsQpKPnCU66ahAzl64CYZCL7EX+2L7m8krvw79ucAb331gfET/SPhA==",
+      "Size": 1788176
+    },
+    {
+      "File": "System.Net.Http.Json.dll",
+      "Hash": "M2N/ciqsQIzpg/jRJib7nRSzdMuAgsnOH7LzmvdbU9yWTHFBzXD5xpuvmFKFBTArfpwkgETaEwchwYPPOXM0Nw==",
+      "Size": 133416
+    },
+    {
+      "File": "System.Net.HttpListener.dll",
+      "Hash": "wANKvfDavvSzkoA4OqX49peb5DyGY7ekYauyDCtF4eebWXG4LXgxEkMyVlfyTih4t8tKAHypm63RrdyH+UX1Zw==",
+      "Size": 551176
+    },
+    {
+      "File": "System.Net.Mail.dll",
+      "Hash": "iHmaeQ+LQHTclsJ7yUNqZP7QupE6bZ3Fw+9G7UjAlJ6QHnlTq5CRb7unN5Np1SKEqmT5jBpG8IC2clgvgiBLfw==",
+      "Size": 432392
+    },
+    {
+      "File": "System.Net.NameResolution.dll",
+      "Hash": "mTvCut8Bx8B/1n35bVJYUQTpqKzTgiyvi5zXWInR0BB3j2g8WR2j26P2826KLdvPqV4Q01rIs05me4DdDFkZyQ==",
+      "Size": 125192
+    },
+    {
+      "File": "System.Net.NetworkInformation.dll",
+      "Hash": "SHdOHMKlE2vJM0Dxu4qepUfJDBtaRJs77guv7MsvHR0STxcAmOWzLuB4OX4xz/mXjx0IqTR/c8xgBfKn3iqglA==",
+      "Size": 157960
+    },
+    {
+      "File": "System.Net.Ping.dll",
+      "Hash": "c5ponnhLrF8WQkqyupdnBQdZYwI24OeY2E0vxfD/gK9sd7U76DCXRbDeBsUZy/LQm+gYsW1bViszM1sPzZFLqg==",
+      "Size": 96536
+    },
+    {
+      "File": "System.Net.Primitives.dll",
+      "Hash": "M6grnqxS4NxkpLlSIeIsHGnqQyUpCoB0Z6lk0IgQZoD5ekQqE2OH62Dsw7C/YV6sBLOjubW4R7h3WNDwA7xo/A==",
+      "Size": 227600
+    },
+    {
+      "File": "System.Net.Quic.dll",
+      "Hash": "oX4CGi3Zboj9QpL4EVzoAnVl1ot5K4euqLALZqqt3Ghrs11fevv8Zu08kucwr9c8nULcUTwVBgmPZjgeQsBvag==",
+      "Size": 370952
+    },
+    {
+      "File": "System.Net.Requests.dll",
+      "Hash": "Zrebx0g+0clZgYsUbfKbp266LKzrH15Oy42iLPrWJtgbQdbKMk5b0DcjpoSVt6AwC8uZsYVFKgUQrcj0573r/A==",
+      "Size": 383272
+    },
+    {
+      "File": "System.Net.Security.dll",
+      "Hash": "ifWm9OQEh6/BvQLRBozFNKyNkZyFPd/SBgyO8QuQHyuQM1RccF+u/9Fs5IR9rzzbpoojw8RI+nnoz41J6vinGg==",
+      "Size": 678184
+    },
+    {
+      "File": "System.Net.ServicePoint.dll",
+      "Hash": "kldQZojI9asgafwuy/caQHSDTvKk3I6kuNLmMH8hZHeMihZyJ0KqL7kSaEUkS96VtYcmqNBoy0FX+AzFdSFPAw==",
+      "Size": 15632
+    },
+    {
+      "File": "System.Net.Sockets.dll",
+      "Hash": "PO09qWt2q1IOhvBT8T3zVUEzHasDAbsHz/XAlkcMweGTDkB1kl5sFp7Vu2/khs7D+0A85QJPRnrkpP5JDUgvzQ==",
+      "Size": 547104
+    },
+    {
+      "File": "System.Net.WebClient.dll",
+      "Hash": "5VzVxXDRuuwWmASXVdGxyUNCpImPxOq6vmbetrzpVncMZYat35pNCycjR4O4SuR2fQBn3sQAnG/Q+R+UPkwiFA==",
+      "Size": 170248
+    },
+    {
+      "File": "System.Net.WebHeaderCollection.dll",
+      "Hash": "f37qzSiBop2Pny0cogVTfOk9hWGsnmWkmWcfBnZiuvXXBI0jpB/zPMl0u//nXok4MDF/ldLK8uqpemFR9In9rg==",
+      "Size": 63776
+    },
+    {
+      "File": "System.Net.WebProxy.dll",
+      "Hash": "Cw345yYGXwJo9vOYuVv5mJI3dyUhmtPMBfLg382gygi3G61dMtMJBNIiORLUSmLOYuKrYLz40KfMxcxNVA3osA==",
+      "Size": 43272
+    },
+    {
+      "File": "System.Net.WebSockets.Client.dll",
+      "Hash": "YXC8dE3RhmMG89WERLr6MpvY6LkCGxoxxceK8kGAwiMmCSqZ9o8yzKMcNMCnIxr477JAFX1vnkrv/+9vJ8eeOQ==",
+      "Size": 104744
+    },
+    {
+      "File": "System.Net.WebSockets.dll",
+      "Hash": "kTbWKocTHbCH6QcxPfDNhlo5WddpV+58wH1n+9aMhZhhlFhnY8//DycG4LRU+Q4E5k0R1hxbttEjtv2FnmIOvw==",
+      "Size": 235808
+    },
+    {
+      "File": "System.Numerics.dll",
+      "Hash": "aCYdNUIttSQVFJcG9xkW8hrt/DM1ss5d20xhXbVsk5BSL1IXTYe+8tl4okx7vxmxAn6eIEy+ZNnr79niQvOPNQ==",
+      "Size": 15648
+    },
+    {
+      "File": "System.Numerics.Vectors.dll",
+      "Hash": "VOS9ktOFN3xWPRgLeIjYaFbuo2zMFuSLlafL4HWyGxMGMGK+eOTZvMO0mBDRx2tTd0+dmj3F8ZZsn4feAoRZ5Q==",
+      "Size": 16168
+    },
+    {
+      "File": "System.ObjectModel.dll",
+      "Hash": "NA2Og6OB4zKg8znkW2bYea8cVaR5ifo0GfEz2UCMNwD32duK4QTUHOc3vJ7LHjkHuDlA0H8u+AHpeWN1N++jcg==",
+      "Size": 84232
+    },
+    {
+      "File": "System.Printing.dll",
+      "Hash": "+VZ4MF3NHy7CZ0H9deiVSK8MCH12S6R1ghYKT5OzY+0anXaCZijTTFhNrpn7u0i9yRMJrBMauSnHfv65ZcAABA==",
+      "Size": 981296
+    },
+    {
+      "File": "System.Private.CoreLib.dll",
+      "Hash": "1XBiuU9uNllieNbMXmQsV9rgavMVFpYQ4b1Er7oxyAV+kFgvzW0qrQNPIyO0uzynyxXPkfwFbOJog1RFkQUcHA==",
+      "Size": 15264040
+    },
+    {
+      "File": "System.Private.DataContractSerialization.dll",
+      "Hash": "8JRH4Th+PtdqQiPM+ylOZhAUVqBIy+RwnT2+5f3dKZ+hQbDYjeqcMQRzyxiLsqhimmYz36zdh0r2ny5axckSNw==",
+      "Size": 2070792
+    },
+    {
+      "File": "System.Private.Uri.dll",
+      "Hash": "RgLrBX5DEPPBlAfFAPMNbso6U1POZNOdKCx9bxc37SZHgDx8IurqcbMSUb/b2NSYQQNHklvvgPaWsj3eLv0a4A==",
+      "Size": 260376
+    },
+    {
+      "File": "System.Private.Windows.Core.dll",
+      "Hash": "/2JS95/2hR4ecrcpKqXHS6Mn9jSy9e1mh3yUNH6bbfLkqB1H/ReA3+W39xeVpFc2s4dCB6vmlJiFuwkER/13ag==",
+      "Size": 1218856
+    },
+    {
+      "File": "System.Private.Xml.dll",
+      "Hash": "tSOgkDLIE13l/HZr76jQEUzCcAsHqsfL3P4IbNoeQ2C2aA5EXtjqTDeaccKzm+fQWLJs2SqgQD6LNwyFzcuEIQ==",
+      "Size": 7919880
+    },
+    {
+      "File": "System.Private.Xml.Linq.dll",
+      "Hash": "9cePR/X2wZmy6dqKPpEOrdB8xwxAtS0/XOVqTosmYRcWTapTDZDyw29U3IjnPuX7r2gvUERzatW20Us3N8/Wsg==",
+      "Size": 399640
+    },
+    {
+      "File": "System.Reactive.dll",
+      "Hash": "BeDLGAsOnR9QYagK9OlToQqaGDp5tRacG1M5e8ewFSx/4NrBOaf82Rm+W33A+9yaDKJyedbc2MXyKa+yoSayiA==",
+      "Size": 1502672
+    },
+    {
+      "File": "System.Reflection.DispatchProxy.dll",
+      "Hash": "uL66N+8+Jvrm6oJmg/s82ZdEAWsiZs4DlpX3grZ3w0LQ1kXoOn1EDFwUyt0WRed1e+s+0mujocE6xkpg6L0Ikw==",
+      "Size": 76072
+    },
+    {
+      "File": "System.Reflection.dll",
+      "Hash": "4p1yOr5PiCZRjfLnEQrKrPdK3R/WrRmllo5qSburwzTCYHtZBnIX/2JnlhNFvfhyRXCdut/pKu4ndfSos6C8cw==",
+      "Size": 16664
+    },
+    {
+      "File": "System.Reflection.Emit.dll",
+      "Hash": "2LzwWTwOrZEb9xUMTdEA7564lSTFeNr79MkI1cWs01WBnhEYRrKNLvW9rQaVHXX1t7K9LHrIZIKEFyKffsayYA==",
+      "Size": 301320
+    },
+    {
+      "File": "System.Reflection.Emit.ILGeneration.dll",
+      "Hash": "rR52+ccQTa7XRkMS6Isn+ML+Qt1Sc67NptHBovs3nOL/PESP9axSKm5BKFL/bq/xbSj1xZsNrJFauXlN2mIJNw==",
+      "Size": 16152
+    },
+    {
+      "File": "System.Reflection.Emit.Lightweight.dll",
+      "Hash": "IlWTBBuqD5CYIe71Zh+moo52m55e7M04WT6wy97MOiEehd2GGnU+zIS79H44KD8VHhTGxN1zeK9NFaaF6Bj4WQ==",
+      "Size": 16144
+    },
+    {
+      "File": "System.Reflection.Extensions.dll",
+      "Hash": "y1QBhq5arPekSCBmEGB7qb8r5Wxrzx3es/3SvAcTtGvl16r6gIWzos0lmTZz9WPYNAydFbgM5p3bhaEf092oWw==",
+      "Size": 15656
+    },
+    {
+      "File": "System.Reflection.Metadata.dll",
+      "Hash": "62OwbNjqF4FfpnnU+mS4cXmvwXTmPXDQZykzGWBdPDl2o3vlFdxRMl6hF5aPF4dsxMccqKYjzqZUI5Y68jd3CQ==",
+      "Size": 1173800
+    },
+    {
+      "File": "System.Reflection.Primitives.dll",
+      "Hash": "dwFcpm+DzF4TgPPz0ueoxsT0Lb2vfsWt7J1jaPvMAmPwGxqdW8J1tylf+ltUg4z7R0VUxIdVq5oRygasVIisew==",
+      "Size": 16160
+    },
+    {
+      "File": "System.Reflection.TypeExtensions.dll",
+      "Hash": "2bGS0sLLakwEJOAk9wOMHbQzf73Lv6g0ywZkSb6eBHF4pJk2QYZkqxxGNK+eLXmRjXMHfxvEzFLnJroZDoO3XQ==",
+      "Size": 43296
+    },
+    {
+      "File": "System.Resources.Extensions.dll",
+      "Hash": "t2uWLHw5t9N+Ki7h6AFareQfWfhhuvAU7Y4nY8AXnX7pjg1Hr9IWxAZhZs6YV6NQgYITDYQ/oGwrv4CLlvRprA==",
+      "Size": 198944
+    },
+    {
+      "File": "System.Resources.Reader.dll",
+      "Hash": "Hl7FeDWt0QOjA7UgruN+stSisNy7zIn1oD7QObnZpXlpYcoe/wKg2aTXkhc0eDtM7yVi4kcruELlm/SY63DSMA==",
+      "Size": 15656
+    },
+    {
+      "File": "System.Resources.ResourceManager.dll",
+      "Hash": "J2p5DIm3fdJcrUcJHJ0ZXpJCONy6z1KPTh3AqgaP18coWtymn9+72kIJjqY3fyYmGwY9bfzbQ3U9EW4tsFMI/A==",
+      "Size": 16168
+    },
+    {
+      "File": "System.Resources.Writer.dll",
+      "Hash": "Gsww4zMa+hdu3CHyk0u1KMuTz96Yj1vgvvTXz9TOWthaQniiv2l7acFOjH0bR3/lYsWfF6dLlrhBgK2Z1MlLBQ==",
+      "Size": 51496
+    },
+    {
+      "File": "System.Runtime.CompilerServices.Unsafe.dll",
+      "Hash": "hivpynpjPtWkReOzP2d/qJ0a2FUtoxaV2wbwwdIpRHSJgM7QjSPdZzD2Y7VgDqo532Ky3EyocTWZ5O3EtdKMaw==",
+      "Size": 15656
+    },
+    {
+      "File": "System.Runtime.CompilerServices.VisualC.dll",
+      "Hash": "sDln6gD1IyHGA1kaJkJ7851d2s5qY8r82t3MYlt+cW7uF1tddyModrp5+WgSrhOBWBZjdMViXJiMp7RMg9yr8A==",
+      "Size": 30984
+    },
+    {
+      "File": "System.Runtime.dll",
+      "Hash": "7TBI5WSROnj6r7gEQH5uh7J5+D5j6n9b5yta3+in6f2URhDgOXK1nn55Vl7vrjx0AN3IIrhHledKFt+fUGrDcQ==",
+      "Size": 44816
+    },
+    {
+      "File": "System.Runtime.Extensions.dll",
+      "Hash": "f+1egyjRJjL5vgTJo4eCR3NFyobYnGLqqNrrbwZHbDB+y+mqUoYp/ARhkPHKKSH9PGAwVNeilLfkgqyE+1iyxQ==",
+      "Size": 18184
+    },
+    {
+      "File": "System.Runtime.Handles.dll",
+      "Hash": "ji/JtJhyhIYkmpGuDJ5w8r54wAZnxK1Wfi+RBCIv+bynZPl/+Il53i7y+frQAr2/Zuo3IgHbP1SKxTydCf2UVQ==",
+      "Size": 15632
+    },
+    {
+      "File": "System.Runtime.InteropServices.dll",
+      "Hash": "sfe632gIi8kEXjyNkIi8ShmHdmDjlyhGc49SvOuFq8lyz5hTVtzy7FmUdbla56t57T/rZrbS4akn/cyF5mwCZA==",
+      "Size": 112936
+    },
+    {
+      "File": "System.Runtime.InteropServices.JavaScript.dll",
+      "Hash": "ndlXB3xdzLMsbvnREJioePsDAz5388GVCxP5mPa5engVLifo8Dsm8c+bdSqaStdySpXS8/YjIO1jDgf6fJanuw==",
+      "Size": 51480
+    },
+    {
+      "File": "System.Runtime.InteropServices.RuntimeInformation.dll",
+      "Hash": "ovauFSyDcE/c9PRijUMijdTpqG8nBnXr1JgKREg7WTCAMJxxslKK7hjcNnQMFZMzBJwlRiSAYe6OtXWEmElVtA==",
+      "Size": 15656
+    },
+    {
+      "File": "System.Runtime.Intrinsics.dll",
+      "Hash": "DoZNYg7TADN8LJes0N63mWQ6aaNZNkfGqu74AccG4q/ZVnyfSujLMi78k0m1Ak6J0GBiQvB5UtaLPP9vD+r1Dw==",
+      "Size": 17704
+    },
+    {
+      "File": "System.Runtime.Loader.dll",
+      "Hash": "zRZ3/slKL0X3h8xmK053L5ooiyVsMVk9RfICqvqnj48gJpQCIAl0XE7VP9YQjHKBUjv1W1TA4qXsPzJfLQPdAw==",
+      "Size": 16160
+    },
+    {
+      "File": "System.Runtime.Numerics.dll",
+      "Hash": "4rMD3erRjJOd4AupEALbnUu9dvoXF0mydNvPsQKLM875ENz7TFhSZD1zpw5f636iq9BRYkvRx8ovl3w/PJKSiw==",
+      "Size": 354584
+    },
+    {
+      "File": "System.Runtime.Serialization.dll",
+      "Hash": "Jl/B8Ko+2Gsg5NFrY5aRPChi5HA6TsZ9LTzody6se1EMw+jSqsgiW03sVvW9uipuEzpmA/2JNKR1+U2wOFs2HA==",
+      "Size": 17176
+    },
+    {
+      "File": "System.Runtime.Serialization.Formatters.dll",
+      "Hash": "QdIR33TkFOtW08Q1XcfRyvy/fHDCcndiHzr81dLlKXNppvOBBxOQc6SZ4w0w6iQh6TWYKjkNG74Mg7ZUjwHGqQ==",
+      "Size": 125200
+    },
+    {
+      "File": "System.Runtime.Serialization.Json.dll",
+      "Hash": "lixhmtvJPj1hWoVLyJxnVbd1/BMeNVrOX28tjYbv34bVFfmrZyjDlwGgPhfQh+8m0fQ2uE7ui39vAezcwsBpJg==",
+      "Size": 16168
+    },
+    {
+      "File": "System.Runtime.Serialization.Primitives.dll",
+      "Hash": "BLK3ZK9x4h5O6yhHdHeUk+LGFPIbq8IqzE8lN1ttM357aHyK5OqSM6gz+hCDLc8Nob+ahFYQiyic11n1fXXGGA==",
+      "Size": 39184
+    },
+    {
+      "File": "System.Runtime.Serialization.Xml.dll",
+      "Hash": "hMms65fodny8Ro+2mLdKDAAED5e/Qf/n0aXiFruwbVEdYB+fOl9xg/So6k5ieR7KCxa/tPaJp33fp9lPrYSXdw==",
+      "Size": 17176
+    },
+    {
+      "File": "System.Security.AccessControl.dll",
+      "Hash": "WM+u3nB8tzbnOZGQpfof2ufffG94f8Uuf98UaE235X1m3vcsFue/Q/N9/WTRqBGSQ1EuWE1uoUsOuGGNjySxqw==",
+      "Size": 231688
+    },
+    {
+      "File": "System.Security.Claims.dll",
+      "Hash": "MSWsutZSQ33RfFfx4wO1ceCd62h0gCJ8o7tF1zMWhSCEH+xvhgJ42fbcSS5j9DgkKS+qaIcK3g6g7gcTeCPXyw==",
+      "Size": 100648
+    },
+    {
+      "File": "System.Security.Cryptography.Algorithms.dll",
+      "Hash": "0C3Mp7FWPHeDb7qPfJ2FcwQ/HUbIAu8BjLFS2a7/94BO5pE+YL88ltl5iWh61JEJCNvteNhCdxKPf4rMVHzD/g==",
+      "Size": 17688
+    },
+    {
+      "File": "System.Security.Cryptography.Cng.dll",
+      "Hash": "WB5+RMr0jH2Tamn6hl5DuyQatNUiU/fgfL4hKkfoSTkRGR+U3haGciKtBbpGREx5z26s9FfMSRRqMX7tiS5TqQ==",
+      "Size": 16672
+    },
+    {
+      "File": "System.Security.Cryptography.Csp.dll",
+      "Hash": "2p/LrIfuRIpz26xtpZD7p/RhoVa4Dytfsl5tlYYdPBgGNBBuWEIoylJ4IXwWFa8DHJ6HICfxc1c9Z+ohV7C9Zw==",
+      "Size": 16152
+    },
+    {
+      "File": "System.Security.Cryptography.dll",
+      "Hash": "FOyv3I0bnA9h7wnn5ebVo7ncXWs+7aCyhEvdzdqBbYN91olAYl9gFYWGmOkXwU9FbPKOeuCO8i27lEHbcMgvbw==",
+      "Size": 2128144
+    },
+    {
+      "File": "System.Security.Cryptography.Encoding.dll",
+      "Hash": "StWpHqrems432R7wPi8j2bBnwh8yI6JCChvDrjvnlC4JrppPpxkQXEnMS/ZpTznb7dx8+f0Uzfggw9HC8Wpwkw==",
+      "Size": 16168
+    },
+    {
+      "File": "System.Security.Cryptography.OpenSsl.dll",
+      "Hash": "lZEDCfuIDRtaO+1t21XXFHHtcOAm/ZZFAiw1cfU+j3mADkjBKpIwQj6MkYabkC/z4u42Oxj5IYAjIWqS1i1ypg==",
+      "Size": 15656
+    },
+    {
+      "File": "System.Security.Cryptography.Pkcs.dll",
+      "Hash": "+Hz0VuZ8sEOYEBM/n4nkU86IbouA7voP/db2EDKdI/c7I2UPHK1f/u0OpptlxkDMLEjHa9WZtbGX8Js/AqmsoA==",
+      "Size": 751912
+    },
+    {
+      "File": "System.Security.Cryptography.Primitives.dll",
+      "Hash": "/YEhUSiU21ptCxcWz/m60ky9FDvxHOovh1TwhFwpPp1VyS62SRNPLEP1Mr5gM0Thn8BCn2fWD0DGM7ZR4fHwig==",
+      "Size": 16160
+    },
+    {
+      "File": "System.Security.Cryptography.ProtectedData.dll",
+      "Hash": "GrAyDHdMbRq4MhyLRy1OQhe8uIEiUbx3CuKFxErToB4yn8SWlddTSiJO5/cGGmpD19ZwzhVpO1lskpu5HLIUYQ==",
+      "Size": 55560
+    },
+    {
+      "File": "System.Security.Cryptography.X509Certificates.dll",
+      "Hash": "emELXhLOQPs55w0jVT0k+LsHQ8wckGCDMfK12MxPRhzR7PF+hrxw8xJE9bKzZrl9Fk13ydGcpU47qjNnk3NTVw==",
+      "Size": 17176
+    },
+    {
+      "File": "System.Security.Cryptography.Xml.dll",
+      "Hash": "m2pS1rdayWkxKofeEj48o8LkN9Z0sHWQWBAIKZiJhktpAS3zmJbvHaB4fRa8qDBq8rDCxfnXNlTMa6LkDJdORw==",
+      "Size": 452888
+    },
+    {
+      "File": "System.Security.dll",
+      "Hash": "fsu2Kzm7HslLm1bJV+ry1PLXKf1+wY2HBQOJQRWCH0AqS20QpavnZePoyE9kOU+DZWiuWiKdMCr4q6igMGDAzg==",
+      "Size": 18720
+    },
+    {
+      "File": "System.Security.Permissions.dll",
+      "Hash": "o40At8alTDy7K4GuHKES20O3H2lPn1aFw2L8m7So7/t5U/5Ypm9Pa3jGxsg4Pu7VpIJIt3ac8Rsrj5c/sGMt4Q==",
+      "Size": 190728
+    },
+    {
+      "File": "System.Security.Principal.dll",
+      "Hash": "ASoo6tkCGNLBLg4p5etRRcQt9xNJzCwR6vdE0lOtSnc1A2V/XgY55TNAZVePgM1Quxbgmd24+cIVg0B/WThtow==",
+      "Size": 15632
+    },
+    {
+      "File": "System.Security.Principal.Windows.dll",
+      "Hash": "+pAEbnPhF9xHxurJWjDxo5+8o9wz+zXludlIb7z/9jTOmkGb+V+oi+UgZMS84okXq6BVKNJEw+o/cNvc1Mqw+g==",
+      "Size": 186664
+    },
+    {
+      "File": "System.Security.SecureString.dll",
+      "Hash": "YbNx1RV5DWbW98sREoTGYb6AwMTYZCdgu4BNfG9bmNh+6dTV7UoJY5CtUwU8DfssGGt9rWYUaxYdItc4sJ8Z4A==",
+      "Size": 15632
+    },
+    {
+      "File": "System.ServiceModel.Web.dll",
+      "Hash": "kjHRtAXTfWM/j3pQ/cQBympB4FFL8lsEB2UHvgt/Tt1d9OiJV/tGdOCKcauPhghmG+dtcSDl/vHg7aoTtvNtEw==",
+      "Size": 17160
+    },
+    {
+      "File": "System.ServiceProcess.dll",
+      "Hash": "gXoYlmD4ph9mfpfaWd95hjZVFHWnvbXbwx3OlOEGiFhbivpMN+lvLo4My2zS0l2ns7wIR/PvclEYT8h0Rw/ohw==",
+      "Size": 16168
+    },
+    {
+      "File": "System.ServiceProcess.ServiceController.dll",
+      "Hash": "u/x1bX+yN1ZZ29NY0hfbwcwK5Bycz5iiVR6XuceYBrTK7+Bea9yEMSEsUmbSiClzJ+HyjNz97tHGAmH0GQL4/g==",
+      "Size": 91432
+    },
+    {
+      "File": "System.Text.Encoding.CodePages.dll",
+      "Hash": "A9vDfBPW7+gAzJ8db3wtGOd+QLUzoGnSRKFgjignjxfwLE7yN5AbUEJTlHXyoVYliPCmV/hyQ+lWSlaJbjtc1Q==",
+      "Size": 862504
+    },
+    {
+      "File": "System.Text.Encoding.dll",
+      "Hash": "UPUgwq5P4t67NYGCbpnd5N+rx83bV0eKjeyXgdgwA9eaILBFxtYunltkFOlaCRDtyyEi2AHxPNsSvds1Eyyezg==",
+      "Size": 16144
+    },
+    {
+      "File": "System.Text.Encoding.Extensions.dll",
+      "Hash": "ERHnWIt+bgTQNAaD47gj6BV3/21jbxu4cd39s6hs0TvZ45WXEp88bzKgXwtqRtlhnsANij4+YEVzmUvBmncSfQ==",
+      "Size": 16160
+    },
+    {
+      "File": "System.Text.Encodings.Web.dll",
+      "Hash": "Yoe+hpezak4e/XEJ7z9Q+gY7yhrP8UhJ0kMlHmNT/avoIZ8b7aKaMT+yBetdo79jglNTVjvAXeCgwIgiwZV1Iw==",
+      "Size": 133392
+    },
+    {
+      "File": "System.Text.Json.dll",
+      "Hash": "laW58mHtjqw4Dc1iIo+MbftuejytjzzS1/wD6Ecur4aO+LRQtOl3YNPyffn3VSuhwbDRuak1So8e6Rx1G8XN9w==",
+      "Size": 1796360
+    },
+    {
+      "File": "System.Text.RegularExpressions.dll",
+      "Hash": "ClCqOZtgt+NZcAQBRyv5xZ0gLlzZHmCZCstbZ52UwEVrrGy5wZiR4mHXF7U6ZuaBPBr+q4jneTTWGYeL7igaaQ==",
+      "Size": 1022264
+    },
+    {
+      "File": "System.Threading.AccessControl.dll",
+      "Hash": "bY1mKOzaTt3VS+G0D0gVaIKtY7rIhexO40lAiGPPy27a45fXlTgLEz9XRG4hgHpchtFDinhXK1rlPL9EQWKICw==",
+      "Size": 88352
+    },
+    {
+      "File": "System.Threading.Channels.dll",
+      "Hash": "L90zaGL70WRLzie0ppIfpVNAxhOsnS0vHdkLPfMKtcKAx+xj3i8Q+l18nbnkLvDbHPbVYNOuN/W9OE2fvnv2NA==",
+      "Size": 141592
+    },
+    {
+      "File": "System.Threading.dll",
+      "Hash": "cz2D24bJpGX9mDN8jD1BeG4gxxL1hpURwWAT6uZhOGsE7zQoxIhbqsCrId/y7Frxjqw0TrAdZfgzYV2veuWt2A==",
+      "Size": 84240
+    },
+    {
+      "File": "System.Threading.Overlapped.dll",
+      "Hash": "k+LAEOq/mnS6yLPL3umvNiKeGayolId4clWlOGHYJyHwuKLMklnuGfEEO+79j/M9Vss/bICDwobRB4M9YHgfSQ==",
+      "Size": 16168
+    },
+    {
+      "File": "System.Threading.Tasks.Dataflow.dll",
+      "Hash": "0b/cyzJ/b/5mIXmpBGW9/3e/l56Q1JWesacC9986e+pjG6i4fWjY9S2JVzT+gPSDVAKK2jeuPcwOAP34skffiw==",
+      "Size": 493864
+    },
+    {
+      "File": "System.Threading.Tasks.dll",
+      "Hash": "8+QdNt4yP3lCukNnZfhqfHEIwkk2OEP9+FAC5iEnfYOtI4Vi35uxSVVlnZd9UU8CArXkrsMED/NQPSpQIYJ5QQ==",
+      "Size": 17160
+    },
+    {
+      "File": "System.Threading.Tasks.Extensions.dll",
+      "Hash": "T1oXZwvXNPtoWZFExmyUI1Fi+hgrR7N3EA/zL+jRZXw9nZjurodiSD0vcMBvuJbAns4qgV4WmmuSXEQjkXwt/w==",
+      "Size": 16168
+    },
+    {
+      "File": "System.Threading.Tasks.Parallel.dll",
+      "Hash": "A0NkHgiKQnZd8wp8AgEjDg+SbjfQ9rO5hFZ7qKTqnp/1SJj4A6cKXIcxWrxE+g0dUYjcB2B0cFLy9e183DDW/Q==",
+      "Size": 133408
+    },
+    {
+      "File": "System.Threading.Thread.dll",
+      "Hash": "UAdkplr/lWzEajkcOuDrNQ/W8enAawMc1civArKN4kmpcJ+mfDA9TMIu/X+HoGBnaSYYt70NWmDTxiD98HLxKA==",
+      "Size": 16136
+    },
+    {
+      "File": "System.Threading.ThreadPool.dll",
+      "Hash": "RnlEpy0X4TdoCbHHEpmmFNW3U7P34FOLTuqFWw1urAy2O8Icl0D0MdbjpWIloAp8KLjYJc9DvUiNW3m0hiPaTA==",
+      "Size": 16160
+    },
+    {
+      "File": "System.Threading.Timer.dll",
+      "Hash": "5rpNg34j719vaRwR9e7GoppPbQ04K41NnDtxX9FTWa0kW3zrsKanUA5Z/P4331gJGbGt+yo/MATfBpphq/I/Wg==",
+      "Size": 15656
+    },
+    {
+      "File": "System.Transactions.dll",
+      "Hash": "IqRCoMEmCtejmlHj+v03PeFj/+DPnGJJ9aaVHdYFpJ6qcvlRZsK+6IJk4uct5iexbrUMX7w8DZAXSmNuJCm/iA==",
+      "Size": 16680
+    },
+    {
+      "File": "System.Transactions.Local.dll",
+      "Hash": "iewrLuQ+AxINhwIH51smvf9feYNv7bhQTdueBjEAIDrsamWOJr8vHmwQG5AGhLwSsuR186tX1qwilfWgq0sGMg==",
+      "Size": 653608
+    },
+    {
+      "File": "System.ValueTuple.dll",
+      "Hash": "sZ3hfqbxquq6DqUN/p1jPBbdfuGfj553BXhUJdGdBkOj2BdUW7EXSg7tBnz0iRKDI1bqke6gqxJY2jiu6NGNDg==",
+      "Size": 15656
+    },
+    {
+      "File": "System.Web.dll",
+      "Hash": "BjS0R4byCYrZlMzZ4ATyAgVQFI0DbjbICf8aDe7S4sgM6IslPmovWHvY3SEW3QhkKZaRWN4kTUwmj6RZHG3jIQ==",
+      "Size": 15656
+    },
+    {
+      "File": "System.Web.HttpUtility.dll",
+      "Hash": "q1lo1wlMApIIMggp3UBj+yaHG16zEcZ0pst9rVbfnnR1degu1qEwCF6IXr7ifjbXka27yJwtsFYalwC0b5o7Qw==",
+      "Size": 63752
+    },
+    {
+      "File": "System.Windows.Controls.Ribbon.dll",
+      "Hash": "8fx0MNy15v4DMTxaF8NnUQEZaN27FPpQga7JjZml6gBVra6nK8TInrfUdBJsXFL/duIHrlrsSNS7o35NJPqf0A==",
+      "Size": 1452336
+    },
+    {
+      "File": "System.Windows.dll",
+      "Hash": "Y4cSupWF9YOFv5TzDIvnXMl1H9HNaXiDLhW270SFObaqXc1IebUM3QUACoYd24aiE7J1SOBVlf4lvV8bjXRrGA==",
+      "Size": 16168
+    },
+    {
+      "File": "System.Windows.Extensions.dll",
+      "Hash": "2SpZ1HaU+sVLcPwVr/icqUiEUCosy5DnMaXDT3NMWC2VzyC0HMxuPqBYLuBjTw2zkC/Nrv4q+TYpQF7nXyiHGQ==",
+      "Size": 121128
+    },
+    {
+      "File": "System.Windows.Forms.Design.dll",
+      "Hash": "EeKfeDI7G7AR5rwncAT5IUIR7+8Ibe/CyGdtcwmO/VJLIXoQRneUI9K1Yv6tUMl7jdPIYbXVelvoPKBiNVU+yw==",
+      "Size": 6113552
+    },
+    {
+      "File": "System.Windows.Forms.Design.Editors.dll",
+      "Hash": "G/gmW9DaIloSzb+I7y2KvU864+Wuq4Gb6Pz2wV0yJvk9I+H9X70t1QRkuN26dUrNS3N0CrcoJBI9Xdr7MDIn+g==",
+      "Size": 16664
+    },
+    {
+      "File": "System.Windows.Forms.dll",
+      "Hash": "rdZJ/udOskjMYSGcPmy0/hXUHhywI8+Ye5wSIrEjeTUg8jZLF0lnMOY/pnH1qZXqJDVMxXp0aj8OMR/oQNPI/A==",
+      "Size": 13777192
+    },
+    {
+      "File": "System.Windows.Forms.Primitives.dll",
+      "Hash": "VDR8BDRlCs+gaCtfLxYNa784+rZPRLlDo+1rvjI6O4biTv5YizgbhLsY+EnZuCdmZEzqjjoNWWQKLQvxqUJSHw==",
+      "Size": 3959064
+    },
+    {
+      "File": "System.Windows.Input.Manipulations.dll",
+      "Hash": "Y5AsckMcMLRrSp3D+zLHK7T97et4ugmZ1IdN2Dorla5hIjNReEtFwrspA3uBlFKqTp0xYaGCG97Uq/H2g8+9Bg==",
+      "Size": 137520
+    },
+    {
+      "File": "System.Windows.Presentation.dll",
+      "Hash": "uIM45RHDetyPry1qaPq5gLOiGt9cVBRe+96tOKiIP7ZozYu/TSqvKClAv703MaY/TOLwthK7FvyEeLkphwSHkw==",
+      "Size": 31016
+    },
+    {
+      "File": "System.Xaml.dll",
+      "Hash": "NcXl3ryZ2NSfJVzl7Ath+3hcoh+meIV6CzKkoDuzPxzkssXS3SM7VB1yY57hjCnA7GYNDdFDlV7jaqQfY+ybcw==",
+      "Size": 1415432
+    },
+    {
+      "File": "System.Xml.dll",
+      "Hash": "6LzDeJ6JNHtAv6RtK+Q285/w7mj52dcOv1B9AC+kZeAS9Xh31pxd4tZk3xdf8HD4GJh9CDNbJBwjfpt3D+j58Q==",
+      "Size": 23816
+    },
+    {
+      "File": "System.Xml.Linq.dll",
+      "Hash": "1VHGn3hGYPuhECmlRrpusJkjAnr4eT+C3jFfkaqE8uQnPcunVn5QgYyN3N8TNUymewOQEwXXbSmr+FXUPoNmcw==",
+      "Size": 16152
+    },
+    {
+      "File": "System.Xml.ReaderWriter.dll",
+      "Hash": "vvMslWKrDBXYcxOC0nNAVNmSvDWYh3xlNS9+lV+s6l+FjT0qlgHo2GBEmSHWQL73U1LCSR3cGPzDD+ObCYdydQ==",
+      "Size": 22312
+    },
+    {
+      "File": "System.Xml.Serialization.dll",
+      "Hash": "bx2loASnrp2ydyV3l8kMvH2AumnrCCe31WLH59jsPSNT/sGAkRsiCuYyx46UfJwrUWnAFTXfhqGK76kZr5+R7w==",
+      "Size": 16672
+    },
+    {
+      "File": "System.Xml.XDocument.dll",
+      "Hash": "V7UIvn27bl8lStl/jB5EzpolYa17F2z1lsJWyM3cux9YT9TP6REy+MUIAWtJtcMl8A+pmY1uNEp2R/0bdzsXkQ==",
+      "Size": 16168
+    },
+    {
+      "File": "System.Xml.XmlDocument.dll",
+      "Hash": "g18DeSKwZJnfenB4SEN/rjUI11A3kkZG8Qjb4r1/LYzWgvjm4EfPkypAvTjC1kRuEwlG+Ehin9L7BEUHEz5L4Q==",
+      "Size": 16136
+    },
+    {
+      "File": "System.Xml.XmlSerializer.dll",
+      "Hash": "ZPBuhMcGYnxodGQxH+rkq0WxjbehdEMGhhWbxu/io/KV4cTLvRe2EoumEstB5pX8t7edyfJVh8vYxraOnKcI7Q==",
+      "Size": 18200
+    },
+    {
+      "File": "System.Xml.XPath.dll",
+      "Hash": "o0WWdT+xEDFt2wbRPvgvpSn0GU5HkJWSjUf9Ad6ihBIc3sAaiSt4Y/JImoWNoeRBXyOuLqq8P7+5xL9UbV8jYA==",
+      "Size": 16136
+    },
+    {
+      "File": "System.Xml.XPath.XDocument.dll",
+      "Hash": "TbpYJASE9eTbxzgJgSp7eBA2XUW48/knvVy1ke491zOwco9ZHub1iK1yTwO2Ow3UFDXvoIHCrEO6P7kOeHKOVA==",
+      "Size": 30992
+    },
+    {
+      "File": "UIAutomationClient.dll",
+      "Hash": "3Jq/jfFPwdwh5LkR33mcMtJLyKHtkNON4mh0wFRX1pWZ8wyldk7UXmMy+z7dyaH6q8dODxxunl/Nd3WOA1oEFA==",
+      "Size": 411952
+    },
+    {
+      "File": "UIAutomationClientSideProviders.dll",
+      "Hash": "WXNT3CFvsKZlx1rX572GH7rIWlQNTMGRNGaFlpBB7xASsWtgMcZypgTdkx2Q+yw+PNpQwyU4Bsx49lfgumakDQ==",
+      "Size": 878904
+    },
+    {
+      "File": "UIAutomationProvider.dll",
+      "Hash": "LSrb1AARg47dww+4igbpYei3+X7G6lbv0ITWPicipgvXh3nyn+cI9XnFOzozYmhr7vOh40FczG2g05khfwMFyw==",
+      "Size": 63800
+    },
+    {
+      "File": "UIAutomationTypes.dll",
+      "Hash": "62NuMbwMnNlM2hEc3eN/yxWWF+KH7Y50LpHXB1ffd49bT9/jSxEZTvIqhf6iAgJRYdUUBOMoJUr8cxagYVC2jg==",
+      "Size": 313640
+    },
+    {
+      "File": "vcruntime140_cor3.dll",
+      "Hash": "8sft9/tnT9PLbTWUYQvfftWBejkljXrAErXUzLr0WBqkAZnypSn8hJFAKLoZLW8JqSPd3ejb6NkJdyA30Waa8A==",
+      "Size": 120184
+    },
+    {
+      "File": "Vortice.D3DCompiler.dll",
+      "Hash": "tPTHWFnndrGDXZd8Lv4H7hu3AGRmQ+/GQk5UuxHTZpRL7km/wDqNrf058jQ89t8jicLDoTGDy05uENWqP+UZow==",
+      "Size": 24064
+    },
+    {
+      "File": "Vortice.Direct2D1.dll",
+      "Hash": "xWVJBMzVslO/xuS3E0oh29XjTxBXnRiWXWBKechpLCaU8XiQoqXgiCmwMC6nZim1+pnbgDLOoyWv6RW8MtUwjg==",
+      "Size": 481792
+    },
+    {
+      "File": "Vortice.Direct3D11.dll",
+      "Hash": "bjtZBIL0CyKgiG2aZqliMS8wBQKDjFK7nbi/Nla/rz5nw2yVx0IliPTsKoQX9+CBF6LutKmtfCd1eCrWUhsdqA==",
+      "Size": 326144
+    },
+    {
+      "File": "Vortice.DirectX.dll",
+      "Hash": "N/AHkC0YDfznoWiqUSXkh9yiY05EknBXw9pa2ScY4/wltMtwrc/X9O3eHr5beqnspJruQTDrIj2DWuu95bluWw==",
+      "Size": 258048
+    },
+    {
+      "File": "Vortice.DXGI.dll",
+      "Hash": "FziIHn7Y2sCe0Hu8jC1Vx1KjEstnvU4njJFTkxhlhNSTvU2LQhP5ZZyrczD9h46SAegtd6hBKqN+LqGTU0mRUg==",
+      "Size": 82432
+    },
+    {
+      "File": "Vortice.Mathematics.dll",
+      "Hash": "ufv6i5b33c6mJXLnYBCYHIJC5uU54IVzy7afe4aBTYEBz1S2T/QebAjoQujdV7hfCR3OeHLJaxVuRxFgB5xR/w==",
+      "Size": 110080
+    },
+    {
+      "File": "Vortice.MediaFoundation.dll",
+      "Hash": "aEXugooXzvHusaHNMEGf72DP3Z+aKCJ7d9TPAF/R8oL1+XenFLjrBflt8EVI4fleoSzHDrNHMa+uA6aJsO+Dvg==",
+      "Size": 374784
+    },
+    {
+      "File": "Vortice.XAudio2.dll",
+      "Hash": "n9ZY9e+Wg2ZwaRJa0yThSE0I+aQQvXUZ8o6wE7D8lj6Oo6ZqO3zjdkSPoZmNqwTj1cpvtWhTZV4ZMlHCL/gsOQ==",
+      "Size": 46592
+    },
+    {
+      "File": "WindowsBase.dll",
+      "Hash": "AZQYwWxD14Ebs/1SBDNP/ZO5GVOc9/b512y7R2dUBHCKsM+pudem/g/emPJo55haoe1uv3x7+Mke6OVWZIlUWg==",
+      "Size": 2238760
+    },
+    {
+      "File": "WindowsFormsIntegration.dll",
+      "Hash": "ay3mwESN3c1ZSDks9IcuIq/Gm1pDVaObQK6GW5GKzjCWcd48Bno/h28xcKKTq8WhBngSuRhT3vbj3EqpZutywQ==",
+      "Size": 211224
+    },
+    {
+      "File": "WinRT.Runtime.dll",
+      "Hash": "V1bMuvoUQNEU+NmxY+oMJngwC6JMmXm4N7ojLMaBP3Sin8CiO5vB1/U8bOXxXNrNaASnVayBYRZTbFbNnKQ8Dg==",
+      "Size": 528944
+    },
+    {
+      "File": "wpfgfx_cor3.dll",
+      "Hash": "iBeN0gJ3y8QPwLDe10CEbLvU4g1o2hz0icHlkO5tqhStmPI5stiNOFAKMkCrdkOE9ppRCksE186azi4ck2IUrg==",
+      "Size": 1959720
+    },
+    {
+      "File": "YukkuriMovieMaker.Controls.dll",
+      "Hash": "Ax0dVaU3F5Sf3bV33/+LWZwmQACAIb1c51i56OYJbObWTn0zY4bwloaJZ8O/QpmE4b9Rbev20dxiRI84WsfTuA==",
+      "Size": 537600
+    },
+    {
+      "File": "YukkuriMovieMaker.Controls.pdb",
+      "Hash": "SjjfWtdb/xbscOIHUvDcpzZhEZL4SIwNhPvxN8SJPxWyt9c3WLglgzIUYvJp5vyIJD0WKz4CykJOAnYzVoF3Eg==",
+      "Size": 159340
+    },
+    {
+      "File": "YukkuriMovieMaker.deps.json",
+      "Hash": "7hmM7/gjfFpQc1M5yTjaJrLT2EDbz0Bw1fqmgqksOsfBjZqLshHq2f2pJq+5FWbzPTkV17zy/MYbZby0RpqEeA==",
+      "Size": 129222
+    },
+    {
+      "File": "YukkuriMovieMaker.dll",
+      "Hash": "6bJOehpQGap0KmfsHadxSS/uYlCjFn2M5d0HCEVEWzQA/sa9nxsAYo/Gn1IDj6IJG1XDmLY7hKvJr+ikksRIhQ==",
+      "Size": 4925440
+    },
+    {
+      "File": "YukkuriMovieMaker.exe",
+      "Hash": "XeEgEGdVbmY2BVXHpRZ+uH16deXdB3wods54/Fa2RAemSpFtiLMJTZH3TMmmmtmxUqla1w+qsUPKnCEvfYvZPw==",
+      "Size": 295424
+    },
+    {
+      "File": "YukkuriMovieMaker.Interop.CeVIO.dll",
+      "Hash": "2bkIkZE6u+Wj2Qr7I1zCwSApZa2w6cxnyQsmu4lVnG5bCU0s1XtrZYGT0sh34PFfUDedz69p0GJSu52o+36gLg==",
+      "Size": 13824
+    },
+    {
+      "File": "YukkuriMovieMaker.Interop.CeVIO.pdb",
+      "Hash": "pbyp+dR/NWuogKha4GSnc8kLKSC6CiDoQ6ZY115QrOxDY0+gO5+hI92CK0Up6ripPFO82LZ++5W4RFSPdxbqSw==",
+      "Size": 13144
+    },
+    {
+      "File": "YukkuriMovieMaker.Interop.DirectShow.dll",
+      "Hash": "aybcNQuZ69ppOo7H6gVSnzo8A7KMWQLtDVWgRiPy8o2Ipz/YfMT0LMeMn9YynPYCi+P92l3MC5JVMc1K6i9zcA==",
+      "Size": 528896
+    },
+    {
+      "File": "YukkuriMovieMaker.Interop.DirectShow.pdb",
+      "Hash": "d79e5fbefqrx0dS1I/yhhobEcBNA3Kv+o8I/Y1sR7mWNBsNgAXPj0ciAyTcPkvYr8iP5J3Ne2am7fuoJOpTlBQ==",
+      "Size": 223488
+    },
+    {
+      "File": "YukkuriMovieMaker.pdb",
+      "Hash": "Kog9eXxuVx6sms3LsUyHme+H9Ns+vF3LkXwLcRvxcG6bQAXf1TctvgdIMJn0yomVGRsLH+Ka+5WvIgx2cdg4Cg==",
+      "Size": 1358596
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.Community.dll",
+      "Hash": "pmJG1qZw3ZEyxOP/4cA5XFDp6VVlApAqwAGLqizGcW3r+0PLu6yd7L72K+pCYadJSbnUM43gimTaPgZT6J+dGg==",
+      "Size": 460288
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.Community.pdb",
+      "Hash": "FdSwqXbjJ72FPbqtZjuGlM5zayt/ChsOq1rId17Qse7nDPC1BSrToCaeMntbfbmNaor2Yg1nYoOEfRe+wsQCBw==",
+      "Size": 171188
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.dll",
+      "Hash": "ovSgAPeE8JpcoB2sHLMQSN6XNnoHDglHIAbx6PkalfFUdmfObHQDj3AEOP2X/sKubZzG1dZ5QcPxYdAz6Vj+UA==",
+      "Size": 1927680
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.FileSource.DirectShow.dll",
+      "Hash": "mtGoCpNORTtPuMNvyETknVenLv35I+rv1TwAbEj+5wxHyQjuBh7kaSLDkGdjlgBWyrBdvR2tlP00lAS/oMd6nA==",
+      "Size": 11264
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.FileSource.DirectShow.pdb",
+      "Hash": "9UjYiTWtFCEsVXMu1PBdP7/fShAUrCHIp1+geVpoFrQglLn9/CPfUSa6DNrvapPs74R03iWDwJg/bzPZCAMR3A==",
+      "Size": 17352
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.FileSource.FFmpeg.dll",
+      "Hash": "u4CfY3e/SON5EbC9sIEjiRcOWFuerhC2PGTXNYp1X1rzBm49LbBoYYr3sE3toltg/rKfSshObzCQy8rRmyeQOQ==",
+      "Size": 64512
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.FileSource.FFmpeg.pdb",
+      "Hash": "CFrzq1YfO//WMRVhbj9hIdXZD/KABjzHV+z5U7L1lCYL+eEZ1LwOBT1E8ETyaZHkpaL1zq1NbX8i8ULDAQ0VmA==",
+      "Size": 33692
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.FileSource.MediaFoundation.dll",
+      "Hash": "r9SOQaEWD491ZprTU5PuwOFNbBBlrgvue0IcRvM9UFPCohIWQjpUDwxAxchOqH6NuNWNbodaHW2ZClYn9eN31Q==",
+      "Size": 84992
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.FileSource.MediaFoundation.pdb",
+      "Hash": "TGRRl2yf25F/DUgxpOY4fBvLq3FA1dpNANn6xbpooKrqzqI+yTGvc+Fw8AfZBJT/e2owTzwVkAGlFjT77gXWNA==",
+      "Size": 42088
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.FileSource.Mp3.dll",
+      "Hash": "virEKo1jFXXeLP7puTKWYKC3PRmgQ6YsTNSFOBJjG1BP+SZBVOcqA/Tsi1uffMXf0ZwYMr519MvLptyzXZckpw==",
+      "Size": 7168
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.FileSource.Mp3.pdb",
+      "Hash": "9prK+8Tl89c/QVneBWFuoQvbtWr28cAVtj99w7Via6YbutQXdXeBA4SfIyk0EFJUokK9xyhxWMnAVWcoMVSJ2A==",
+      "Size": 16768
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.FileSource.Psd.dll",
+      "Hash": "LcnABCBMOH8ONm0XkarIR4qZ0M5H8doISS62/DP0mXSHb5CyM0nhWNuzr70Bvvd6Ruw4LHWBT8LP0xvzkMLM1Q==",
+      "Size": 27136
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.FileSource.Psd.pdb",
+      "Hash": "ouHRusgAunazwFrr1Sit9i3MzBe1OLmeq86Z/DkkX1P/WtaGyu9jtSLbHRPwRZc5nT1xkE7GHFuoRQcUxaF+pA==",
+      "Size": 23064
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.FileSource.Svg.dll",
+      "Hash": "s84IOhCgeJwa1T9Zu1lNp++NgKjBClTD5IEMjKoJaHFLmG/rmbI4D2t4EkM0onrnikrf4zjKYckr9Z2QDmF28A==",
+      "Size": 8192
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.FileSource.Svg.pdb",
+      "Hash": "/j50etzLb/E79b+vlMPAKhZKXa8zGCJ0zUQ94nMDDNbl6RU5hf4uoW2Ww4LoDgBEPR1MYpphKURzNV4564u1sw==",
+      "Size": 16524
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.FileSource.WIC.dll",
+      "Hash": "VB1uF9UJVH+28vzGs4b13tOG4efGx3yPejx0sbNGXTiaF1GV16lfrdUJ5ICwqi255slQsM2u9vsfinlCQDVW9Q==",
+      "Size": 28160
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.FileSource.WIC.pdb",
+      "Hash": "GCVkXFb/CVM+z3g0uDaDCeMKGpA0SYDKWnjlaJFc+P2CMGNd5TMkQJ6m8KKMI+HustVj0mcHaquEVSiqBSkSpQ==",
+      "Size": 27632
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.FileWriter.PngWav.dll",
+      "Hash": "RQ/1ohhNlimEt7QhUmdAAQB0w96FFmuOmMNb4QfDwTCGR1yXsCWhSIQucjJkyCiIATGz2RhTQGB30cnCaEeNzQ==",
+      "Size": 14848
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.FileWriter.PngWav.pdb",
+      "Hash": "CauYfu0VaJGGFjWiNxi1IQpMxUldROmV654lN+CPlq7n068um19G3U07oPej2wuQQ0HmZbp0Hhd3u8FGlM/ujQ==",
+      "Size": 21720
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.pdb",
+      "Hash": "r+0POAp7h8OKC3k68Xo9QZXht5TOW+5B7LcVXik0WynZYv3+xz0XBxQfCdUA5qQ/4clRBK7wKkfGcigtrALzMQ==",
+      "Size": 705384
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.Tachie.AnimationTachie.dll",
+      "Hash": "Ac8fZceAgvqNjf52fBYK/OuZBm+qN8bmOe2Bp9TxPdogbv/M4Km+gc/t+55WT9AWqLzFWkIK4rb2cCLjQbFtlA==",
+      "Size": 140800
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.Tachie.AnimationTachie.pdb",
+      "Hash": "LdVXv/4ZyOg9kyvxmoRhs0Uge8w28vAGz9X/oEBr4wJ8DMmiDr46M1WVXE7x2cd8uUpRlklFA28+42hoFZHnjQ==",
+      "Size": 57468
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.Tachie.Psd.dll",
+      "Hash": "tfheAJowvVwHRnZuO5f4K8k6YEhEH8eZ562wPC95OcLGWcNgl7je4I2eXkURQHXvy6hiHok5vT1GWyG0xwrVPw==",
+      "Size": 114688
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.Tachie.Psd.pdb",
+      "Hash": "zBG+fUQ7skQhAz/HbGfH91rWGfuJKsbtJZVBrnZdmYX6Ak5coTqCGIfFgwl2VHzFNPBJOhlsx7g0mVCE7UNhVQ==",
+      "Size": 56268
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.Tachie.SimpleTachie.dll",
+      "Hash": "6L5w0kMKIKx8CBRTBFCmYGnrSAvdOOQf4yQOLYP9m1BvPTQzYO3skW1uQFiGrhZCbSoYcEK3paTLLriarEYEkg==",
+      "Size": 29696
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.Tachie.SimpleTachie.pdb",
+      "Hash": "i4apTGbIjw6ZBEhpKPmABcnFERT/RB0lsolA2T6kJ38MbuIvqamEk8LWf61kmFkRKvzWWPqsQtrKl2XIyIVuow==",
+      "Size": 20960
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.TextCompletion.OpenAI.dll",
+      "Hash": "CFGCkw+S5RnSKSIIsaOYRIzh7SB1zkW3gnRasMXRJXJFVHpnXgJftZZMveTMAR8GO+x6jeEdqlewzB2GM8TAXw==",
+      "Size": 27648
+    },
+    {
+      "File": "YukkuriMovieMaker.Plugin.TextCompletion.OpenAI.pdb",
+      "Hash": "PIrWno6/0mxaKbUMmsI00UuScHu+2iIFQcjLg72+oCN3id2H4wkYLndng6nvZvBPn3Vr5ReByRDJ77rT1B/yMA==",
+      "Size": 23756
+    },
+    {
+      "File": "YukkuriMovieMaker.runtimeconfig.json",
+      "Hash": "aHZoDSOkK3Auy7APADMJMb2FW9DgGBsBUwKghxnuaFVvvHOZqMQHQYaQONG7bhXHxISxBgCNh21itlf7ltuUVw==",
+      "Size": 574
+    },
+    {
+      "File": "YukkuriMovieMaker.Settings.dll",
+      "Hash": "/EV6TC7zwpp0ZHOmRG0aksf+9ERu2yCitdafLzlbGWsW57TVQRIU6casY60NBUVVOH5R4FpFJZmWOKfnZZY5bg==",
+      "Size": 61440
+    },
+    {
+      "File": "YukkuriMovieMaker.Settings.pdb",
+      "Hash": "EUnIeTnIXYOVmURv46vXlrdA2OZTP9MDqH4Zm9Qc+emTbjYq+cBg/NBa1Q8RQxzKlJmJN2HJ3uG9CrMsiTaavQ==",
+      "Size": 41332
+    },
+    {
+      "File": "YukkuriMovieMaker.Update.dll",
+      "Hash": "XOwayrONXJLHiy5LeGMYXXKP5QD9XGpei/CnVXm7hrINB9dh9qoxUpiWZN7HYP0Vmqreo3wNCtE0qA2JXVKENg==",
+      "Size": 35840
+    },
+    {
+      "File": "YukkuriMovieMaker.Update.pdb",
+      "Hash": "UeB7/UU/QJPBpL6mfKeGtvfX+SL/Jw/Z/mZ7VwbErJeHvsqR4EyhSyx1kbW9CiS4YKYhW1Xg5MR54+nPXKf5EQ==",
+      "Size": 20972
+    },
+    {
+      "File": "ZstdSharp.dll",
+      "Hash": "9tnODHxg4H5oZgTZV0ILQ56nnalEagSGP5+gpyauSI49ojHcSKVYkLg+oXmK7MDdEkrYY5SJBGSbktaNNrAcVA==",
+      "Size": 392704
+    },
+    {
+      "File": "_起動しない場合.txt",
+      "Hash": "eoEXtei7xi/aYI92zUR2UDL87SrRD0N4D8QGe0zvq8K0MToHyS4E6YDnQLz2LM9Tkdfj2uLH/njv0hks5el4oA==",
+      "Size": 653
+    },
+    {
+      "File": "ar-sa\\YukkuriMovieMaker.Plugin.Community.resources.dll",
+      "Hash": "o8m2FZZ4KywB+WzSqJh2W8lH3Gfyy+4KEM/KntTIvwna/ndWUwLjb1FJ78T6IruE71NC3v1Q/iEntzJTJP9Jag==",
+      "Size": 43520
+    },
+    {
+      "File": "ar-sa\\YukkuriMovieMaker.Plugin.resources.dll",
+      "Hash": "VUqXxbZdZ66kdUESnJ6hx9L9Xa6z9x9xg7sjzrj4u4cownU2JQV+YmBP9PZARnZaJJMNjjiPo2rShGamCPhS+g==",
+      "Size": 562176
+    },
+    {
+      "File": "en-us\\YukkuriMovieMaker.Plugin.Community.resources.dll",
+      "Hash": "S4a+ivL0s5F8I53wB6LBagmIICZvFUY+O4Kw7UaeVDr21RflmmY9cuFQ97uTAXfwvE9Wx9LKRbB1LTmulCMfZg==",
+      "Size": 40960
+    },
+    {
+      "File": "en-us\\YukkuriMovieMaker.Plugin.resources.dll",
+      "Hash": "qtxgwjnzBqU+o56Jz1OwhNQc8sGITragQe6B5wBNIg8Ai4Z5+e5Hjbx4Ikh+3dJlRkMlT0Wbr7nL4MNr76gGhg==",
+      "Size": 488448
+    },
+    {
+      "File": "es\\Microsoft.VisualBasic.Forms.resources.dll",
+      "Hash": "toH7TsQ8du/gAnlSWtmHvIWfUPhcOp2ccriudAg/S8nS0uHK47FZMCSx3/2+qAZdH2iZD2PJJNGSCkt3liKRxg==",
+      "Size": 25872
+    },
+    {
+      "File": "es\\PresentationCore.resources.dll",
+      "Hash": "gM/FRKNK2hftVXcLPwCZQX0DHFL4vqiCh+1mFP+BMMMV9AYXBs0fneXhDHCnoNMTfII9mHecYg47TpohFErO8A==",
+      "Size": 109328
+    },
+    {
+      "File": "es\\PresentationFramework.resources.dll",
+      "Hash": "Qg6zIzVizZtNEC7P+T2ilBgBAi0w2syKAIqkshJWid32Xj3aW5N/9ipDyAfxReZWx1we6lXcFb9IsGnGIONPjQ==",
+      "Size": 203016
+    },
+    {
+      "File": "es\\PresentationUI.resources.dll",
+      "Hash": "FXvEDwJD43qkDNDMFli6ssWZzSnqF4/a1w6hvbNiACTdNZfQNyxHcYXjTQ2LkZaHHC4RAJFhC72YbtQ8v3+JWQ==",
+      "Size": 45832
+    },
+    {
+      "File": "es\\ReachFramework.resources.dll",
+      "Hash": "eZOuMIzD7YglX2DdRjuh0UGuX7zmGVfrm21DAaKVhGZ1fwE3AO5ODR+81o08oHcMxbN8v7fezPu7sNg3zqFcdQ==",
+      "Size": 39688
+    },
+    {
+      "File": "es\\System.Windows.Controls.Ribbon.resources.dll",
+      "Hash": "HJbsxPtOXl8bQ59HX6nkEeT7k39dMaUbA1fe9IhJBj4sV8q9RaAYUKrATOaeDq2aymSiDsDPg3AI2TSefBmvJw==",
+      "Size": 18696
+    },
+    {
+      "File": "es\\System.Windows.Forms.Design.resources.dll",
+      "Hash": "mLJN/1ZObPfY5EGJpbxboCK4wJB42B/Eh4ZKetldZGi7+TX4W4K5+2B1/2iScfWqOEp+EIvIokJfIyAbi8JhMQ==",
+      "Size": 253216
+    },
+    {
+      "File": "es\\System.Windows.Forms.Primitives.resources.dll",
+      "Hash": "sh03UE9rT/CMqYZxkH1kWv78lYQalTvGApxxxB3b41MiPLmax9BC9ngs5pr/lHCsBvj+tdsrzC0hul1cJe58UQ==",
+      "Size": 16136
+    },
+    {
+      "File": "es\\System.Windows.Forms.resources.dll",
+      "Hash": "JC3rYZ1PIKCB8wiWO2f4X/mvdiXtPMsEWnKeocObJkHSLwd70uYgdp/gxpYQt/6dGFCZBfrTiSTIbf1Mdn04DQ==",
+      "Size": 368392
+    },
+    {
+      "File": "es\\System.Windows.Input.Manipulations.resources.dll",
+      "Hash": "6BAFbXqaV6d2iviA6r8p+pb90i5irpNgoBPKWV5gWIH8zbD/eHUNRQOPED6hdD5+noKU1KRPE/bE4xPhUklN6g==",
+      "Size": 16680
+    },
+    {
+      "File": "es\\System.Xaml.resources.dll",
+      "Hash": "f1+ZZHXF5EaJLttIWS3Vo3lga+aHPuiYPKpfwRWgg6M5S6kxjhO7zdve5LmfeRZb5Tdp10kwJM4KFSEQvp6aGg==",
+      "Size": 65816
+    },
+    {
+      "File": "es\\UIAutomationClient.resources.dll",
+      "Hash": "nzJv92L/F37NoJm9YAg9lyFmU/YasxdrLwYaxqDmvYIPyQ8RvH2GBqDAediQgd2kbo2BEy6gBRMLjbhkUuCwZA==",
+      "Size": 20248
+    },
+    {
+      "File": "es\\UIAutomationClientSideProviders.resources.dll",
+      "Hash": "SUtAX4AMhU30+W5ktvwrLMnawQQLNGVBNGIevx8TB2g1psaQj8lg5wYSgbQdi/bqmZbhcs6eezpgBN8m5qXV9A==",
+      "Size": 21256
+    },
+    {
+      "File": "es\\UIAutomationProvider.resources.dll",
+      "Hash": "sO47oJMUMsedhNzKU5h76IvDZVXf6hs9uu7dd92PFWpJtwGhcsrAKvbL2Ca+ofNQluEN2VOLoM0YzpW6lMZL+w==",
+      "Size": 15640
+    },
+    {
+      "File": "es\\UIAutomationTypes.resources.dll",
+      "Hash": "y/IBM0ezUNmvpOCZXwsulNYpyB8QamIwtvgOrfNBcbubVhctmbIAbDnVUrttNXHoaJZis41P2rLmKz+gBYKQzw==",
+      "Size": 18712
+    },
+    {
+      "File": "es\\WindowsBase.resources.dll",
+      "Hash": "ESkx+0XVtogcNNmUwXwyGsNl9P9rxSbIMWmk8W17SFWQqOQ9Xhg++yF5+dFu5TjU+0c4uHYSp12AifR7w4CmWA==",
+      "Size": 89872
+    },
+    {
+      "File": "es\\WindowsFormsIntegration.resources.dll",
+      "Hash": "SBsWg45LWQq+7FZ8hF+YORhu3JN3eF0Vgbsu0CWb3TMLIUN7cxTGj714fBW4MOnTlZ1idDGe/Asm5CjV7te2wg==",
+      "Size": 16152
+    },
+    {
+      "File": "es-es\\YukkuriMovieMaker.Plugin.Community.resources.dll",
+      "Hash": "p4Vc8G+n1irjaWC/JFZFstbJF7ijumAH+TWodFJeyxXBJYWze++2PEKICbHGQHLyyEixAUe4oir5vIVrMoPzxA==",
+      "Size": 41984
+    },
+    {
+      "File": "es-es\\YukkuriMovieMaker.Plugin.resources.dll",
+      "Hash": "zlra7yehNe0hz/zA9bWYVgjNCE91ecyZ/i+Zh8JxHISI4nsTUtlLc26xR0uKv1ttnLuCrSZMdwSDr8PfkWb8hw==",
+      "Size": 517120
+    },
+    {
+      "File": "id-id\\YukkuriMovieMaker.Plugin.Community.resources.dll",
+      "Hash": "pnB47JXe1CFA1ydBhsZtIVfr9jdUWD6snS5QDrMyJO0OxYfjaCf6wx3BHwnOAL8sa4DJL0TTntkMKZvuwu+Xtw==",
+      "Size": 40448
+    },
+    {
+      "File": "id-id\\YukkuriMovieMaker.Plugin.resources.dll",
+      "Hash": "JaI8PzUy50j+ZI7kj3FGC9zWx9x5A5BwKZDpwEPXYawZegINlSyUpsmL8Ol4N5SHVn7+qWsqbc5GmTcIG43PDg==",
+      "Size": 495104
+    },
+    {
+      "File": "ja\\Microsoft.VisualBasic.Forms.resources.dll",
+      "Hash": "dftz+1gWgNNDvJBORKOFXKj1ExN/+g95BTnDqwXVi+DijMfghmOptBJLhX34xz7crPow6R7Ih7/QIERzGQzxMg==",
+      "Size": 26408
+    },
+    {
+      "File": "ja\\PresentationCore.resources.dll",
+      "Hash": "SGBSJd3r/xNU+wNNrwwoX3nVqd+S6+HJPPUAaWrh/5EQ9udd+GWbjWYHw0Zd+86l7DMUQVFpmnhLk0jON9LAGg==",
+      "Size": 121632
+    },
+    {
+      "File": "ja\\PresentationFramework.resources.dll",
+      "Hash": "IvhXxOr6ncHytRZuZhd3XB89WqMPi9MeTaKXiJuD7q+kpErEoACx2fapPfxrMXdlk5kGErgYcs0jMlvfcDbU1w==",
+      "Size": 226056
+    },
+    {
+      "File": "ja\\PresentationUI.resources.dll",
+      "Hash": "/Ur1WEo6ifQy7kANJy7BlkzJBw5JXEaMjqNBOiIVr4h+Kp4dyqy/iEeeASsrCHSAJzme8tAJWfrduRf+GC1r9w==",
+      "Size": 49432
+    },
+    {
+      "File": "ja\\ReachFramework.resources.dll",
+      "Hash": "1LSg7bmyIfilq0Cdwdbsy70/PiTBA5/uYsW4/3NOY8H8aeqhsGBrriR378PVynIjJ74uuwjYe1k5YcaMbO0AcA==",
+      "Size": 42248
+    },
+    {
+      "File": "ja\\System.Windows.Controls.Ribbon.resources.dll",
+      "Hash": "oWDioMu/7lZBLBfWzECKbmTxsbClM0kTguUeuulfDHt5EuBsTV5HSl2QM7GnCJHGKGjpB2LGNIHfb+Vzk9VYWg==",
+      "Size": 19256
+    },
+    {
+      "File": "ja\\System.Windows.Forms.Design.resources.dll",
+      "Hash": "sDV1MORqMTtmISRg6KCbSMfWmq1vn55JHgXvnMwfbM7Zo/lNsgD+1SsNBOKle0YesD6eVruVB6vrSuV49P710w==",
+      "Size": 259872
+    },
+    {
+      "File": "ja\\System.Windows.Forms.Primitives.resources.dll",
+      "Hash": "1zxtO1eBcIYpMPr27AI0bP9xuw2uqnI6fjfqWwwenxF7vDmYUfGxkSeqwR1+D++QR6M3MDH9TuZTo+CY4P4oiA==",
+      "Size": 16672
+    },
+    {
+      "File": "ja\\System.Windows.Forms.resources.dll",
+      "Hash": "Rr9uJLPQxV86xjKQk7DbSypDT4EbPwYFcyA5aAYoKQ3NQ2kvpEb6x39GJQ6I9NWYdWDSZW1xlERLjQRoSrVEoA==",
+      "Size": 411432
+    },
+    {
+      "File": "ja\\System.Windows.Input.Manipulations.resources.dll",
+      "Hash": "s+O9uV4CQXtfAlrLN20izC9AIcgfU1PcMn8rz3ABsX9HOXYaiMmMTMAxnsJDHhQmDSF4GClZN04QnMGVjaxYgA==",
+      "Size": 16656
+    },
+    {
+      "File": "ja\\System.Xaml.resources.dll",
+      "Hash": "BP12g5tGuw1VTOQdHpGbB5gds4ZIzoY0tR0zWx3iZDcF24rf3xFr6GY10+NNjYoOU3ahdxAaf6hHsBQ+/S905w==",
+      "Size": 74520
+    },
+    {
+      "File": "ja\\UIAutomationClient.resources.dll",
+      "Hash": "+Eg3/WSyMgoxYeFAjjf4mjj1kjvWgYZEOEewopfJvtu7it7pAwjTfConm2CvKdzQye0hmRTRYMC2by2h9v6ogw==",
+      "Size": 20744
+    },
+    {
+      "File": "ja\\UIAutomationClientSideProviders.resources.dll",
+      "Hash": "ZLNjx3LkYPDNlH7wnptOHta7Fgg14fl+rGjOeKin7x1nE9TPJ1SHiobjAfiroE4TsHycejqFNAU90R3g03UIkg==",
+      "Size": 21256
+    },
+    {
+      "File": "ja\\UIAutomationProvider.resources.dll",
+      "Hash": "SJd/HnQhzlS8YNhsIw621dYA+1x+lE6A5bt9DbkouemdN3TdV7L1G8lX41TrucvkF+bgmORXLhMOo9oOMXV3Rw==",
+      "Size": 15624
+    },
+    {
+      "File": "ja\\UIAutomationTypes.resources.dll",
+      "Hash": "5wvBXjca3EgjVNDkociiQZECC+wVJVqrhBw+sOs2dEUo5G1T7pjl038raR2pWzfMYiGtbIF0QnN8yXltiXnjSQ==",
+      "Size": 18704
+    },
+    {
+      "File": "ja\\WindowsBase.resources.dll",
+      "Hash": "1+eC6QcIC1nKvmydCVW62Nl79XjbrG0h/zZUH1tygmG4BlKg7wTcf5bPPCdMGBUME9KNZ62G/P8+6fCH4mHGWQ==",
+      "Size": 99096
+    },
+    {
+      "File": "ja\\WindowsFormsIntegration.resources.dll",
+      "Hash": "EQSYvsBZcBJ5VnuQUbTiexOPoIKDrfJlvr1mwE659Z3Lic1BOTTwL76grWpxaUP2tXlk0tYoKAfntTvsHGbGYg==",
+      "Size": 16648
+    },
+    {
+      "File": "ko\\Microsoft.VisualBasic.Forms.resources.dll",
+      "Hash": "lWvEN7XGnQn2tKxiBSRrxxKM3QJOSVBptzeoRUXr0mhrsoGygMYt2B41ZBl6XimdOnR8Zinf2qmQl/8EicjzLA==",
+      "Size": 25888
+    },
+    {
+      "File": "ko\\PresentationCore.resources.dll",
+      "Hash": "XCGlL73R6qFY8bWCe2apiugExeOi18FlhpZSyHjsuSb1JGnqwHoMcpiiyFkAfL/QOLNjpryugROgDbnAcYpb3w==",
+      "Size": 113440
+    },
+    {
+      "File": "ko\\PresentationFramework.resources.dll",
+      "Hash": "DXqVuSCMjU6RAaiCGdvxvZuKaZuUYc0K+k1qnIpFO321qehyv/43YxRaZVwRGNnk0v83MT6Vm33IiUHx9OsUog==",
+      "Size": 211232
+    },
+    {
+      "File": "ko\\PresentationUI.resources.dll",
+      "Hash": "eSPj6H9bFfaT31gsVXzucw/d/Avq89fYZiSbhPdTEwmJdA84IQGRFjg+4Eah+PSBbNPyQTyb+uEll142JeGkAw==",
+      "Size": 46360
+    },
+    {
+      "File": "ko\\ReachFramework.resources.dll",
+      "Hash": "qO3XkVNXwrCqSa9P1uhklzDu2xYtxpbLcAI31w0ULcLafAipCw15HcdEb8qNARoVzPW0A6VP0CewWg2MTbMcnw==",
+      "Size": 40712
+    },
+    {
+      "File": "ko\\System.Windows.Controls.Ribbon.resources.dll",
+      "Hash": "JE/CtnAvQrbNiPdG7fpho3vdoyjXjSWEMUBMvfFKI1ksPnP0YqvEFyjRgQ9d6rXz2IxCX8FiJbq1KBVmxeqPsw==",
+      "Size": 18712
+    },
+    {
+      "File": "ko\\System.Windows.Forms.Design.resources.dll",
+      "Hash": "tW28d9nverAGK2eIXOvItjnfeglZGTCG+kQj2AGUIappqAY/Vrl+7zM2G3585HKEvFDHb5lnsmOsQVyLUoDM1g==",
+      "Size": 254728
+    },
+    {
+      "File": "ko\\System.Windows.Forms.Primitives.resources.dll",
+      "Hash": "Y/zGJ2/4Xughh8r8P7kodXZJUEe+1kAP1UoQIEKu6rNGkbcoY1YzWB9g2k9J5yTVok/v7oEOc4l7v9rn6F01eg==",
+      "Size": 16680
+    },
+    {
+      "File": "ko\\System.Windows.Forms.resources.dll",
+      "Hash": "W60zDjipPB2MjJutt17ZYY1tNN9qw/f1wA1mB3Z2baDiiX5Kxw7Q74Y7k+0VeWnhT7vnWXn6O55h7mGkkRvtGA==",
+      "Size": 373040
+    },
+    {
+      "File": "ko\\System.Windows.Input.Manipulations.resources.dll",
+      "Hash": "zKkyMiu7wUmMmkRTnban1y8sMWVI/+gPbrLrnxwq6QuhyaQMoDrNxXTNJQonf33GwljO5s23bLKbhvB2v96ddg==",
+      "Size": 16672
+    },
+    {
+      "File": "ko\\System.Xaml.resources.dll",
+      "Hash": "FMDObxFPP/emFMjkNxhr6wDA/o8G7g+yHtm3QrlbD7GBbll2JHXlI/46SJBvsvRrVTpAYXrAIVQIXDwykKfAHA==",
+      "Size": 69384
+    },
+    {
+      "File": "ko\\UIAutomationClient.resources.dll",
+      "Hash": "EuzRqTL3qt8mk+wWdCPvcjjadUH7LsVY4+GgMXfbAbydWePKgiWo4tAeQp3C7TqYE0cUs7J3lFaKF93uTIaOqw==",
+      "Size": 20240
+    },
+    {
+      "File": "ko\\UIAutomationClientSideProviders.resources.dll",
+      "Hash": "K51UttOL79EUZfyfF1tQw7OPFqU62jyqTmCEfFJl3igaNHRrlTBP+/1jMwRgYksFaHsuZRjMbR3e/hU7uHumaQ==",
+      "Size": 21264
+    },
+    {
+      "File": "ko\\UIAutomationProvider.resources.dll",
+      "Hash": "VSSTcrg9AXfy+U8nTzOXAweVO9tGntP2CiKC7CZ7qlGKtNmMBDo6hUNjDRIcWaoP8JXHxWvRNAhXXYlvHbtOmg==",
+      "Size": 15624
+    },
+    {
+      "File": "ko\\UIAutomationTypes.resources.dll",
+      "Hash": "VLmE2WbcWNLbplBv+GGXV4P7UG3efqS/Z489Y/XsNqqtUNoeIvY2kja5d144ynu/ShKZ698Rd8Nlg4NTM0YK+Q==",
+      "Size": 18704
+    },
+    {
+      "File": "ko\\WindowsBase.resources.dll",
+      "Hash": "AGGonvt+bsJoT5reHtCrC+iKMdlacw2rLNDI97HHktW4zN7uuxUvjHViUwCljFOTwnVmLNb/xvM8S+SZQS/LqQ==",
+      "Size": 91920
+    },
+    {
+      "File": "ko\\WindowsFormsIntegration.resources.dll",
+      "Hash": "uE4ruiuruIJgUpU5+EZaqOZt529+axfOLxNqjqLubq4YwSjavYaXOdxjlKWG1HAtiLn43zFCddrvefxbvWwKpg==",
+      "Size": 16136
+    },
+    {
+      "File": "ko-kr\\YukkuriMovieMaker.Plugin.Community.resources.dll",
+      "Hash": "/W9Q+vqjrmloLNG7tNNacwWaXZJoX5/H4hMEstXbQtjUj0zRky9MW1wV5xQlZzqBA/yQiyY825SW+uLlivqgMA==",
+      "Size": 40960
+    },
+    {
+      "File": "ko-kr\\YukkuriMovieMaker.Plugin.resources.dll",
+      "Hash": "vTkGp+QHeg0/Fq/nF0XHPGbOK58Pvr8QWsPnAdwxxi0365cenyGrYHqLuXsx0UU2dTDRwhSiQCJqkGfJCYSmew==",
+      "Size": 505344
+    },
+    {
+      "File": "Resources\\ChangeLog.txt",
+      "Hash": "nr6pQhnHoXYlrgdtdUCh1oAw4SXj2t5YZ8cXOPcRkFwXUlShlFFzLZuZC8uq9BB7y4cwXmOY7964UurbmuLaLQ==",
+      "Size": 269711
+    },
+    {
+      "File": "Resources\\ChangeLog.v1.txt",
+      "Hash": "tDo1thMDedkUf9nTOMCpAhtSL11T0Mq8n4WRI/+Mur9pb/JAuQ1cgqZJ7hp/XB0i3Huc+vQCPwJdoiiV3IyNXQ==",
+      "Size": 3370
+    },
+    {
+      "File": "Resources\\ChangeLog.v2.txt",
+      "Hash": "UrCh2DKDVh1s+TNkLnanb7x4E28rzcL+Zr8hP+mm1Nw2BD3l2PRCUdFW/kCxJ00JbwRLa1pG3c6Od9hQDCjG4Q==",
+      "Size": 61116
+    },
+    {
+      "File": "Resources\\ChangeLog.v3.txt",
+      "Hash": "gBvip3mSF+lTWGcoUgC9UwGuTG0mYmnYkLOekgovinfDnXCMNL96c/vnKYkt4QNxJ3vceUNdZ8aOFD6Ou0Hxmg==",
+      "Size": 93806
+    },
+    {
+      "File": "Resources\\YMME_logo.ico",
+      "Hash": "hCqq03qESiPsOY32nk6083fnQLGmcWO93PXKM4QarD3h/ThCxQKgQxElpRQ8uzw9fa8Ov5UdEzXCeGbwbUcSHA==",
+      "Size": 114472
+    },
+    {
+      "File": "Resources\\YMMP_logo.ico",
+      "Hash": "Qofc+twqfm1Rb+Fw9hIxrx2A/x1y65zS0IDEf7QWRsEiOJvPM3qCMxx5Ykors7RWFHWNG2A7jUWUb4MpCg5YyA==",
+      "Size": 110510
+    },
+    {
+      "File": "Resources\\YMMT_logo.ico",
+      "Hash": "VDb7RzKWuKw5xrmUXSBNMR1+ondaH+PMooSDfPVNDzAJFWErcIxZhjB9lgTynDho+Bw6yTi0E0m1LrXjmqcZgA==",
+      "Size": 113249
+    },
+    {
+      "File": "Resources\\YMM_logo.ico",
+      "Hash": "YBCPSNH66F/e4s7kIP5arUALgJB3gLlTN/bskQFRRBpJ7jmGKH3bgL+Du6/+V5qA4xGQMFBJrvvZr3U0J24PZA==",
+      "Size": 144640
+    },
+    {
+      "File": "Resources\\YMM_logo.png",
+      "Hash": "Hpo7xWsY5Lso3B5ZXjZh6OgqVBkZCZmmcAC9pJ/EsnIMwm1SrnaAMlAQEnVJW9higmSq0nJRGriNui0cJwouVg==",
+      "Size": 291397
+    },
+    {
+      "File": "Resources\\AnyCPU\\YukkuriMovieMaker.deps.json",
+      "Hash": "qJpQHMRY/pRoIc3ay0+x10deSbFuWYY0lpWpGxRr63Yn675xBYZmtOcEgV93IatJop2SlFQ6qV8jYt7LOOAiPg==",
+      "Size": 102777
+    },
+    {
+      "File": "Resources\\AnyCPU\\YukkuriMovieMaker.runtimeconfig.json",
+      "Hash": "9mSrsqlu7WyFPnCBPxMLBUJTbX0y5RKRDdzCVAfnZ2KwVW6Zf0PMhdTdmcVVbammAzJs1Of0USR1NPsuWNoJng==",
+      "Size": 566
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq10\\AquesTalk.dll",
+      "Hash": "cun7NnDDPwby2f8GdNeSyXTsuIcmulPKyxtAoXAQZpHbyd8cDKN+gMiqZFIMUTkRgIBAoVJNwGlm8icXAW1Uag==",
+      "Size": 403968
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\AquesTalk2.dll",
+      "Hash": "5ePn2wlc8+m9GkbL5uAwfhM3Hfj1mFvyZ8UXuJOIeFkR3IYCPZ0nCY0xieFowqoDKnmmxcRRvxhZVSa1nC4Pfw==",
+      "Size": 47616
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\aq_defo1.phont",
+      "Hash": "LJu5OzJZmYEnfaR/WhQLvod9qFcQLqRaazAylPS6v4Eq+qBTLmE2EvYoaeiD31RnRXKWa299G3zou0FjlCT+/g==",
+      "Size": 15288
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\aq_f1b.phont",
+      "Hash": "heo4Po9CoGhIF9FH3QQiasMOx2a3ypfv49KF811ub9L4xLm6WjFv7vo+GVi9c9w7pRAksi7af6UlWk2Jp0Yycg==",
+      "Size": 16132
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\aq_f1c.phont",
+      "Hash": "pkWxsaDGjSn7xn3yUhESFHWa0NvSgJffBp5FhMRqEjiSUlDfxEa+Nr0AbMTbABW9YEdsWcmlsy3MYUcSk4EkBw==",
+      "Size": 15768
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\aq_f3a.phont",
+      "Hash": "Ckl3z1TtMu5rb7ddjUFsDgLhsTkjJrmAYcS71N5f+AYCiCfTRASr7P7aGh+UHg6DwH6wRBlnCaMwOgeXIxA1JQ==",
+      "Size": 15862
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\aq_huskey.phont",
+      "Hash": "ZL9SI9U34dqApt87cRx9+y8GIL7yqNkSR+8ONFXdKyOX8iYcpmxdoahqjFoSDR+Y+FG8kgTbuTjf6EYaqCBy9g==",
+      "Size": 15284
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\aq_m3.phont",
+      "Hash": "iXw5mZjR3WQ43cy+bcEps56MBocqPTxodTop/7jir/zHecGi0UXsy8kWuwAN2eO9u7CvovJHyvRj+ucguPvytQ==",
+      "Size": 15290
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\aq_m4.phont",
+      "Hash": "p2kJqXHSwhDoxTLV8Fpuijn+3qFO7UfDmbCF+d8YY+7myIvkD9gyA+C7YJdAZjb2yX4p81jW4VrXC2q+zekNOQ==",
+      "Size": 15258
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\aq_m4b.phont",
+      "Hash": "/9QyyN+ZKEikLGHgGL6BoilI3GYReS5GM/RvzXVGag5cDK350cjrhvLwr3T5cjQ83Qzz/1iu3Q78PtRZ02O9zA==",
+      "Size": 15246
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\aq_mf1.phont",
+      "Hash": "SkwndeVi04JsRqme9XttumwfM2vK1RqaRxmrQdRhHWJbCXco+kpvR1yvYoHlTPTH7biOTi3bJqiByhc9Pg/Wtw==",
+      "Size": 15870
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\aq_momo1.phont",
+      "Hash": "jVjTqrzgpfOJ5tuG70WrmlFinRKQhMetM+VOB+OcLObz/EOxMGqG7VD1UONsWfRsMxZeN70bedVfEf6GTBokrQ==",
+      "Size": 14978
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\aq_rb2.phont",
+      "Hash": "l+6RqkAPa83VPHgxZiTUSW8a5eI+ucBYADoJTb3+1Wx5aOUUnktcIoBYcN8R8dtE+BIHEPnVpUn8S7Cmh1+b9Q==",
+      "Size": 15266
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\aq_rb3.phont",
+      "Hash": "yfIVJsG3FL9gBiU+8hVkUDN/MFDkSPaw4ZjaSf/3NYj3S9osW+zHZD2jWslEY1u3vb8KdrODqORs7Zz0wP0hpQ==",
+      "Size": 15798
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\aq_rm.phont",
+      "Hash": "DoBO5bixY62hpOsnQYIvafJFIp51gU4YT3q/vH9LrzXon/c0ajcl4stdGil5hxolul1qk/zUzC0HkUiecqzyEg==",
+      "Size": 15308
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\aq_robo.phont",
+      "Hash": "o/7Y0uw3egKcif8nXP7pibJWokAuVu9u/zFA7Y63puyThWk9lmrO6SlimRawf9/NExFtxhHYYQY/N9NITIdkSw==",
+      "Size": 15180
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\aq_teto1.phont",
+      "Hash": "ZDULqfD4xKHgrrSJvVykFlvAdfYCdxI6/1xCS3GFPY+ZWfpAZ4v0JAegXXuHO6rJyBxdBcwFFkobYydXzcWOOg==",
+      "Size": 15002
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\aq_yukkuri.phont",
+      "Hash": "LnW5BOKTVET2JH5ozFKIGUD3av12MkAAA2NAv3w0NctpwPWGHbOQ1/npZD/6z7olumM+rhPQs00dZdHlMEemWw==",
+      "Size": 16124
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\ar_f4.phont",
+      "Hash": "lcyo32nGv/zA85TKURwqy6f2I3GdMtE+4gq5Y1CoN6eVQnvFuI/DHNhVV7E9fSPyZ7tNm2mUP+P/kZWkhfOboQ==",
+      "Size": 15440
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\ar_m5.phont",
+      "Hash": "bbt7e0+NR6G4zGnziS19wW7VEDNutZeogCTYbxDofn0Kg7BJbcCAP8507d84YfpBoxM86OWJ/NNygPHrw1YP4w==",
+      "Size": 15976
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\ar_mf2.phont",
+      "Hash": "YSnW/HrDVtdDkXDlGUkViYPoT2ftXZdqEjlNqT6C3lYIapEM3cxGRspHZ6ZUasXunlp/FqYu2sk38zSm++AVlg==",
+      "Size": 15972
+    },
+    {
+      "File": "Resources\\AquesTalk\\aq2\\phont\\ar_rm3.phont",
+      "Hash": "ZQLHwJR8KgMX57/JmnpmDSI71KF825FHt5BQxTq3RZB9ERd3XVR26nddRP0ZVDuMrGek1pvNbfXW/ECMhZOi+Q==",
+      "Size": 15440
+    },
+    {
+      "File": "Resources\\AquesTalk\\dvd\\AqLicence.txt",
+      "Hash": "QZX0ggtoG5+7wv7SJ6hGAEYrAB7Ig/chV1F4YV3eexcJp/K08yORtcct/OvZQH2rsUOvLwBWPCjRRHR8De5EQw==",
+      "Size": 387
+    },
+    {
+      "File": "Resources\\AquesTalk\\dvd\\AquesTalk.dll",
+      "Hash": "XpYKxpO2MbCUo4NVS2AXKlEOiryGwUPC4s6LORJ+RFlLEwj9+AlfQNo8uZAmInSSr7nO/5VsGY63gYXfE/M76g==",
+      "Size": 184832
+    },
+    {
+      "File": "Resources\\AquesTalk\\f1\\AqLicence.txt",
+      "Hash": "QZX0ggtoG5+7wv7SJ6hGAEYrAB7Ig/chV1F4YV3eexcJp/K08yORtcct/OvZQH2rsUOvLwBWPCjRRHR8De5EQw==",
+      "Size": 387
+    },
+    {
+      "File": "Resources\\AquesTalk\\f1\\AquesTalk.dll",
+      "Hash": "iB6NS4hFB4O3cX+4t/X8tRhOzdHy46mtS28XJ+/tPmiw0wL6LaLyHi37Wq9VDz9NQGF0n10M8sB9+BCjBynWgQ==",
+      "Size": 181248
+    },
+    {
+      "File": "Resources\\AquesTalk\\f2\\AqLicence.txt",
+      "Hash": "QZX0ggtoG5+7wv7SJ6hGAEYrAB7Ig/chV1F4YV3eexcJp/K08yORtcct/OvZQH2rsUOvLwBWPCjRRHR8De5EQw==",
+      "Size": 387
+    },
+    {
+      "File": "Resources\\AquesTalk\\f2\\AquesTalk.dll",
+      "Hash": "JjSfdE5dQ6YUYxk+EoQtOD77BqD5vhqJTz8Q1BakERp2CAlT1FHGSuJC5L0PhNNZnUNEvZ4miC7p21jY2IfAiA==",
+      "Size": 181248
+    },
+    {
+      "File": "Resources\\AquesTalk\\imd1\\AqLicense.txt",
+      "Hash": "QZX0ggtoG5+7wv7SJ6hGAEYrAB7Ig/chV1F4YV3eexcJp/K08yORtcct/OvZQH2rsUOvLwBWPCjRRHR8De5EQw==",
+      "Size": 387
+    },
+    {
+      "File": "Resources\\AquesTalk\\imd1\\AquesTalk.dll",
+      "Hash": "jl52K8UdBNLfKaqbjDImWUGH6qu3yxqNwGYR+S0X0/JbBsCW8L0dOYk4ODezSjqAe+xjFYGB0t8Uq7uRJFJ2Tg==",
+      "Size": 181248
+    },
+    {
+      "File": "Resources\\AquesTalk\\jgr\\AqLicense.txt",
+      "Hash": "QZX0ggtoG5+7wv7SJ6hGAEYrAB7Ig/chV1F4YV3eexcJp/K08yORtcct/OvZQH2rsUOvLwBWPCjRRHR8De5EQw==",
+      "Size": 387
+    },
+    {
+      "File": "Resources\\AquesTalk\\jgr\\AquesTalk.dll",
+      "Hash": "J7nwL/rm2WeO9AvNlUh9aR4QnWziML+n8GqyJfRZJyzaTsSm31/oqYGgV0C6k4oUafp8ys7MDMUv4B3h+10bNg==",
+      "Size": 181248
+    },
+    {
+      "File": "Resources\\AquesTalk\\m1\\AqLicence.txt",
+      "Hash": "QZX0ggtoG5+7wv7SJ6hGAEYrAB7Ig/chV1F4YV3eexcJp/K08yORtcct/OvZQH2rsUOvLwBWPCjRRHR8De5EQw==",
+      "Size": 387
+    },
+    {
+      "File": "Resources\\AquesTalk\\m1\\AquesTalk.dll",
+      "Hash": "iVyDBAyZjGIy6uAGZ5DCtklJwE140oLkyzOHQZqBc126CKc47F3BOJh6op5nX5KGmhW+2jlUY31iTr85pyveeA==",
+      "Size": 184832
+    },
+    {
+      "File": "Resources\\AquesTalk\\m2\\AqLicence.txt",
+      "Hash": "QZX0ggtoG5+7wv7SJ6hGAEYrAB7Ig/chV1F4YV3eexcJp/K08yORtcct/OvZQH2rsUOvLwBWPCjRRHR8De5EQw==",
+      "Size": 387
+    },
+    {
+      "File": "Resources\\AquesTalk\\m2\\AquesTalk.dll",
+      "Hash": "3B1qbTkxzYTlC2zeHxGqYXssBwQ1saeRVBmfK8OMAerWquactm27ATzlikg2Rrfn88+w9L3stwdHZKtwhSuiDw==",
+      "Size": 184832
+    },
+    {
+      "File": "Resources\\AquesTalk\\r1\\AqLicence.txt",
+      "Hash": "QZX0ggtoG5+7wv7SJ6hGAEYrAB7Ig/chV1F4YV3eexcJp/K08yORtcct/OvZQH2rsUOvLwBWPCjRRHR8De5EQw==",
+      "Size": 387
+    },
+    {
+      "File": "Resources\\AquesTalk\\r1\\AquesTalk.dll",
+      "Hash": "qFMwLL+0kLsJ39q3sFAjk7eXWx5XQgomlIbMc3JAvyeuMtLsWJKUea7yM8rRm/8QN2Q+HHyAhIPNyhRH4QvFMg==",
+      "Size": 181248
+    },
+    {
+      "File": "Resources\\bin\\YukkuriMovieMaker.Interop.CeVIO.dll",
+      "Hash": "McnD7QRrOnvBn/nwYdiLmK2mN/0icZKqElNKLax9zXhEGX3y3gvVS3l4rSBnhzJAglWkPzjPeA+5lsh8vODI7g==",
+      "Size": 14336
+    },
+    {
+      "File": "Resources\\bin\\YukkuriMovieMaker.Interop.CeVIO.pdb",
+      "Hash": "6rfnBeKTVC8ofJq/E4g6NUu+EkHYIEpwLPKzFzNg0nb3GXsC5P4FFjpkCJwaQK5t/4QwkJ5E/rm77zjZ4pOmRQ==",
+      "Size": 13908
+    },
+    {
+      "File": "Resources\\bin\\YukkuriMovieMaker.Win32Service.exe",
+      "Hash": "EFrvadJL0v3oozNcqMumz662o9EfnTiCeQJwP2d4gJE5j7dgB9dR/fR4BH/bMTAxfF1VGkq82xTjPCp28rkNqw==",
+      "Size": 34816
+    },
+    {
+      "File": "Resources\\bin\\YukkuriMovieMaker.Win32Service.exe.config",
+      "Hash": "+irD7/XVGup6zJz2qgGKd/rildVcW/gIydcEjIAbr0YmVo8A+wAanyeAxG3OKUSCz+swRaq+E53cVXwNO8EWQA==",
+      "Size": 186
+    },
+    {
+      "File": "Resources\\bin\\YukkuriMovieMaker.Win32Service.pdb",
+      "Hash": "X2NWCja/HwiSsV7PCVEgDWRLMJe62LyHk81vTj4/cc4R/tKJsLy0cir1/sCfI9+nNJBsI30ypCU679CZpsbsGA==",
+      "Size": 58880
+    },
+    {
+      "File": "Resources\\bin\\Installer\\Newtonsoft.Json.dll",
+      "Hash": "Vut/BwkpsjlkLatylTfd4sIoe9uFKtnoC1NYx0sUvCst3tkQ0OO2ME6ifrWH5fGdsKkuHLrmpw+yC07wUFfkrA==",
+      "Size": 711952
+    },
+    {
+      "File": "Resources\\bin\\Installer\\Newtonsoft.Json.xml",
+      "Hash": "fbiqxf+beiAqANis686F3xSnr3a3JICSHJa24BcHQWWWchr6H6GpoFY79SjfNDYVWrwVaHsf7igvMN3MDdudtw==",
+      "Size": 713541
+    },
+    {
+      "File": "Resources\\bin\\Installer\\YukkuriMovieMaker.Plugin.Installer.exe",
+      "Hash": "uB7RbyaD+U8nuMCuD0v1SeS8aHcRHl5dzreyJmYvbv2A4iDDj43OsRh5nZCcPzx82xlNfQL4JBloMfvzE9aPSQ==",
+      "Size": 259584
+    },
+    {
+      "File": "Resources\\bin\\Installer\\YukkuriMovieMaker.Plugin.Installer.exe.config",
+      "Hash": "Q4JfXCbFTh/Fv/zOMMqtFEmijAyalDLpzhfSVfi/YFfBoQAtlHHltlSrHeCPtuq/ljAs2z4PtLY7oP8YbpA76A==",
+      "Size": 189
+    },
+    {
+      "File": "Resources\\bin\\Installer\\YukkuriMovieMaker.Plugin.Installer.pdb",
+      "Hash": "Y8WXSlvP1Daz/wVsOhHvzLVYIyY7ol/5QGMNbByMqHg6sHWeypmbTm8IXawWxlQ0N3lQ2Lm2QYQD7QyIkiwQ9Q==",
+      "Size": 87552
+    },
+    {
+      "File": "Resources\\bin\\Installer\\ar-sa\\YukkuriMovieMaker.Plugin.Installer.resources.dll",
+      "Hash": "vXiTHciaEKgwpbi/CekXAJ0z+Aiw/cguG7T91vkpW13j2oUGUAQHrTYu6d4BuP7GMaTbiswAKu97VGcxDbNZVw==",
+      "Size": 5632
+    },
+    {
+      "File": "Resources\\bin\\Installer\\en-us\\YukkuriMovieMaker.Plugin.Installer.resources.dll",
+      "Hash": "QOLMuHvSD6EnF6BS37nE/o2AUxmISHyvq/iJNR+UorN/N9P29S6yAFy+v63eqU06R077bP6MTXYIyyOrEszcuQ==",
+      "Size": 5120
+    },
+    {
+      "File": "Resources\\bin\\Installer\\es-es\\YukkuriMovieMaker.Plugin.Installer.resources.dll",
+      "Hash": "K2deZmJZItIIVBWNN+ho3DEXBhrkQeB+ln+QM49MStVRbuahHyVmYeGnxAhOTV8T9WVHtT9gIiBxHkUmn3vNLw==",
+      "Size": 5120
+    },
+    {
+      "File": "Resources\\bin\\Installer\\ko-kr\\YukkuriMovieMaker.Plugin.Installer.resources.dll",
+      "Hash": "OeKrIrgIh7J1ZZYSlZclZ6oHqaDMElFjwfMdK8S8fnQyPn0rIzQAph37g+8+J9rZtG/E0v5jKv4DPgG2OOSGIw==",
+      "Size": 5120
+    },
+    {
+      "File": "Resources\\bin\\Installer\\zh-cn\\YukkuriMovieMaker.Plugin.Installer.resources.dll",
+      "Hash": "/lM/+uf3Ek4MTqYg5pgI5o2Ojc6QUQCGXkjPSw5yCTgDF3ER0dPvS8gOPndnyouYWJy4mZzkCxSZtgWg+ZT5Cg==",
+      "Size": 4608
+    },
+    {
+      "File": "Resources\\bin\\Installer\\zh-tw\\YukkuriMovieMaker.Plugin.Installer.resources.dll",
+      "Hash": "TJaOU26FJHI/sh060Uof0YPA2lN+84HT6GUu/F7wNVW+LYgA8iEkjLa0kDYZf3iVz0utkC0uxJq3CK5exhuduw==",
+      "Size": 4608
+    },
+    {
+      "File": "Resources\\bin\\Win64Service\\AI.Talk.Editor.Api.dll",
+      "Hash": "4F+kThy/V8gZeJRws7MWyv373cFl3sEA5r2VI7fiDtXbg9HujVVnsJ8EvH6LGliH8L9Jx/L8FBupV4SOWZkQfg==",
+      "Size": 51264
+    },
+    {
+      "File": "Resources\\bin\\Win64Service\\Newtonsoft.Json.dll",
+      "Hash": "Vut/BwkpsjlkLatylTfd4sIoe9uFKtnoC1NYx0sUvCst3tkQ0OO2ME6ifrWH5fGdsKkuHLrmpw+yC07wUFfkrA==",
+      "Size": 711952
+    },
+    {
+      "File": "Resources\\bin\\Win64Service\\YukkuriMovieMaker.Win64Service.exe",
+      "Hash": "aXR1OPAIBCF7OpAIyn4/NoLxEvNJwbQ8rFiipQdUmYLoUM9wAqioEZ3SHtFPScNNqlTQH8dIqZ9vqZe/3eswxw==",
+      "Size": 15360
+    },
+    {
+      "File": "Resources\\bin\\Win64Service\\YukkuriMovieMaker.Win64Service.exe.config",
+      "Hash": "Q4JfXCbFTh/Fv/zOMMqtFEmijAyalDLpzhfSVfi/YFfBoQAtlHHltlSrHeCPtuq/ljAs2z4PtLY7oP8YbpA76A==",
+      "Size": 189
+    },
+    {
+      "File": "Resources\\bin\\Win64Service\\YukkuriMovieMaker.Win64Service.pdb",
+      "Hash": "irFYwG41fHlS96O0aA5hLjZSfjNB5BVT4DngQnNiwQ6lB3p9S0S4bmcYF+lZfaoaBRCBHMPN1SmqBclF8jXYFQ==",
+      "Size": 71168
+    },
+    {
+      "File": "Resources\\bin\\x64\\7zr.exe",
+      "Hash": "Md5+r0OBPOFsadHoTj22/ZgsZZskkL4gY1KXS7KSwKZJW9VGMftkpbUntu/Hqsmqrtt2t08ZPJiQsDoPAWFJfQ==",
+      "Size": 923648
+    },
+    {
+      "File": "Resources\\bin\\x64\\OpenCvSharpExtern.dll",
+      "Hash": "aU5eVbNZ2Bl2toMvLq6d/xx6Q0yifc6lVBSxyW5gqFcx51N3rMeTYKTD4krBAn5wFT4qPIElT3C+zzE7l/U2mg==",
+      "Size": 62488064
+    },
+    {
+      "File": "Resources\\bin\\x86\\7zr.exe",
+      "Hash": "RNhQSmk61Na3ljG2U/wZtXLea744cTtTxF2cnV03EKqN+T7oZ6KiRBnr6IO4JV/RjzD4zzdLIkIUX9asshiWWQ==",
+      "Size": 593408
+    },
+    {
+      "File": "Resources\\bin\\x86\\OpenCvSharpExtern.dll",
+      "Hash": "uNWAESZ1XruFmYleNb291Jc2aDayb8cQk7bTktu9es1zlckmx85DuK56XyyGBQhW59F0px4aJDr6UdCmTEJx6Q==",
+      "Size": 42477056
+    },
+    {
+      "File": "Resources\\License\\AI.Talk.Editor.Api.txt",
+      "Hash": "wPphKzTZaFyWINNh3DyiuE1MK9bMZm71myq/+Rf71wjICEUXL1O4zeOb3l5u4xQwXxWACeeCBPNCylE/Xhi8mQ==",
+      "Size": 103
+    },
+    {
+      "File": "Resources\\License\\AivisSpeech.txt",
+      "Hash": "BWJLUxTk9mYgqn584zaWo5E0iekqfAF7NJzvGJrXImQhov0ltM3AjKpSkucg5pCiuBCaVOtl+iZdq+0xG7GkRQ==",
+      "Size": 267
+    },
+    {
+      "File": "Resources\\License\\AquesTalk.txt",
+      "Hash": "vL7Ptx7I/dA/qnxt7DK63+eNsTuNgl+4/qnaUBzPzdtZVoBPMVdhGsQOe91zIKf/LHk4xSY6jVISK8y5xQGTwg==",
+      "Size": 513
+    },
+    {
+      "File": "Resources\\License\\AvalonEdit.txt",
+      "Hash": "5VwD0mdeZqr7UAvUzFvmgTa53ZKuG7lEzGcjia2r1CFncL7O7u/kTJX1NTW/LE85J/re+FQ+f/xSFr0GynNEWg==",
+      "Size": 1097
+    },
+    {
+      "File": "Resources\\License\\AWSSDK.Polly.txt",
+      "Hash": "BZcqKkNbUCnPntuMY++y36qunC4/p8CJspzYI56rzkMfLStcz93g33vJptwb4sbLJuFMh5P2JpkAyl/dUoS7Mw==",
+      "Size": 9199
+    },
+    {
+      "File": "Resources\\License\\BraceFoldingStrategy.txt",
+      "Hash": "y2CPZPC5ZXFKHCnJP2Ca78/2DooQFcOKvqvF05ss71q14IMkLna7UH8C49Uk8SKvhkBXrk/KG782fH2WN7kXsA==",
+      "Size": 1077
+    },
+    {
+      "File": "Resources\\License\\CeVIO.Talk.RemoteService.Talker.txt",
+      "Hash": "NyMWag4Nh/JkA50EGowcp/o8AOdjerDtN/TT+rA5nSOKIWQuvrofOQBRLNW5EBaLTGyHPIjfISAS669wPFyvbA==",
+      "Size": 237
+    },
+    {
+      "File": "Resources\\License\\CoeFont.txt",
+      "Hash": "c3hvqNAPn4ntoytjrKYcf45J4Q+1DWrrVNd1Kn/RjztMQLKrI2v0/4plBSOhRQS19e+aVLC82bEn1wzoAl/heg==",
+      "Size": 3953
+    },
+    {
+      "File": "Resources\\License\\COEIROINK.txt",
+      "Hash": "WAKPEx4EatO6wzmpv0GBztRNC7hQOBSWHQgoE4h/tTSDv2sHihz7npNd4PwG11tUZPU65r1Pj8w4bJ43LP5WcQ==",
+      "Size": 259
+    },
+    {
+      "File": "Resources\\License\\CoreFX.txt",
+      "Hash": "3New/Z6i3tKBCIJl175RTmR3c0CRwBGWBqD9jwdJo0fPAVj/FeMQxBxYhkqNcKzmkRMYPhrsMmvJvPjVPFIqJw==",
+      "Size": 1140
+    },
+    {
+      "File": "Resources\\License\\CsvHelper.txt",
+      "Hash": "ovy1bZVQVrZSRnbPPvwpNKI3mSWxigN6VQBrZ9wbXFi7R1Ne4plsWfg2cvkRx0Z1xun5nRAw74kdkBjVKKQFsw==",
+      "Size": 13125
+    },
+    {
+      "File": "Resources\\License\\CsWin32.txt",
+      "Hash": "n9XjzMY6RpiB6ZiDEbnuty2FDT596QHnL83g2x5w667L9Qe9YtyQOx35MrBGNQWUBIEZDz9opmrwLPqmnVWqbw==",
+      "Size": 1105
+    },
+    {
+      "File": "Resources\\License\\DynamicAero2.txt",
+      "Hash": "KEF5ZzUayBaTBGfWQKNBF/tNcSmslvWD70JtY6HWah2pZU7d9mhy4KKqhh+eWzKYeLIJommuMtPuV57koIkEvw==",
+      "Size": 1309
+    },
+    {
+      "File": "Resources\\License\\FFmpeg.txt",
+      "Hash": "bX/UEv/D2rxmmLKCItyh26hM1TF8gS7ylmm4ziJ+4hAll0/jV4msGQ8xhfJ7lzauROEc4U8+JUkJ0pzBtcTdhQ==",
+      "Size": 8210
+    },
+    {
+      "File": "Resources\\License\\Google.Cloud.TextToSpeech.V1.txt",
+      "Hash": "9huf5/SqZ0U7UhRdBqYCsIu143XJ8wABEzlsHcGy2/Vr4thQsrgQwtXF9uqR63+//DrL0TVrRqfOnt80Hbj66A==",
+      "Size": 11561
+    },
+    {
+      "File": "Resources\\License\\HashWithoutSine.txt",
+      "Hash": "DU0Ux4Or1AVpFvr1nqZBxLD7oDlioZjuKMcI6dI0DQvLkZsiSZaMkFHEfD+ouOmz13i60LY44rgYkFMsCiY0Tg==",
+      "Size": 1150
+    },
+    {
+      "File": "Resources\\License\\IbukiHash.txt",
+      "Hash": "fUcZ6XI9Sw5VHfCJuDfzqUJ6K/I5eY6/zirOKFUkg+CbLknLre0hUO3ycIpQrnaYkSdMw3Y3TPTzU39vb0Q5EQ==",
+      "Size": 247
+    },
+    {
+      "File": "Resources\\License\\InverseBilinear .txt",
+      "Hash": "9MODQ+gYc+lXo+dZ+nq2k8/YJq8y4YKdIcRwFgcpPWQxL6dqTMkbn9gZ22Do00VT0DHZ3dH+xJ+enaVjOhKrhA==",
+      "Size": 1165
+    },
+    {
+      "File": "Resources\\License\\IPADic.txt",
+      "Hash": "E85PQPoalnZpryejIvAo72ypC0jD8GDaKXxeZFstAxehlyGneE8nh0JOXqEIuRnTtE6B3InI9XtFbAWoTMOjCA==",
+      "Size": 3870
+    },
+    {
+      "File": "Resources\\License\\ITVOICE.txt",
+      "Hash": "CE4xO0jyGyCf/mA1MAcvNI29D1UahMxdm6jfaZreVGy+UQSbfcepYUcx5Wl3vkJ13Hu/pjx/alez3xs63T8FKA==",
+      "Size": 260
+    },
+    {
+      "File": "Resources\\License\\Json.NET.txt",
+      "Hash": "enRReKo3V8l5CeWcqEYkS++ET7gwdYp+dmy7rmzYR8TRcI4sqgZRwlIg2R244an+zLD6GuHny00iKe/Bwcnifg==",
+      "Size": 1094
+    },
+    {
+      "File": "Resources\\License\\KawaiiLogos.txt",
+      "Hash": "gD/6PAHVl8VvfOLkkzkTiukodVGTjx6xqfpH1OPKyW6Fr02NgMUA4TkA2vANT0yfWZZc+PL1muZcds3mC6vULw==",
+      "Size": 115
+    },
+    {
+      "File": "Resources\\License\\Koemotion.txt",
+      "Hash": "YFOd6Esf7Cnb6BZXC095YOZIyRl7dU1a0QLdCDoAQfkqxBbKlNNNHAg5plMo3IUDibqkDm4WV5aQyojJTG+Ekg==",
+      "Size": 283
+    },
+    {
+      "File": "Resources\\License\\LMROID.txt",
+      "Hash": "cMG9eqSpaHzqIztUDQ7I8ElQabTQ4fDWJNEp9Bm9YrCXRUMDX0LcVYj5q6NC3mG31aMzcEHjWFr366mYbP54Sg==",
+      "Size": 306
+    },
+    {
+      "File": "Resources\\License\\LZMASDK.txt",
+      "Hash": "bh5xoeUYX14URY1rBbDHk21C52Xy1rNgsGwsDpgKakBv0Ekij7H4wR54nuYvxdGj90PTH7qTeDuripgW6LuQWw==",
+      "Size": 357
+    },
+    {
+      "File": "Resources\\License\\Material Design Icons.txt",
+      "Hash": "HaLM6e5L88cH8ufXWoKEwwlurO1DE/mrcTkPyUW2SNvtWOLvAZKDgo7DHTYLPPF8AlpQrVXoGEXAiN4LVjuj6w==",
+      "Size": 1013
+    },
+    {
+      "File": "Resources\\License\\MathNet.Numerics.txt",
+      "Hash": "OQ4X/G2rtXOVwxfZCuI8r00pGxLditEDKql/0Re2oM3yRlA+DhKaSAZ2E+8kVNn+lNFEBPTGFy/4ZVJipatBOw==",
+      "Size": 1144
+    },
+    {
+      "File": "Resources\\License\\Microsoft.CognitiveServices.Speech.txt",
+      "Hash": "d/Rl9kjMUZfnmBu/B8L8Di6gimEoW0X9/jw3+D8X35EFwJgkcMjmOB5olcHwjkYU4Mq3RggIlFg7VuwksaciGA==",
+      "Size": 14939
+    },
+    {
+      "File": "Resources\\License\\MP3Sharp.txt",
+      "Hash": "0Xix6X/hEH/GYueJbvbdNxDcPkbyb7QaOeyWjX627gNRe3Y+1aGrC3gBzzxDCXB6PsII96R47u2fqB5pRhRxBQ==",
+      "Size": 7817
+    },
+    {
+      "File": "Resources\\License\\NAudio.txt",
+      "Hash": "vu3y3YaexzhlfqqKWhSOui8Z+/Pz82jJVwX0uX/FX+AQTcQjz2Ul40DNk6Eu/aY4FfUAVOeuKymooaLULMdWcw==",
+      "Size": 1060
+    },
+    {
+      "File": "Resources\\License\\NCalcSync.txt",
+      "Hash": "hfIJuArMUpkGyHr0e1bUBDeG7ZSk080MVCDU4eX7Kh90N9eUeMAst1jGtAaXby62fhazPiSeEzCHMss5Iaj1Cg==",
+      "Size": 1092
+    },
+    {
+      "File": "Resources\\License\\NMeCab.txt",
+      "Hash": "1PgxPBpjeGxL+voeOLpl8EkStuaWbnh2XzMGFU6mx4gQQ70A11w4IlXLoJhMsON1BbxWlQj7Rj5RTRNBPSqnOg==",
+      "Size": 28509
+    },
+    {
+      "File": "Resources\\License\\NWaves.txt",
+      "Hash": "KRznrVppQi7m6WxWKjB4OjEljIghrMnWf8pLmBacgYV6H0MeLV/Z0dtpkEZkuB9dTPgNsQWYfUK1XrINRNFPSw==",
+      "Size": 1082
+    },
+    {
+      "File": "Resources\\License\\OpenAI Text-to-Speech.txt",
+      "Hash": "6on8n7A0cWfXJQq+baeY6AOFGH54AQjz3E0kunlnwRM/0OpZISQOHj69eo0yk7lfSTHoTw+C23CXezqbjC9PBw==",
+      "Size": 210
+    },
+    {
+      "File": "Resources\\License\\OpenCV.txt",
+      "Hash": "gyqkKuuEF3yPzKZV1zfoIflizcvBvOAbr1ImAHoyhk3uBQ9F53AcOwQGndassZKEeiTdyjaR/am9RCuk6dWlRw==",
+      "Size": 11561
+    },
+    {
+      "File": "Resources\\License\\OpenCVSharp.txt",
+      "Hash": "/x8n+GVOFwXVj7kZn3zFU4N+N9SOs8Trok8aWEnSzuTXWeCOi/oX6mSx89nj393fWwOLxII2GTAKpzgAQeWT4w==",
+      "Size": 11540
+    },
+    {
+      "File": "Resources\\License\\OpenH264CiscoOfficial.txt",
+      "Hash": "443PUoWwHujxw5Gc6ckvu/PaU6PR2N73RiijDHPfUTNZs1YVFrgxa58GWDz45uos+y9/zhtTAg8Mh5JU6LUd1w==",
+      "Size": 4672
+    },
+    {
+      "File": "Resources\\License\\PsdParser.txt",
+      "Hash": "g7UXFuj4aucjwMeUmbu4qObjjS/3zMF/pwrluNx544kjW8KfO0aUwob/jyDZtYy4rwv2RhP0Fx7bTJedVTa7SA==",
+      "Size": 1093
+    },
+    {
+      "File": "Resources\\License\\ReactiveProperty.txt",
+      "Hash": "OTPC2kccV8g7aYXvTslHqjIhG3ren5qdntiM2AEvwCXm1XA5GOi4IQD3zxAFYt91R/tcIWob/pY7TgM8wImd3w==",
+      "Size": 1112
+    },
+    {
+      "File": "Resources\\License\\SHAREVOX.txt",
+      "Hash": "vQ3R0PoysjshxEbs9qY03aHgl2/9OZ5DXCfcx1rxWIdWVtj6cMiXfc7MnMhjDJx4PhXQeKnRr4s9KkgQHisgZw==",
+      "Size": 257
+    },
+    {
+      "File": "Resources\\License\\SharpCompress.txt",
+      "Hash": "lNfOlPDw74Fpf1m0s+B2LgxIP62Xu0pmI+Heduf2VMQPMcgSkl/QoddnKTlH0bpDoZ1uiqdgmF2TnRAhH4sbQA==",
+      "Size": 1103
+    },
+    {
+      "File": "Resources\\License\\SharpGenTools.txt",
+      "Hash": "AY6Zh7wyZ4eKV3+gb6ytNZXnH0SN5gYA/RItFINkn13i2ePurANaW62uqP5TJMZXbn6JiGGiDuvYfl+8yNiI6Q==",
+      "Size": 1124
+    },
+    {
+      "File": "Resources\\License\\SoundTouch.txt",
+      "Hash": "A2fgLBjfcyBgAiBAJbi6d4smaRJyNxOOfnnm95S4XjoJcAxLYro0wqbpEcxoX+b1aGWvt5LBHkj9KtFSYyCVEw==",
+      "Size": 26966
+    },
+    {
+      "File": "Resources\\License\\Style-Bert-VITS2.txt",
+      "Hash": "ACCwCS1ghtr7sAitae+ZBJwS6/h9TVD6BcE2rDs243+ZSjZIE2fz0EQJ1fj5rCeeRIHNkaYya2VwWYXidLdLUg==",
+      "Size": 442
+    },
+    {
+      "File": "Resources\\License\\TALQu3.txt",
+      "Hash": "B6KkUm61no53Rna+3a7d08KGc0ZR7MSbFEbYyzUO3B05ZEjYwD3m2Kd1JH1kz9RLQNG/iGam6qtJKOorx4HZRQ==",
+      "Size": 157
+    },
+    {
+      "File": "Resources\\License\\UniDic.txt",
+      "Hash": "F24QDGaMs+0/FIims3ua7LcrwJa4IwwrvXzroJmO9/biIl/9J+xeCrMppneFFFvlce6szzGlMvHcrfr2uVBh6g==",
+      "Size": 1784
+    },
+    {
+      "File": "Resources\\License\\VOICEPEAK.txt",
+      "Hash": "UeE/j30jW+SQgBYWPArT1cfHSwubKTpvUOdejA4OOwKhNaf1ZSLu7BRt12pEVeTCjY+zjJd8SzQJgDDIv3W6LA==",
+      "Size": 136
+    },
+    {
+      "File": "Resources\\License\\VOICEVOX Nemo.txt",
+      "Hash": "5pV+2Pj9RWrhTZOrBwKoGyoM9v3R1yXij1h97p9vwP51lxmJAKszw4tewFeZDPfe4K/Gu4UCdsQ/xBmG6b1d4w==",
+      "Size": 292
+    },
+    {
+      "File": "Resources\\License\\VOICEVOX.txt",
+      "Hash": "Xrs0QJGoSzRBO4LRICV1Pp6ZnkYueGo/6tm9WDodUh/B55kAqOi1oJy6HNp0dcSS75zjqJvbLoQBJXhffHl5YQ==",
+      "Size": 271
+    },
+    {
+      "File": "Resources\\License\\Vortice.Windows.txt",
+      "Hash": "Hb1f2sW2ONLfooT4GISlTH27Vyi/0fz+fB86vUomZYZ4WosTncf76bw3vfn/aLdP6AX2uiwpzRNzVxNLsoKmXw==",
+      "Size": 1126
+    },
+    {
+      "File": "Resources\\License\\webgl-noise.txt",
+      "Hash": "n21RzuI21tpq++ab2RlaGcf6zMbapxa/mciKEeWaNayKVoo51PWohhtn2/LUMUYYT9zPRdg7WMWRlxzi4cRT2A==",
+      "Size": 1166
+    },
+    {
+      "File": "Resources\\License\\うずらフォント.txt",
+      "Hash": "h60yFUFz3M+bcp5UtwKFKBFhhgLU1hG0MxgJvv/wrCqXaCk2drGpsplTa3+g44SSatvBmALkrucVmTjL5mhpSw==",
+      "Size": 117
+    },
+    {
+      "File": "Resources\\License\\にじボイス.txt",
+      "Hash": "i9WBdeerrxhzEnVGH/6mdVFMsXwUv4oQzhnzJdiPzibqJEugHZPeqaLJNRFLm9knLZPC2tynBLd/kvXdio2X1A==",
+      "Size": 742
+    },
+    {
+      "File": "Resources\\License\\ゆっくりMovieMaker4.txt",
+      "Hash": "kIqLhjdmMD0uV0kfLv8DwF7rsPmlsivSL//+Dc+x+zcRt1aQxDgavJR3UrAwZmL0aFZAvOg9mMhKgP3l/1QCQA==",
+      "Size": 1461
+    },
+    {
+      "File": "Resources\\License\\よみてのれゐ.txt",
+      "Hash": "GZArJDusj4m6Mxep31gOvkQ653rdwScHQB/XPDpDwx8UUHps9ACU8YvJVUe7Q4uH18JFq5DccHdyAbD5kFni2g==",
+      "Size": 285
+    },
+    {
+      "File": "Resources\\Tool\\32bitOSで起動するようにする.bat",
+      "Hash": "FE0NFQbRo8ddJA2CmX52VZWu+T2mQej0sRBOEYLyVQBsvV1Wl41Qt87gpTIlurzWjzJhBdf3FMe5NcpqwoIolQ==",
+      "Size": 197
+    },
+    {
+      "File": "Resources\\Tool\\デスクトップにダンプファイルを出力.bat",
+      "Hash": "WC27DQ9+QhDQvKfIh/FMxPLirJ+6Msi+tQaVX0ipu3h/sEZF0XmroP7eD3GaeglsXViKnJsozX+WMISddzJVGg==",
+      "Size": 58
+    },
+    {
+      "File": "Resources\\Tool\\プロジェクトファイルの関連付け.bat",
+      "Hash": "0hd1Yxpx+348x0HkpX7rrnvL0uJN2hVMHiRMgGjXmOAfZppAik7ayOfsnpdHyrHHXYuRHOqqHlTEil4mTgo91w==",
+      "Size": 3116
+    },
+    {
+      "File": "Resources\\Transition\\ワイプ横.png",
+      "Hash": "32+QYD6MGXclwQbtetFQnzD6SZPalxaAfT5jQ5q41NIXQznqsCLxBwwIgbFJN+7yrdVdjxYtORLLe5J1cQEUPg==",
+      "Size": 16586
+    },
+    {
+      "File": "Resources\\Transition\\ワイプ縦.png",
+      "Hash": "ZoC4dm4ChcruWW5V53Hlg3qyQ484qyjNUvsd0A6+qp0Rmm5OFrCYOoztybakML+srPw7fE+xE9O5inrzUPSlGw==",
+      "Size": 17579
+    },
+    {
+      "File": "Resources\\Transition\\円.png",
+      "Hash": "c0I4hPM/7siyoJTMi9CK5jnwjw173PknbQbP/8jWl+w4phLJ178WF91V0ucttr1epuVckB1MHDWgnu4BTvY8vQ==",
+      "Size": 313116
+    },
+    {
+      "File": "Resources\\Transition\\四角.png",
+      "Hash": "P86zMJt4M/HdZ8qhikYWdlkpXN8Hzqd+GvxMiJDaZAyU4bj9H2DigKrMNPCsjp7uN3bDsPb5IpOjMhbYoBzSXw==",
+      "Size": 239697
+    },
+    {
+      "File": "Resources\\Transition\\時計回り.png",
+      "Hash": "vU1S7RbVfJthXzNzud3Glx78mwPUczU6PWvwlHUasD5JFzYAhn5lHmZMvuvhqOjbvfJBEZEhhNDhP3Ld7YS+ug==",
+      "Size": 662216
+    },
+    {
+      "File": "zh-cn\\YukkuriMovieMaker.Plugin.Community.resources.dll",
+      "Hash": "UkkiQbFcKjJb3EZEs+T8Jzin9AEiZHDoMPUJ5pCyy6H/XuP/Vk1Mm/Dv8p6xMxFD6qutj0a+vhlx0rvnNOJUIg==",
+      "Size": 39936
+    },
+    {
+      "File": "zh-cn\\YukkuriMovieMaker.Plugin.resources.dll",
+      "Hash": "S2oWwxqOCObqPB3uvkm6lKHmeqM3wisY5QHTyZ1LAzqFbGbyaUAtUbXUC+SzPkBLg9N0V0BqYLHZw76oWa619g==",
+      "Size": 478208
+    },
+    {
+      "File": "zh-tw\\YukkuriMovieMaker.Plugin.Community.resources.dll",
+      "Hash": "j/okqrXMSDoyLKOw/8gPQ3UYpMTJ7UZ/+dGr5mmDNG9x1g3LVvXGTRCnskwTbjcK/94ScDyLNeeNyyTSjGltOw==",
+      "Size": 40448
+    },
+    {
+      "File": "zh-tw\\YukkuriMovieMaker.Plugin.resources.dll",
+      "Hash": "2EYiGRg44iBN+A8qgHKT+LQ5VXxUhPQejJaCXwd7dnjoMnIhVmKY/RPVzZ4JmbKfVHn+2FzHOIZWvHUYRcSnDA==",
+      "Size": 479744
+    }
+  ],
+  "HashAlgorithm": "SHA512"
+}
